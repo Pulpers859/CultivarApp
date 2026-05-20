@@ -13,6 +13,7 @@ This repo-specific handoff follows the workstation-wide standard in [AI_PROJECT_
 - Stable branch: `main`
 - Working branch: `dev`
 - Expected default branch for normal work: `dev`
+- Sync-first rule: `Before normal work, fetch from the remote first. If the working tree is clean and the active branch tracks the expected upstream, pull with --ff-only before editing. If local changes exist, fetch and reconcile instead of blindly pulling.`
 - If Git is not set up yet for this project, the agent should bootstrap it before doing major feature work.
 
 ## If No Git Exists Yet
@@ -50,6 +51,7 @@ If the GitHub remote is unknown, the agent should finish local bootstrap first a
 ## How The Agent Should Operate
 - Inspect before assuming.
 - Work in the source-of-truth repo only.
+- Sync from GitHub before normal work so the local repo is not stale.
 - Fix root causes, not surface symptoms.
 - Be honest and direct.
 - Prefer architecture/data-flow fixes over hacks.
@@ -61,6 +63,7 @@ If the GitHub remote is unknown, the agent should finish local bootstrap first a
 - Do not silently tolerate poor architecture if it is now a maintenance risk.
 - Handle Git operations when appropriate.
 - Keep normal work on `dev`, not `main`.
+- Before editing on an existing repo, run a fetch and check ahead/behind state; if clean, pull the tracked branch with `--ff-only`.
 - Audit adjacent risks after making fixes.
 - Run the checks that are realistically available in the current environment.
 - Clearly distinguish evidence-backed logic from heuristics.
@@ -86,6 +89,7 @@ After making changes, the agent should do another harsh pass focused on:
 
 ## What The User Wants By Default
 - The user describes the problem in chat.
+- The agent syncs from the tracked remote branch first so local files are current before investigation or edits.
 - The agent investigates directly.
 - The agent makes code changes directly.
 - The agent audits adjacent risks.
@@ -99,14 +103,15 @@ The agent should confirm:
 2. current branch
 3. repo status cleanliness
 4. remote configuration
-5. whether stale copies exist elsewhere
-6. whether the active folder is truly the source of truth
+5. whether the local branch is behind the remote and needs fetch/pull
+6. whether stale copies exist elsewhere
+7. whether the active folder is truly the source of truth
 
 ## Architecture / Product Notes
 - Main product purpose: `A SwiftUI + SwiftData plant care app for tracking plant profiles, care schedules, growth, environments, wishlist items, AI diagnosis, backups, and reminders.`
-- Key modules or directories: `Root Swift source files`, `CultivarAppTests/`, `.claude/`, `Plant.swift`, `SupportingModels.swift`, `MigrationPlan.swift`, `PlantBackupService.swift`, `PlantCareService.swift`, `NotificationService.swift`, `ClaudeService.swift`, `SettingsView.swift`
-- Known fragile areas: `SwiftData schema evolution and migration`, `backup/import/recovery flows`, `watering date math and reminder scheduling`, `destructive delete/cascade behavior`, `AI key/config/request handling`, `the missing Xcode project/workspace itself`
-- Important evidence/product constraints: `This repo currently contains source files only and no .xcodeproj or .xcworkspace. Do not claim build/test verification unless a real Apple project has been restored. iOS 17 is required for the current SwiftData and SwiftUI usage. Data safety matters more than UI polish.`
+- Key modules or directories: `Cultivar/`, `Cultivar.xcodeproj/`, `CultivarAppTests/`, `.claude/`, `Cultivar/Plant.swift`, `Cultivar/SupportingModels.swift`, `Cultivar/MigrationPlan.swift`, `Cultivar/PlantBackupService.swift`, `Cultivar/PlantCareService.swift`, `Cultivar/NotificationService.swift`, `Cultivar/ClaudeService.swift`, `Cultivar/SettingsView.swift`
+- Known fragile areas: `SwiftData schema evolution and migration`, `backup/import/recovery flows`, `watering date math and reminder scheduling`, `destructive delete/cascade behavior`, `AI key/config/request handling`, `filesystem/Xcode project path drift between Cultivar.xcodeproj and the Cultivar/ folder`
+- Important evidence/product constraints: `This repo now includes Cultivar.xcodeproj and a filesystem-synchronized Cultivar/ app folder. Do not claim Apple build/test verification unless a real Xcode environment was used. iOS 17 is required for the current SwiftData and SwiftUI usage. Data safety matters more than UI polish.`
 - Runtime environments that matter: `iOS simulator`, `physical iPhone/iPad`, `Apple build environment with Xcode`, `local Windows repo maintenance for source control only`
 
 ## Git / Release Notes
@@ -137,6 +142,7 @@ Important:
 - Ignore C:\Users\Patrick's Computer\OneDrive - WV School of Osteopathic Medicine\Desktop\CultivarApp for normal work.
 - If Git is not already set up, bootstrap it using the repo standard in this file before major feature work.
 - Use the standard workflow: investigate directly, fix root causes, audit adjacent risks, run checks, and handle Git when appropriate.
+- Before starting normal work, fetch from origin and sync the active branch first when the working tree is clean. If the repo is dirty, fetch and reconcile instead of pulling blindly.
 - The main product risk areas are SwiftData migration safety, backup/recovery, reminder date logic, and destructive data flows.
 - If multiple surfaces exist, prioritize the main iOS app before exploring side surfaces.
 - If the GitHub remote is unknown, finish local repo setup first and ask for the remote only when needed for push/setup.

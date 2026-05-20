@@ -3,15 +3,15 @@
 Product quality comes first. Keep the AI layer small, explicit, and useful.
 
 ## What This Project Actually Is
-- A single-app SwiftUI + SwiftData codebase with most source files at repo root.
-- No `.xcodeproj` is checked in here, so do not pretend builds/tests ran unless a real Xcode project is available and used.
+- A single-app SwiftUI + SwiftData codebase with app sources under `Cultivar/`, tests under `CultivarAppTests/`, and the checked-in Xcode project under `Cultivar.xcodeproj/`.
+- Do not pretend Apple builds/tests ran unless a real Xcode environment was used.
 - The app's real risk is not styling polish. It is losing plant data, drifting reminder logic, or breaking backup/recovery flows.
 
 ## Highest-Risk Surfaces
-1. SwiftData schema changes in `Plant.swift`, `SupportingModels.swift`, and `MigrationPlan.swift`
-2. Backup, import, automatic recovery, and recovery-store behavior in `SettingsView.swift`, `PlantBackupService.swift`, `ContentView.swift`, and `CultivarApp.swift`
-3. Watering date math and reminder scheduling in `WateringSchedule.swift`, `PlantCareService.swift`, `NotificationService.swift`, and `ContentView.swift`
-4. AI request/config/parsing behavior in `ClaudeService.swift`, `Config.swift`, `PlantSpeciesDatabase.swift`, `PlantDiagnosisView.swift`, and `AddPlantView.swift`
+1. SwiftData schema changes in `Cultivar/Plant.swift`, `Cultivar/SupportingModels.swift`, and `Cultivar/MigrationPlan.swift`
+2. Backup, import, automatic recovery, and recovery-store behavior in `Cultivar/SettingsView.swift`, `Cultivar/PlantBackupService.swift`, `Cultivar/ContentView.swift`, and `Cultivar/CultivarApp.swift`
+3. Watering date math and reminder scheduling in `Cultivar/WateringSchedule.swift`, `Cultivar/PlantCareService.swift`, `Cultivar/NotificationService.swift`, and `Cultivar/ContentView.swift`
+4. AI request/config/parsing behavior in `Cultivar/ClaudeService.swift`, `Cultivar/Config.swift`, `Cultivar/PlantSpeciesDatabase.swift`, `Cultivar/PlantDiagnosisView.swift`, and `Cultivar/AddPlantView.swift`
 5. Destructive flows like delete, clear-all, and cascade behavior covered by `DeletionBehaviorTests.swift`
 
 ## Default Workflow

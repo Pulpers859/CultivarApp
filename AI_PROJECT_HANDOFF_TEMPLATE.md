@@ -46,6 +46,7 @@ Each project should have:
 - If a placeholder GitHub repo exists, replace it carefully with the real project history.
 - If the GitHub remote is unknown, finish local bootstrap first and ask for the remote only when push/setup is actually needed.
 - Before the first push, run a secret scan and move any live keys/tokens out of tracked files into ignored local config files.
+- Before normal work on an existing repo, fetch first so the local repo is not stale. If the working tree is clean, pull the tracked branch with `--ff-only`; if it is dirty, fetch and reconcile before editing.
 
 ### 4. Branching Standard
 - `main` = stable branch
@@ -88,6 +89,7 @@ If a project currently lives in OneDrive/Desktop:
 
 The AI agent should operate like this by default:
 - the user describes the issue in chat
+- the agent fetches from the tracked remote branch first so the local repo is current before investigation or edits
 - the agent investigates the code directly
 - the agent makes root-cause fixes, not surface patches
 - the agent audits adjacent risks after the fix
@@ -111,8 +113,9 @@ The agent should first confirm:
 2. current branch
 3. repo cleanliness/status
 4. GitHub remote
-5. whether a stale OneDrive/Desktop copy exists
-6. whether the active repo is the true source of truth
+5. whether the local branch is behind the remote and needs fetch/pull
+6. whether a stale OneDrive/Desktop copy exists
+7. whether the active repo is the true source of truth
 
 ---
 
@@ -120,6 +123,8 @@ The agent should first confirm:
 
 ### Everyday Work
 ```powershell
+git fetch --prune
+git pull --ff-only
 git st
 git diff
 git add .
@@ -167,6 +172,7 @@ Important:
 - Treat the active repo path above as the source of truth.
 - Do not assume a Desktop or OneDrive copy is the real working repo.
 - Inspect the current repo state before making assumptions.
+- Fetch first and sync the tracked branch before normal work when the repo is clean.
 - Use direct code edits and root-cause fixes.
 - Handle Git operations for me when appropriate.
 - Keep normal work on `dev`, not `main`.
@@ -178,7 +184,7 @@ Important:
 
 Default behavior:
 - I describe the issue in chat
-- you investigate, fix it at the root, audit adjacent risks, run checks you can run, and handle Git when appropriate
+- you sync first, then investigate, fix it at the root, audit adjacent risks, run checks you can run, and handle Git when appropriate
 - do not make me manually manage PowerShell/Git unless there is a real reason
 ```
 
@@ -230,6 +236,7 @@ Important:
   - local pre-commit hook blocking direct commits to `main`
 
 Default behavior:
+- Sync from the tracked remote branch first when the repo is clean
 - Investigate issues from chat
 - Fix them directly in the codebase
 - Audit adjacent risks
