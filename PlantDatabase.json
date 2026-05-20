@@ -1,0 +1,5253 @@
+[
+  {
+    "scientificName": "Adiantum raddianum",
+    "commonNames": [
+      "Maidenhair Fern"
+    ],
+    "family": "Pteridaceae",
+    "wateringFrequency": "Every 2-3 days",
+    "wateringNotes": "Never let soil dry out. Consistently moist at all times. The diva of ferns.",
+    "lightRequirement": "Medium indirect light",
+    "lightDetails": "Gentle filtered light. Direct sun burns delicate fronds instantly.",
+    "humidityPreference": "High (70-90%)",
+    "temperatureRange": "60-75°F (16-24°C)",
+    "soilType": "Rich, moisture-retaining peat-based mix",
+    "fertilizerSchedule": "Monthly spring through summer with very diluted fertilizer",
+    "toxicity": "Non-toxic to cats and dogs",
+    "growthRate": "Moderate",
+    "matureSize": "1-2 ft",
+    "commonIssues": [
+      "Crispy fronds from any missed watering or low humidity",
+      "Dies back easily — can regrow from roots",
+      "Very demanding humidity needs"
+    ],
+    "propagationMethods": [
+      "Division",
+      "Spores (very difficult)"
+    ],
+    "quickTips": [
+      "The most dramatic houseplant — lives for humidity or dies",
+      "If it dies back, cut everything off and keep watering — it may regrow",
+      "Bathroom with window is ideal placement"
+    ],
+    "source": "bundled",
+    "dateAdded": "2026-01-01T00:00:00Z"
+  },
+  {
+    "scientificName": "Aeonium arboreum",
+    "commonNames": [
+      "Tree Aeonium",
+      "Irish Rose"
+    ],
+    "family": "Crassulaceae",
+    "wateringFrequency": "Every 14-21 days",
+    "wateringNotes": "Soak thoroughly, then let soil dry completely.",
+    "lightRequirement": "Bright indirect to bright direct light",
+    "lightDetails": "Most grow compactly with strong light.",
+    "humidityPreference": "Low (25-45%)",
+    "temperatureRange": "60-85°F (16-29°C)",
+    "soilType": "Cactus/succulent mix with extra grit",
+    "fertilizerSchedule": "Once monthly in spring and summer, lightly",
+    "toxicity": "Mildly toxic to cats and dogs if ingested",
+    "growthRate": "Slow to moderate",
+    "matureSize": "4 inches to 3 ft indoors",
+    "commonIssues": [
+      "Rot from overwatering",
+      "Stretching in low light",
+      "Soft growth from poor drainage"
+    ],
+    "propagationMethods": [
+      "Leaf or stem cuttings",
+      "Offsets"
+    ],
+    "quickTips": [
+      "Terracotta pots help prevent rot",
+      "More light usually means better form",
+      "Water less in winter"
+    ],
+    "source": "bundled",
+    "dateAdded": "2026-01-01T00:00:00Z"
+  },
+  {
+    "scientificName": "Aeschynanthus radicans",
+    "commonNames": [
+      "Lipstick Plant"
+    ],
+    "family": "Gesneriaceae",
+    "wateringFrequency": "Every 7-10 days",
+    "wateringNotes": "Let top inch dry between waterings. Slightly less in winter.",
+    "lightRequirement": "Bright indirect light",
+    "lightDetails": "Blooms best with bright light. Tolerates medium light but won't flower.",
+    "humidityPreference": "Medium to high (50-70%)",
+    "temperatureRange": "65-80°F (18-27°C)",
+    "soilType": "Light, well-draining mix with peat and perlite",
+    "fertilizerSchedule": "Every 2 weeks during growing season with diluted fertilizer",
+    "toxicity": "Non-toxic to cats and dogs",
+    "growthRate": "Moderate",
+    "matureSize": "Trailing stems 2-3 ft",
+    "commonIssues": [
+      "No blooms without enough light",
+      "Leaf drop from cold drafts",
+      "Leggy growth — prune after flowering"
+    ],
+    "propagationMethods": [
+      "Stem cuttings"
+    ],
+    "quickTips": [
+      "Flowers emerge from tube-like calyxes like lipstick — hence the name",
+      "Prune after blooming to maintain shape",
+      "Gorgeous in hanging baskets"
+    ],
+    "source": "bundled",
+    "dateAdded": "2026-01-01T00:00:00Z"
+  },
+  {
+    "scientificName": "Aglaonema commutatum",
+    "commonNames": [
+      "Chinese Evergreen",
+      "Aglaonema"
+    ],
+    "family": "Araceae",
+    "wateringFrequency": "Every 7-10 days",
+    "wateringNotes": "Let top inch dry between waterings. Tolerates some inconsistency.",
+    "lightRequirement": "Low to medium indirect light",
+    "lightDetails": "Dark green varieties handle low light. Pink/red varieties need more light for color.",
+    "humidityPreference": "Medium (40-60%)",
+    "temperatureRange": "60-80°F (16-27°C)",
+    "soilType": "Well-draining potting mix",
+    "fertilizerSchedule": "Every 2-3 months during growing season",
+    "toxicity": "Toxic to cats and dogs",
+    "growthRate": "Slow to moderate",
+    "matureSize": "1-3 ft",
+    "commonIssues": [
+      "Brown edges from cold air or dry conditions",
+      "Yellow leaves from overwatering",
+      "Slow growth in low light"
+    ],
+    "propagationMethods": [
+      "Stem cuttings",
+      "Division"
+    ],
+    "quickTips": [
+      "One of the best low-light houseplants",
+      "Many colorful varieties available",
+      "Avoid cold drafts from windows or AC"
+    ],
+    "source": "bundled",
+    "dateAdded": "2026-01-01T00:00:00Z"
+  },
+  {
+    "scientificName": "Aglaonema modestum",
+    "commonNames": [
+      "Chinese Evergreen",
+      "Aglaonema"
+    ],
+    "family": "Araceae",
+    "wateringFrequency": "Every 6-10 days",
+    "wateringNotes": "Keep slightly moist; avoid prolonged soggy soil.",
+    "lightRequirement": "Bright indirect light",
+    "lightDetails": "Morning sun can help, harsh midday sun can scorch.",
+    "humidityPreference": "Medium to high (45-70%)",
+    "temperatureRange": "65-82°F (18-28°C)",
+    "soilType": "Rich, well-draining indoor mix",
+    "fertilizerSchedule": "Monthly during active growth",
+    "toxicity": "Toxic to cats and dogs (calcium oxalate crystals)",
+    "growthRate": "Moderate",
+    "matureSize": "1-5 ft indoors",
+    "commonIssues": [
+      "Leaf browning from dry air",
+      "Slow growth in low light",
+      "Root issues in compacted soil"
+    ],
+    "propagationMethods": [
+      "Stem cuttings",
+      "Division"
+    ],
+    "quickTips": [
+      "Good airflow helps prevent pests",
+      "Use filtered water if tips brown",
+      "Repot when roots circle the pot"
+    ],
+    "source": "bundled",
+    "dateAdded": "2026-01-01T00:00:00Z"
+  },
+  {
+    "scientificName": "Alocasia cuprea",
+    "commonNames": [
+      "Red Secret Alocasia",
+      "Mirror Plant"
+    ],
+    "family": "Araceae",
+    "wateringFrequency": "Every 7-10 days",
+    "wateringNotes": "Let top inch of soil dry between waterings.",
+    "lightRequirement": "Bright indirect light",
+    "lightDetails": "Avoid harsh direct sun; brighter indirect light supports larger leaves.",
+    "humidityPreference": "Medium to high (50-70%)",
+    "temperatureRange": "65-85°F (18-29°C)",
+    "soilType": "Chunky well-draining aroid mix",
+    "fertilizerSchedule": "Monthly during growing season",
+    "toxicity": "Toxic to cats and dogs",
+    "growthRate": "Moderate",
+    "matureSize": "2-6 ft indoors",
+    "commonIssues": [
+      "Yellow leaves from overwatering",
+      "Leggy growth in low light",
+      "Brown edges from dry air"
+    ],
+    "propagationMethods": [
+      "Stem cuttings",
+      "Division (when applicable)"
+    ],
+    "quickTips": [
+      "Use a support pole for larger leaves",
+      "Rotate for even growth",
+      "Check roots yearly"
+    ],
+    "source": "bundled",
+    "dateAdded": "2026-01-01T00:00:00Z"
+  },
+  {
+    "scientificName": "Alocasia macrorrhizos",
+    "commonNames": [
+      "Giant Taro",
+      "Elephant Ear"
+    ],
+    "family": "Araceae",
+    "wateringFrequency": "Every 7-10 days",
+    "wateringNotes": "Let top inch of soil dry between waterings.",
+    "lightRequirement": "Bright indirect light",
+    "lightDetails": "Avoid harsh direct sun; brighter indirect light supports larger leaves.",
+    "humidityPreference": "Medium to high (50-70%)",
+    "temperatureRange": "65-85°F (18-29°C)",
+    "soilType": "Chunky well-draining aroid mix",
+    "fertilizerSchedule": "Monthly during growing season",
+    "toxicity": "Toxic to cats and dogs",
+    "growthRate": "Moderate",
+    "matureSize": "2-6 ft indoors",
+    "commonIssues": [
+      "Yellow leaves from overwatering",
+      "Leggy growth in low light",
+      "Brown edges from dry air"
+    ],
+    "propagationMethods": [
+      "Stem cuttings",
+      "Division (when applicable)"
+    ],
+    "quickTips": [
+      "Use a support pole for larger leaves",
+      "Rotate for even growth",
+      "Check roots yearly"
+    ],
+    "source": "bundled",
+    "dateAdded": "2026-01-01T00:00:00Z"
+  },
+  {
+    "scientificName": "Alocasia micholitziana",
+    "commonNames": [
+      "Green Velvet Alocasia",
+      "Frydek"
+    ],
+    "family": "Araceae",
+    "wateringFrequency": "Every 7-10 days",
+    "wateringNotes": "Let top inch of soil dry between waterings.",
+    "lightRequirement": "Bright indirect light",
+    "lightDetails": "Avoid harsh direct sun; brighter indirect light supports larger leaves.",
+    "humidityPreference": "Medium to high (50-70%)",
+    "temperatureRange": "65-85°F (18-29°C)",
+    "soilType": "Chunky well-draining aroid mix",
+    "fertilizerSchedule": "Monthly during growing season",
+    "toxicity": "Toxic to cats and dogs",
+    "growthRate": "Moderate",
+    "matureSize": "2-6 ft indoors",
+    "commonIssues": [
+      "Yellow leaves from overwatering",
+      "Leggy growth in low light",
+      "Brown edges from dry air"
+    ],
+    "propagationMethods": [
+      "Stem cuttings",
+      "Division (when applicable)"
+    ],
+    "quickTips": [
+      "Use a support pole for larger leaves",
+      "Rotate for even growth",
+      "Check roots yearly"
+    ],
+    "source": "bundled",
+    "dateAdded": "2026-01-01T00:00:00Z"
+  },
+  {
+    "scientificName": "Alocasia polly",
+    "commonNames": [
+      "African Mask Plant",
+      "Alocasia Polly",
+      "Elephant Ear"
+    ],
+    "family": "Araceae",
+    "wateringFrequency": "Every 5-7 days",
+    "wateringNotes": "Keep soil consistently moist but not waterlogged. Reduce in dormancy.",
+    "lightRequirement": "Bright indirect light",
+    "lightDetails": "No direct sun. Leaf markings are most vivid in bright indirect light.",
+    "humidityPreference": "High (60-80%)",
+    "temperatureRange": "65-80°F (18-27°C)",
+    "soilType": "Well-draining aroid mix with perlite and coco coir",
+    "fertilizerSchedule": "Every 2 weeks spring through summer with diluted fertilizer",
+    "toxicity": "Toxic to cats, dogs, and children",
+    "growthRate": "Moderate",
+    "matureSize": "1-2 ft",
+    "commonIssues": [
+      "Dormancy in winter (may lose all leaves — it's alive!)",
+      "Spider mites in dry air",
+      "Yellow leaves from overwatering"
+    ],
+    "propagationMethods": [
+      "Division of rhizomes",
+      "Offsets"
+    ],
+    "quickTips": [
+      "Don't panic if it drops leaves in winter — tuber is dormant",
+      "High humidity is non-negotiable",
+      "Dramatic foliage, dramatic personality"
+    ],
+    "source": "bundled",
+    "dateAdded": "2026-01-01T00:00:00Z"
+  },
+  {
+    "scientificName": "Alocasia zebrina",
+    "commonNames": [
+      "Zebra Alocasia",
+      "Elephant Ear"
+    ],
+    "family": "Araceae",
+    "wateringFrequency": "Every 7-10 days",
+    "wateringNotes": "Let top inch of soil dry between waterings.",
+    "lightRequirement": "Bright indirect light",
+    "lightDetails": "Avoid harsh direct sun; brighter indirect light supports larger leaves.",
+    "humidityPreference": "Medium to high (50-70%)",
+    "temperatureRange": "65-85°F (18-29°C)",
+    "soilType": "Chunky well-draining aroid mix",
+    "fertilizerSchedule": "Monthly during growing season",
+    "toxicity": "Toxic to cats and dogs",
+    "growthRate": "Moderate",
+    "matureSize": "2-6 ft indoors",
+    "commonIssues": [
+      "Yellow leaves from overwatering",
+      "Leggy growth in low light",
+      "Brown edges from dry air"
+    ],
+    "propagationMethods": [
+      "Stem cuttings",
+      "Division (when applicable)"
+    ],
+    "quickTips": [
+      "Use a support pole for larger leaves",
+      "Rotate for even growth",
+      "Check roots yearly"
+    ],
+    "source": "bundled",
+    "dateAdded": "2026-01-01T00:00:00Z"
+  },
+  {
+    "scientificName": "Aloe aristata",
+    "commonNames": [
+      "Lace Aloe",
+      "Guinea-fowl Aloe"
+    ],
+    "family": "Asphodelaceae",
+    "wateringFrequency": "Every 14-21 days",
+    "wateringNotes": "Soak thoroughly, then let soil dry completely.",
+    "lightRequirement": "Bright indirect to bright direct light",
+    "lightDetails": "Most grow compactly with strong light.",
+    "humidityPreference": "Low (25-45%)",
+    "temperatureRange": "60-85°F (16-29°C)",
+    "soilType": "Cactus/succulent mix with extra grit",
+    "fertilizerSchedule": "Once monthly in spring and summer, lightly",
+    "toxicity": "Mildly toxic to cats and dogs if ingested",
+    "growthRate": "Slow to moderate",
+    "matureSize": "4 inches to 3 ft indoors",
+    "commonIssues": [
+      "Rot from overwatering",
+      "Stretching in low light",
+      "Soft growth from poor drainage"
+    ],
+    "propagationMethods": [
+      "Leaf or stem cuttings",
+      "Offsets"
+    ],
+    "quickTips": [
+      "Terracotta pots help prevent rot",
+      "More light usually means better form",
+      "Water less in winter"
+    ],
+    "source": "bundled",
+    "dateAdded": "2026-01-01T00:00:00Z"
+  },
+  {
+    "scientificName": "Aloe barbadensis",
+    "commonNames": [
+      "Aloe Vera",
+      "Aloe"
+    ],
+    "family": "Asphodelaceae",
+    "wateringFrequency": "Every 14-21 days",
+    "wateringNotes": "Soak and dry method. Water deeply, then let soil dry completely.",
+    "lightRequirement": "Bright direct to bright indirect light",
+    "lightDetails": "Loves a sunny windowsill. Can sunburn if moved suddenly from shade to full sun.",
+    "humidityPreference": "Low (30-40%)",
+    "temperatureRange": "55-80°F (13-27°C)",
+    "soilType": "Cactus/succulent mix with extra perlite",
+    "fertilizerSchedule": "Once in spring, once in summer with succulent fertilizer",
+    "toxicity": "Mildly toxic to cats and dogs if ingested",
+    "growthRate": "Moderate",
+    "matureSize": "1-2 ft",
+    "commonIssues": [
+      "Mushy leaves from overwatering",
+      "Brown/red leaves from too much direct sun",
+      "Leggy stretching in low light"
+    ],
+    "propagationMethods": [
+      "Offsets (pups)",
+      "Division"
+    ],
+    "quickTips": [
+      "Gel inside leaves soothes minor burns",
+      "Terra cotta pots help prevent overwatering",
+      "Produces pups readily once mature"
+    ],
+    "source": "bundled",
+    "dateAdded": "2026-01-01T00:00:00Z"
+  },
+  {
+    "scientificName": "Aloe juvenna",
+    "commonNames": [
+      "Tiger Tooth Aloe",
+      "Aloe Juvenna"
+    ],
+    "family": "Asphodelaceae",
+    "wateringFrequency": "Every 14-21 days",
+    "wateringNotes": "Soak thoroughly, then let soil dry completely.",
+    "lightRequirement": "Bright indirect to bright direct light",
+    "lightDetails": "Most grow compactly with strong light.",
+    "humidityPreference": "Low (25-45%)",
+    "temperatureRange": "60-85°F (16-29°C)",
+    "soilType": "Cactus/succulent mix with extra grit",
+    "fertilizerSchedule": "Once monthly in spring and summer, lightly",
+    "toxicity": "Mildly toxic to cats and dogs if ingested",
+    "growthRate": "Slow to moderate",
+    "matureSize": "4 inches to 3 ft indoors",
+    "commonIssues": [
+      "Rot from overwatering",
+      "Stretching in low light",
+      "Soft growth from poor drainage"
+    ],
+    "propagationMethods": [
+      "Leaf or stem cuttings",
+      "Offsets"
+    ],
+    "quickTips": [
+      "Terracotta pots help prevent rot",
+      "More light usually means better form",
+      "Water less in winter"
+    ],
+    "source": "bundled",
+    "dateAdded": "2026-01-01T00:00:00Z"
+  },
+  {
+    "scientificName": "Anthurium andraeanum",
+    "commonNames": [
+      "Anthurium",
+      "Flamingo Flower",
+      "Laceleaf"
+    ],
+    "family": "Araceae",
+    "wateringFrequency": "Every 7-10 days",
+    "wateringNotes": "Let top inch dry between waterings. Likes consistent moisture.",
+    "lightRequirement": "Bright indirect light",
+    "lightDetails": "Blooms best in bright indirect. No direct sun.",
+    "humidityPreference": "High (60-80%)",
+    "temperatureRange": "65-80°F (18-27°C)",
+    "soilType": "Chunky, well-draining orchid-type mix",
+    "fertilizerSchedule": "Every 6-8 weeks with diluted liquid fertilizer",
+    "toxicity": "Toxic to cats and dogs",
+    "growthRate": "Moderate",
+    "matureSize": "1-2 ft",
+    "commonIssues": [
+      "Brown leaf tips from low humidity",
+      "Yellow leaves from overwatering",
+      "No blooms without enough light"
+    ],
+    "propagationMethods": [
+      "Division",
+      "Stem cuttings"
+    ],
+    "quickTips": [
+      "The colorful 'flower' is actually a modified leaf (spathe)",
+      "Blooms can last 2-3 months",
+      "Wipe leaves to keep glossy"
+    ],
+    "source": "bundled",
+    "dateAdded": "2026-01-01T00:00:00Z"
+  },
+  {
+    "scientificName": "Anthurium clarinervium",
+    "commonNames": [
+      "Velvet Anthurium",
+      "Clarinervium"
+    ],
+    "family": "Araceae",
+    "wateringFrequency": "Every 7-10 days",
+    "wateringNotes": "Let top inch of soil dry between waterings.",
+    "lightRequirement": "Bright indirect light",
+    "lightDetails": "Avoid harsh direct sun; brighter indirect light supports larger leaves.",
+    "humidityPreference": "Medium to high (50-70%)",
+    "temperatureRange": "65-85°F (18-29°C)",
+    "soilType": "Chunky well-draining aroid mix",
+    "fertilizerSchedule": "Monthly during growing season",
+    "toxicity": "Toxic to cats and dogs",
+    "growthRate": "Moderate",
+    "matureSize": "2-6 ft indoors",
+    "commonIssues": [
+      "Yellow leaves from overwatering",
+      "Leggy growth in low light",
+      "Brown edges from dry air"
+    ],
+    "propagationMethods": [
+      "Stem cuttings",
+      "Division (when applicable)"
+    ],
+    "quickTips": [
+      "Use a support pole for larger leaves",
+      "Rotate for even growth",
+      "Check roots yearly"
+    ],
+    "source": "bundled",
+    "dateAdded": "2026-01-01T00:00:00Z"
+  },
+  {
+    "scientificName": "Anthurium crystallinum",
+    "commonNames": [
+      "Crystal Anthurium",
+      "Velvet Cardboard Anthurium"
+    ],
+    "family": "Araceae",
+    "wateringFrequency": "Every 7-10 days",
+    "wateringNotes": "Let top inch of soil dry between waterings.",
+    "lightRequirement": "Bright indirect light",
+    "lightDetails": "Avoid harsh direct sun; brighter indirect light supports larger leaves.",
+    "humidityPreference": "Medium to high (50-70%)",
+    "temperatureRange": "65-85°F (18-29°C)",
+    "soilType": "Chunky well-draining aroid mix",
+    "fertilizerSchedule": "Monthly during growing season",
+    "toxicity": "Toxic to cats and dogs",
+    "growthRate": "Moderate",
+    "matureSize": "2-6 ft indoors",
+    "commonIssues": [
+      "Yellow leaves from overwatering",
+      "Leggy growth in low light",
+      "Brown edges from dry air"
+    ],
+    "propagationMethods": [
+      "Stem cuttings",
+      "Division (when applicable)"
+    ],
+    "quickTips": [
+      "Use a support pole for larger leaves",
+      "Rotate for even growth",
+      "Check roots yearly"
+    ],
+    "source": "bundled",
+    "dateAdded": "2026-01-01T00:00:00Z"
+  },
+  {
+    "scientificName": "Anthurium magnificum",
+    "commonNames": [
+      "Magnificent Anthurium",
+      "Velvet Anthurium"
+    ],
+    "family": "Araceae",
+    "wateringFrequency": "Every 7-10 days",
+    "wateringNotes": "Let top inch of soil dry between waterings.",
+    "lightRequirement": "Bright indirect light",
+    "lightDetails": "Avoid harsh direct sun; brighter indirect light supports larger leaves.",
+    "humidityPreference": "Medium to high (50-70%)",
+    "temperatureRange": "65-85°F (18-29°C)",
+    "soilType": "Chunky well-draining aroid mix",
+    "fertilizerSchedule": "Monthly during growing season",
+    "toxicity": "Toxic to cats and dogs",
+    "growthRate": "Moderate",
+    "matureSize": "2-6 ft indoors",
+    "commonIssues": [
+      "Yellow leaves from overwatering",
+      "Leggy growth in low light",
+      "Brown edges from dry air"
+    ],
+    "propagationMethods": [
+      "Stem cuttings",
+      "Division (when applicable)"
+    ],
+    "quickTips": [
+      "Use a support pole for larger leaves",
+      "Rotate for even growth",
+      "Check roots yearly"
+    ],
+    "source": "bundled",
+    "dateAdded": "2026-01-01T00:00:00Z"
+  },
+  {
+    "scientificName": "Anthurium scherzerianum",
+    "commonNames": [
+      "Flamingo Flower",
+      "Pigtail Anthurium"
+    ],
+    "family": "Araceae",
+    "wateringFrequency": "Every 7-10 days",
+    "wateringNotes": "Let top inch of soil dry between waterings.",
+    "lightRequirement": "Bright indirect light",
+    "lightDetails": "Avoid harsh direct sun; brighter indirect light supports larger leaves.",
+    "humidityPreference": "Medium to high (50-70%)",
+    "temperatureRange": "65-85°F (18-29°C)",
+    "soilType": "Chunky well-draining aroid mix",
+    "fertilizerSchedule": "Monthly during growing season",
+    "toxicity": "Toxic to cats and dogs",
+    "growthRate": "Moderate",
+    "matureSize": "2-6 ft indoors",
+    "commonIssues": [
+      "Yellow leaves from overwatering",
+      "Leggy growth in low light",
+      "Brown edges from dry air"
+    ],
+    "propagationMethods": [
+      "Stem cuttings",
+      "Division (when applicable)"
+    ],
+    "quickTips": [
+      "Use a support pole for larger leaves",
+      "Rotate for even growth",
+      "Check roots yearly"
+    ],
+    "source": "bundled",
+    "dateAdded": "2026-01-01T00:00:00Z"
+  },
+  {
+    "scientificName": "Anthurium warocqueanum",
+    "commonNames": [
+      "Queen Anthurium",
+      "Queen of Hearts Anthurium"
+    ],
+    "family": "Araceae",
+    "wateringFrequency": "Every 7-10 days",
+    "wateringNotes": "Let top inch of soil dry between waterings.",
+    "lightRequirement": "Bright indirect light",
+    "lightDetails": "Avoid harsh direct sun; brighter indirect light supports larger leaves.",
+    "humidityPreference": "Medium to high (50-70%)",
+    "temperatureRange": "65-85°F (18-29°C)",
+    "soilType": "Chunky well-draining aroid mix",
+    "fertilizerSchedule": "Monthly during growing season",
+    "toxicity": "Toxic to cats and dogs",
+    "growthRate": "Moderate",
+    "matureSize": "2-6 ft indoors",
+    "commonIssues": [
+      "Yellow leaves from overwatering",
+      "Leggy growth in low light",
+      "Brown edges from dry air"
+    ],
+    "propagationMethods": [
+      "Stem cuttings",
+      "Division (when applicable)"
+    ],
+    "quickTips": [
+      "Use a support pole for larger leaves",
+      "Rotate for even growth",
+      "Check roots yearly"
+    ],
+    "source": "bundled",
+    "dateAdded": "2026-01-01T00:00:00Z"
+  },
+  {
+    "scientificName": "Asplenium nidus",
+    "commonNames": [
+      "Bird's Nest Fern"
+    ],
+    "family": "Aspleniaceae",
+    "wateringFrequency": "Every 5-7 days",
+    "wateringNotes": "Keep soil consistently moist. Water around the edges, never into the central rosette.",
+    "lightRequirement": "Medium indirect light",
+    "lightDetails": "No direct sun. Mimics rainforest floor conditions.",
+    "humidityPreference": "High (60-80%)",
+    "temperatureRange": "60-80°F (16-27°C)",
+    "soilType": "Rich, peat-based mix that retains moisture",
+    "fertilizerSchedule": "Monthly spring through summer with diluted liquid fertilizer",
+    "toxicity": "Non-toxic to cats and dogs",
+    "growthRate": "Slow to moderate",
+    "matureSize": "2-3 ft",
+    "commonIssues": [
+      "Brown leaf tips from low humidity",
+      "Pale fronds from too much light",
+      "Scale insects"
+    ],
+    "propagationMethods": [
+      "Spores (difficult — most people buy new plants)"
+    ],
+    "quickTips": [
+      "Never touch or water into the central crown",
+      "Great bathroom plant with natural humidity",
+      "Fronds are fragile — place away from traffic"
+    ],
+    "source": "bundled",
+    "dateAdded": "2026-01-01T00:00:00Z"
+  },
+  {
+    "scientificName": "Beaucarnea recurvata",
+    "commonNames": [
+      "Ponytail Palm",
+      "Elephant Foot Tree"
+    ],
+    "family": "Asparagaceae",
+    "wateringFrequency": "Every 14-21 days",
+    "wateringNotes": "Soak thoroughly, then let soil dry completely.",
+    "lightRequirement": "Bright indirect to bright direct light",
+    "lightDetails": "Most grow compactly with strong light.",
+    "humidityPreference": "Low (25-45%)",
+    "temperatureRange": "60-85°F (16-29°C)",
+    "soilType": "Cactus/succulent mix with extra grit",
+    "fertilizerSchedule": "Once monthly in spring and summer, lightly",
+    "toxicity": "Non-toxic to cats and dogs",
+    "growthRate": "Slow to moderate",
+    "matureSize": "4 inches to 3 ft indoors",
+    "commonIssues": [
+      "Rot from overwatering",
+      "Stretching in low light",
+      "Soft growth from poor drainage"
+    ],
+    "propagationMethods": [
+      "Leaf or stem cuttings",
+      "Offsets"
+    ],
+    "quickTips": [
+      "Terracotta pots help prevent rot",
+      "More light usually means better form",
+      "Water less in winter"
+    ],
+    "source": "bundled",
+    "dateAdded": "2026-01-01T00:00:00Z"
+  },
+  {
+    "scientificName": "Begonia maculata",
+    "commonNames": [
+      "Polka Dot Begonia",
+      "Spotted Begonia",
+      "Trout Begonia"
+    ],
+    "family": "Begoniaceae",
+    "wateringFrequency": "Every 5-7 days",
+    "wateringNotes": "Water when top inch is dry. Avoid wetting leaves — prone to powdery mildew.",
+    "lightRequirement": "Bright indirect light",
+    "lightDetails": "Needs bright light for polka dots to pop. Direct sun scorches leaves.",
+    "humidityPreference": "Medium to high (50-70%)",
+    "temperatureRange": "65-80°F (18-27°C)",
+    "soilType": "Light, airy mix with perlite and peat",
+    "fertilizerSchedule": "Every 2 weeks spring through summer with diluted liquid fertilizer",
+    "toxicity": "Toxic to cats and dogs",
+    "growthRate": "Fast",
+    "matureSize": "1-3 ft",
+    "commonIssues": [
+      "Powdery mildew from wet leaves",
+      "Leaf drop from overwatering",
+      "Leggy growth — prune for bushiness"
+    ],
+    "propagationMethods": [
+      "Stem cuttings in water",
+      "Leaf cuttings"
+    ],
+    "quickTips": [
+      "Pinch growing tips regularly for bushy growth",
+      "Stunning silver polka dots on dark green leaves",
+      "Crimson red undersides are equally beautiful"
+    ],
+    "source": "bundled",
+    "dateAdded": "2026-01-01T00:00:00Z"
+  },
+  {
+    "scientificName": "Blechnum gibbum",
+    "commonNames": [
+      "Silver Lady Fern",
+      "Dwarf Tree Fern"
+    ],
+    "family": "Blechnaceae",
+    "wateringFrequency": "Every 3-6 days",
+    "wateringNotes": "Keep soil evenly moist but not soggy.",
+    "lightRequirement": "Medium indirect light",
+    "lightDetails": "Filtered light is ideal; direct sun scorches fronds.",
+    "humidityPreference": "High (60-80%)",
+    "temperatureRange": "60-78°F (16-26°C)",
+    "soilType": "Moisture-retaining, well-draining potting mix",
+    "fertilizerSchedule": "Monthly at half strength in spring and summer",
+    "toxicity": "Non-toxic to cats and dogs",
+    "growthRate": "Moderate",
+    "matureSize": "1-3 ft indoors",
+    "commonIssues": [
+      "Crispy fronds from low humidity",
+      "Browning from missed watering",
+      "Pests in dry air"
+    ],
+    "propagationMethods": [
+      "Division",
+      "Spores (advanced)"
+    ],
+    "quickTips": [
+      "Humidity is key",
+      "Avoid drying out completely",
+      "Trim old fronds regularly"
+    ],
+    "source": "bundled",
+    "dateAdded": "2026-01-01T00:00:00Z"
+  },
+  {
+    "scientificName": "Caladium bicolor",
+    "commonNames": [
+      "Caladium",
+      "Heart of Jesus"
+    ],
+    "family": "Araceae",
+    "wateringFrequency": "Every 6-10 days",
+    "wateringNotes": "Keep slightly moist; avoid prolonged soggy soil.",
+    "lightRequirement": "Bright indirect light",
+    "lightDetails": "Morning sun can help, harsh midday sun can scorch.",
+    "humidityPreference": "Medium to high (45-70%)",
+    "temperatureRange": "65-82°F (18-28°C)",
+    "soilType": "Rich, well-draining indoor mix",
+    "fertilizerSchedule": "Monthly during active growth",
+    "toxicity": "Toxic to cats and dogs (calcium oxalate crystals)",
+    "growthRate": "Moderate",
+    "matureSize": "1-5 ft indoors",
+    "commonIssues": [
+      "Leaf browning from dry air",
+      "Slow growth in low light",
+      "Root issues in compacted soil"
+    ],
+    "propagationMethods": [
+      "Stem cuttings",
+      "Division"
+    ],
+    "quickTips": [
+      "Good airflow helps prevent pests",
+      "Use filtered water if tips brown",
+      "Repot when roots circle the pot"
+    ],
+    "source": "bundled",
+    "dateAdded": "2026-01-01T00:00:00Z"
+  },
+  {
+    "scientificName": "Calathea makoyana",
+    "commonNames": [
+      "Peacock Plant",
+      "Cathedral Windows"
+    ],
+    "family": "Marantaceae",
+    "wateringFrequency": "Every 5-7 days",
+    "wateringNotes": "Keep evenly moist. Distilled or rain water strongly recommended.",
+    "lightRequirement": "Medium indirect light",
+    "lightDetails": "Avoid any direct sun. Patterns fade in too much light, growth slows in too little.",
+    "humidityPreference": "High (60-80%)",
+    "temperatureRange": "65-80°F (18-27°C)",
+    "soilType": "Rich, well-draining peat-based mix",
+    "fertilizerSchedule": "Monthly spring through summer with diluted fertilizer",
+    "toxicity": "Non-toxic to cats and dogs",
+    "growthRate": "Moderate",
+    "matureSize": "1-2 ft",
+    "commonIssues": [
+      "Crispy edges from low humidity",
+      "Curling leaves from underwatering or cold",
+      "Brown tips from tap water minerals"
+    ],
+    "propagationMethods": [
+      "Division during repotting"
+    ],
+    "quickTips": [
+      "Humidity is everything for Calatheas",
+      "Beautiful light pattern on undersides of leaves",
+      "Group with other tropicals to create a humid microclimate"
+    ],
+    "source": "bundled",
+    "dateAdded": "2026-01-01T00:00:00Z"
+  },
+  {
+    "scientificName": "Calathea orbifolia",
+    "commonNames": [
+      "Calathea",
+      "Prayer Plant",
+      "Round-leaf Calathea"
+    ],
+    "family": "Marantaceae",
+    "wateringFrequency": "Every 5-7 days",
+    "wateringNotes": "Keep soil consistently moist but never soggy. Use filtered or distilled water — very sensitive to minerals.",
+    "lightRequirement": "Medium indirect light",
+    "lightDetails": "No direct sun ever. Leaves will fade and curl. North or east window is ideal.",
+    "humidityPreference": "High (60-80%)",
+    "temperatureRange": "65-80°F (18-27°C)",
+    "soilType": "Rich, well-draining mix with peat and perlite",
+    "fertilizerSchedule": "Monthly spring through summer with diluted fertilizer",
+    "toxicity": "Non-toxic to cats and dogs",
+    "growthRate": "Moderate",
+    "matureSize": "2-3 ft",
+    "commonIssues": [
+      "Crispy brown edges from low humidity or tap water",
+      "Curling leaves from underwatering",
+      "Spider mites in dry conditions"
+    ],
+    "propagationMethods": [
+      "Division during repotting"
+    ],
+    "quickTips": [
+      "Leaves fold up at night (prayer movement)",
+      "Humidifier is almost essential",
+      "Group with other tropicals to boost humidity"
+    ],
+    "source": "bundled",
+    "dateAdded": "2026-01-01T00:00:00Z"
+  },
+  {
+    "scientificName": "Calathea roseopicta",
+    "commonNames": [
+      "Rose-painted Calathea",
+      "Medallion Calathea"
+    ],
+    "family": "Marantaceae",
+    "wateringFrequency": "Every 5-7 days",
+    "wateringNotes": "Keep evenly moist. Use filtered or distilled water only.",
+    "lightRequirement": "Medium indirect light",
+    "lightDetails": "No direct sun. Bright indirect is maximum.",
+    "humidityPreference": "High (60-80%)",
+    "temperatureRange": "65-80°F (18-27°C)",
+    "soilType": "Rich, well-draining peat-based mix",
+    "fertilizerSchedule": "Monthly spring through summer with diluted fertilizer",
+    "toxicity": "Non-toxic to cats and dogs",
+    "growthRate": "Moderate",
+    "matureSize": "1-2 ft",
+    "commonIssues": [
+      "Crispy edges from low humidity or hard water",
+      "Curling leaves from cold or underwatering",
+      "Spider mites in dry air"
+    ],
+    "propagationMethods": [
+      "Division during repotting"
+    ],
+    "quickTips": [
+      "Beautiful painted-looking leaf patterns",
+      "Humidity is the secret to success",
+      "Purple undersides are just as beautiful"
+    ],
+    "source": "bundled",
+    "dateAdded": "2026-01-01T00:00:00Z"
+  },
+  {
+    "scientificName": "Caryota mitis",
+    "commonNames": [
+      "Fishtail Palm",
+      "Clustering Fishtail Palm"
+    ],
+    "family": "Arecaceae",
+    "wateringFrequency": "Every 7-12 days",
+    "wateringNotes": "Water when top 1-2 inches are dry.",
+    "lightRequirement": "Medium to bright indirect light",
+    "lightDetails": "Avoid harsh afternoon sun behind glass.",
+    "humidityPreference": "Medium (40-60%)",
+    "temperatureRange": "65-82°F (18-28°C)",
+    "soilType": "Well-draining indoor palm mix",
+    "fertilizerSchedule": "Every 6-8 weeks in growing season",
+    "toxicity": "Mildly toxic to cats and dogs (skin/mouth irritation possible)",
+    "growthRate": "Slow to moderate",
+    "matureSize": "3-8 ft indoors",
+    "commonIssues": [
+      "Brown tips from dry air",
+      "Yellowing from overwatering",
+      "Spider mites in dry rooms"
+    ],
+    "propagationMethods": [
+      "Seed (most species)",
+      "Division (some clumping palms)"
+    ],
+    "quickTips": [
+      "Keep away from heater vents",
+      "Wipe fronds to reduce dust",
+      "Rotate for balanced growth"
+    ],
+    "source": "bundled",
+    "dateAdded": "2026-01-01T00:00:00Z"
+  },
+  {
+    "scientificName": "Ceropegia woodii",
+    "commonNames": [
+      "String of Hearts",
+      "Chain of Hearts",
+      "Rosary Vine"
+    ],
+    "family": "Apocynaceae",
+    "wateringFrequency": "Every 10-14 days",
+    "wateringNotes": "Let soil dry out between waterings. Tuber stores water. Less in winter.",
+    "lightRequirement": "Bright indirect light",
+    "lightDetails": "Some direct morning sun is fine. Colors are best in bright light.",
+    "humidityPreference": "Low to medium (30-50%)",
+    "temperatureRange": "60-80°F (16-27°C)",
+    "soilType": "Cactus/succulent mix with perlite",
+    "fertilizerSchedule": "Every 2-3 months during growing season",
+    "toxicity": "Non-toxic to cats and dogs",
+    "growthRate": "Fast",
+    "matureSize": "Trailing strings 6-12 ft",
+    "commonIssues": [
+      "Shriveled leaves from underwatering",
+      "Yellowing from overwatering",
+      "Sparse growth in low light"
+    ],
+    "propagationMethods": [
+      "Stem cuttings",
+      "Tuber propagation",
+      "Butterfly method"
+    ],
+    "quickTips": [
+      "Wrap strands on top of soil to fill out pot",
+      "Heart-shaped leaves make it a popular gift",
+      "Develops aerial tubers along vines"
+    ],
+    "source": "bundled",
+    "dateAdded": "2026-01-01T00:00:00Z"
+  },
+  {
+    "scientificName": "Chamaedorea elegans",
+    "commonNames": [
+      "Parlor Palm",
+      "Neanthe Bella Palm"
+    ],
+    "family": "Arecaceae",
+    "wateringFrequency": "Every 7-12 days",
+    "wateringNotes": "Water when top 1-2 inches are dry.",
+    "lightRequirement": "Medium to bright indirect light",
+    "lightDetails": "Avoid harsh afternoon sun behind glass.",
+    "humidityPreference": "Medium (40-60%)",
+    "temperatureRange": "65-82°F (18-28°C)",
+    "soilType": "Well-draining indoor palm mix",
+    "fertilizerSchedule": "Every 6-8 weeks in growing season",
+    "toxicity": "Non-toxic to cats and dogs",
+    "growthRate": "Slow to moderate",
+    "matureSize": "3-8 ft indoors",
+    "commonIssues": [
+      "Brown tips from dry air",
+      "Yellowing from overwatering",
+      "Spider mites in dry rooms"
+    ],
+    "propagationMethods": [
+      "Seed (most species)",
+      "Division (some clumping palms)"
+    ],
+    "quickTips": [
+      "Keep away from heater vents",
+      "Wipe fronds to reduce dust",
+      "Rotate for balanced growth"
+    ],
+    "source": "bundled",
+    "dateAdded": "2026-01-01T00:00:00Z"
+  },
+  {
+    "scientificName": "Chlorophytum comosum",
+    "commonNames": [
+      "Spider Plant",
+      "Airplane Plant"
+    ],
+    "family": "Asparagaceae",
+    "wateringFrequency": "Every 7-10 days",
+    "wateringNotes": "Prefers to dry slightly between waterings. Sensitive to fluoride — use filtered water if tips brown.",
+    "lightRequirement": "Bright indirect light",
+    "lightDetails": "Tolerates low light but grows best in bright indirect. Direct sun can bleach leaves.",
+    "humidityPreference": "Medium (40-60%)",
+    "temperatureRange": "55-80°F (13-27°C)",
+    "soilType": "Standard well-draining potting mix",
+    "fertilizerSchedule": "Every 2-4 weeks spring through summer",
+    "toxicity": "Non-toxic to cats and dogs",
+    "growthRate": "Fast",
+    "matureSize": "1-2 ft with trailing runners",
+    "commonIssues": [
+      "Brown leaf tips from chemicals in water",
+      "Pale leaves from too much sun",
+      "Root bound quickly"
+    ],
+    "propagationMethods": [
+      "Plantlets (spiderettes) rooted in water or soil",
+      "Division"
+    ],
+    "quickTips": [
+      "Produces baby plantlets on long runners — easy to share",
+      "Pet safe!",
+      "Likes to be slightly root-bound before repotting"
+    ],
+    "source": "bundled",
+    "dateAdded": "2026-01-01T00:00:00Z"
+  },
+  {
+    "scientificName": "Codiaeum variegatum",
+    "commonNames": [
+      "Croton",
+      "Garden Croton"
+    ],
+    "family": "Euphorbiaceae",
+    "wateringFrequency": "Every 5-7 days",
+    "wateringNotes": "Keep soil consistently moist. Droops dramatically when thirsty.",
+    "lightRequirement": "Bright direct to bright indirect light",
+    "lightDetails": "Needs strong light for vivid color. Leaves revert to green in low light.",
+    "humidityPreference": "High (60-80%)",
+    "temperatureRange": "65-80°F (18-27°C)",
+    "soilType": "Rich, well-draining potting mix",
+    "fertilizerSchedule": "Monthly spring through fall",
+    "toxicity": "Mildly toxic — sap can irritate skin",
+    "growthRate": "Moderate",
+    "matureSize": "3-6 ft indoors",
+    "commonIssues": [
+      "Leaf drop from ANY change (light, temperature, location)",
+      "Spider mites in dry conditions",
+      "Color loss in insufficient light"
+    ],
+    "propagationMethods": [
+      "Stem cuttings (use rooting hormone)"
+    ],
+    "quickTips": [
+      "Don't move it — hates change more than any plant",
+      "Mist frequently for humidity",
+      "One of the most colorful foliage plants available"
+    ],
+    "source": "bundled",
+    "dateAdded": "2026-01-01T00:00:00Z"
+  },
+  {
+    "scientificName": "Colocasia esculenta",
+    "commonNames": [
+      "Taro",
+      "Elephant Ear"
+    ],
+    "family": "Araceae",
+    "wateringFrequency": "Every 7-10 days",
+    "wateringNotes": "Let top inch of soil dry between waterings.",
+    "lightRequirement": "Bright indirect light",
+    "lightDetails": "Avoid harsh direct sun; brighter indirect light supports larger leaves.",
+    "humidityPreference": "Medium to high (50-70%)",
+    "temperatureRange": "65-85°F (18-29°C)",
+    "soilType": "Chunky well-draining aroid mix",
+    "fertilizerSchedule": "Monthly during growing season",
+    "toxicity": "Toxic to cats and dogs",
+    "growthRate": "Moderate",
+    "matureSize": "2-6 ft indoors",
+    "commonIssues": [
+      "Yellow leaves from overwatering",
+      "Leggy growth in low light",
+      "Brown edges from dry air"
+    ],
+    "propagationMethods": [
+      "Stem cuttings",
+      "Division (when applicable)"
+    ],
+    "quickTips": [
+      "Use a support pole for larger leaves",
+      "Rotate for even growth",
+      "Check roots yearly"
+    ],
+    "source": "bundled",
+    "dateAdded": "2026-01-01T00:00:00Z"
+  },
+  {
+    "scientificName": "Cordyline fruticosa",
+    "commonNames": [
+      "Ti Plant",
+      "Hawaiian Ti"
+    ],
+    "family": "Asparagaceae",
+    "wateringFrequency": "Every 6-10 days",
+    "wateringNotes": "Keep slightly moist; avoid prolonged soggy soil.",
+    "lightRequirement": "Bright indirect light",
+    "lightDetails": "Morning sun can help, harsh midday sun can scorch.",
+    "humidityPreference": "Medium to high (45-70%)",
+    "temperatureRange": "65-82°F (18-28°C)",
+    "soilType": "Rich, well-draining indoor mix",
+    "fertilizerSchedule": "Monthly during active growth",
+    "toxicity": "Toxic to cats and dogs",
+    "growthRate": "Moderate",
+    "matureSize": "1-5 ft indoors",
+    "commonIssues": [
+      "Leaf browning from dry air",
+      "Slow growth in low light",
+      "Root issues in compacted soil"
+    ],
+    "propagationMethods": [
+      "Stem cuttings",
+      "Division"
+    ],
+    "quickTips": [
+      "Good airflow helps prevent pests",
+      "Use filtered water if tips brown",
+      "Repot when roots circle the pot"
+    ],
+    "source": "bundled",
+    "dateAdded": "2026-01-01T00:00:00Z"
+  },
+  {
+    "scientificName": "Crassula ovata",
+    "commonNames": [
+      "Jade Plant",
+      "Money Plant",
+      "Lucky Plant"
+    ],
+    "family": "Crassulaceae",
+    "wateringFrequency": "Every 14-21 days",
+    "wateringNotes": "Let soil dry completely between waterings. Reduce to monthly in winter.",
+    "lightRequirement": "Bright direct to bright indirect light",
+    "lightDetails": "At least 4 hours of sunlight. Develops red edges in bright sun.",
+    "humidityPreference": "Low (30-40%)",
+    "temperatureRange": "55-75°F (13-24°C)",
+    "soilType": "Cactus/succulent mix",
+    "fertilizerSchedule": "Every 3-4 months with succulent fertilizer",
+    "toxicity": "Toxic to cats and dogs",
+    "growthRate": "Slow",
+    "matureSize": "3-5 ft over many years",
+    "commonIssues": [
+      "Mushy leaves from overwatering",
+      "Leaf drop from sudden temperature change",
+      "Leggy growth without enough light"
+    ],
+    "propagationMethods": [
+      "Stem cuttings",
+      "Leaf cuttings"
+    ],
+    "quickTips": [
+      "Can live for decades — becomes a family heirloom",
+      "Thrives on neglect",
+      "Woody trunk develops with age for bonsai look"
+    ],
+    "source": "bundled",
+    "dateAdded": "2026-01-01T00:00:00Z"
+  },
+  {
+    "scientificName": "Crassula perforata",
+    "commonNames": [
+      "String of Buttons",
+      "Necklace Vine"
+    ],
+    "family": "Crassulaceae",
+    "wateringFrequency": "Every 14-21 days",
+    "wateringNotes": "Soak thoroughly, then let soil dry completely.",
+    "lightRequirement": "Bright indirect to bright direct light",
+    "lightDetails": "Most grow compactly with strong light.",
+    "humidityPreference": "Low (25-45%)",
+    "temperatureRange": "60-85°F (16-29°C)",
+    "soilType": "Cactus/succulent mix with extra grit",
+    "fertilizerSchedule": "Once monthly in spring and summer, lightly",
+    "toxicity": "Mildly toxic to cats and dogs if ingested",
+    "growthRate": "Slow to moderate",
+    "matureSize": "4 inches to 3 ft indoors",
+    "commonIssues": [
+      "Rot from overwatering",
+      "Stretching in low light",
+      "Soft growth from poor drainage"
+    ],
+    "propagationMethods": [
+      "Leaf or stem cuttings",
+      "Offsets"
+    ],
+    "quickTips": [
+      "Terracotta pots help prevent rot",
+      "More light usually means better form",
+      "Water less in winter"
+    ],
+    "source": "bundled",
+    "dateAdded": "2026-01-01T00:00:00Z"
+  },
+  {
+    "scientificName": "Ctenanthe burle-marxii",
+    "commonNames": [
+      "Fishbone Prayer Plant",
+      "Ctenanthe"
+    ],
+    "family": "Marantaceae",
+    "wateringFrequency": "Every 5-7 days",
+    "wateringNotes": "Keep evenly moist. Use filtered water.",
+    "lightRequirement": "Medium indirect light",
+    "lightDetails": "No direct sun. Similar needs to Calatheas.",
+    "humidityPreference": "High (60-80%)",
+    "temperatureRange": "65-80°F (18-27°C)",
+    "soilType": "Rich, well-draining peat-based mix",
+    "fertilizerSchedule": "Monthly spring through summer",
+    "toxicity": "Non-toxic to cats and dogs",
+    "growthRate": "Moderate",
+    "matureSize": "1-2 ft",
+    "commonIssues": [
+      "Brown edges from low humidity",
+      "Curling leaves from underwatering",
+      "Less fussy than Calathea but still needs humidity"
+    ],
+    "propagationMethods": [
+      "Division"
+    ],
+    "quickTips": [
+      "Easier than Calathea — a good stepping stone",
+      "Beautiful fishbone leaf pattern",
+      "Folds leaves at night like other prayer plants"
+    ],
+    "source": "bundled",
+    "dateAdded": "2026-01-01T00:00:00Z"
+  },
+  {
+    "scientificName": "Ctenanthe oppenheimiana",
+    "commonNames": [
+      "Never Never Plant",
+      "Giant Bamburanta"
+    ],
+    "family": "Marantaceae",
+    "wateringFrequency": "Every 6-10 days",
+    "wateringNotes": "Keep slightly moist; avoid prolonged soggy soil.",
+    "lightRequirement": "Bright indirect light",
+    "lightDetails": "Morning sun can help, harsh midday sun can scorch.",
+    "humidityPreference": "Medium to high (45-70%)",
+    "temperatureRange": "65-82°F (18-28°C)",
+    "soilType": "Rich, well-draining indoor mix",
+    "fertilizerSchedule": "Monthly during active growth",
+    "toxicity": "Non-toxic to cats and dogs",
+    "growthRate": "Moderate",
+    "matureSize": "1-5 ft indoors",
+    "commonIssues": [
+      "Leaf browning from dry air",
+      "Slow growth in low light",
+      "Root issues in compacted soil"
+    ],
+    "propagationMethods": [
+      "Stem cuttings",
+      "Division"
+    ],
+    "quickTips": [
+      "Good airflow helps prevent pests",
+      "Use filtered water if tips brown",
+      "Repot when roots circle the pot"
+    ],
+    "source": "bundled",
+    "dateAdded": "2026-01-01T00:00:00Z"
+  },
+  {
+    "scientificName": "Curio radicans",
+    "commonNames": [
+      "String of Bananas",
+      "Senecio Radicans"
+    ],
+    "family": "Asteraceae",
+    "wateringFrequency": "Every 14-21 days",
+    "wateringNotes": "Soak thoroughly, then let soil dry completely.",
+    "lightRequirement": "Bright indirect to bright direct light",
+    "lightDetails": "Most grow compactly with strong light.",
+    "humidityPreference": "Low (25-45%)",
+    "temperatureRange": "60-85°F (16-29°C)",
+    "soilType": "Cactus/succulent mix with extra grit",
+    "fertilizerSchedule": "Once monthly in spring and summer, lightly",
+    "toxicity": "Toxic to cats and dogs if ingested",
+    "growthRate": "Slow to moderate",
+    "matureSize": "4 inches to 3 ft indoors",
+    "commonIssues": [
+      "Rot from overwatering",
+      "Stretching in low light",
+      "Soft growth from poor drainage"
+    ],
+    "propagationMethods": [
+      "Leaf or stem cuttings",
+      "Offsets"
+    ],
+    "quickTips": [
+      "Terracotta pots help prevent rot",
+      "More light usually means better form",
+      "Water less in winter"
+    ],
+    "source": "bundled",
+    "dateAdded": "2026-01-01T00:00:00Z"
+  },
+  {
+    "scientificName": "Curio rowleyanus",
+    "commonNames": [
+      "String of Pearls",
+      "Senecio Rowleyanus"
+    ],
+    "family": "Asteraceae",
+    "wateringFrequency": "Every 14-21 days",
+    "wateringNotes": "Soak thoroughly, then let soil dry completely.",
+    "lightRequirement": "Bright indirect to bright direct light",
+    "lightDetails": "Most grow compactly with strong light.",
+    "humidityPreference": "Low (25-45%)",
+    "temperatureRange": "60-85°F (16-29°C)",
+    "soilType": "Cactus/succulent mix with extra grit",
+    "fertilizerSchedule": "Once monthly in spring and summer, lightly",
+    "toxicity": "Toxic to cats and dogs if ingested",
+    "growthRate": "Slow to moderate",
+    "matureSize": "4 inches to 3 ft indoors",
+    "commonIssues": [
+      "Rot from overwatering",
+      "Stretching in low light",
+      "Soft growth from poor drainage"
+    ],
+    "propagationMethods": [
+      "Leaf or stem cuttings",
+      "Offsets"
+    ],
+    "quickTips": [
+      "Terracotta pots help prevent rot",
+      "More light usually means better form",
+      "Water less in winter"
+    ],
+    "source": "bundled",
+    "dateAdded": "2026-01-01T00:00:00Z"
+  },
+  {
+    "scientificName": "Cyrtomium falcatum",
+    "commonNames": [
+      "Holly Fern",
+      "Japanese Holly Fern"
+    ],
+    "family": "Dryopteridaceae",
+    "wateringFrequency": "Every 3-6 days",
+    "wateringNotes": "Keep soil evenly moist but not soggy.",
+    "lightRequirement": "Medium indirect light",
+    "lightDetails": "Filtered light is ideal; direct sun scorches fronds.",
+    "humidityPreference": "High (60-80%)",
+    "temperatureRange": "60-78°F (16-26°C)",
+    "soilType": "Moisture-retaining, well-draining potting mix",
+    "fertilizerSchedule": "Monthly at half strength in spring and summer",
+    "toxicity": "Non-toxic to cats and dogs",
+    "growthRate": "Moderate",
+    "matureSize": "1-3 ft indoors",
+    "commonIssues": [
+      "Crispy fronds from low humidity",
+      "Browning from missed watering",
+      "Pests in dry air"
+    ],
+    "propagationMethods": [
+      "Division",
+      "Spores (advanced)"
+    ],
+    "quickTips": [
+      "Humidity is key",
+      "Avoid drying out completely",
+      "Trim old fronds regularly"
+    ],
+    "source": "bundled",
+    "dateAdded": "2026-01-01T00:00:00Z"
+  },
+  {
+    "scientificName": "Davallia fejeensis",
+    "commonNames": [
+      "Rabbit's Foot Fern",
+      "Hare's Foot Fern"
+    ],
+    "family": "Davalliaceae",
+    "wateringFrequency": "Every 3-6 days",
+    "wateringNotes": "Keep soil evenly moist but not soggy.",
+    "lightRequirement": "Medium indirect light",
+    "lightDetails": "Filtered light is ideal; direct sun scorches fronds.",
+    "humidityPreference": "High (60-80%)",
+    "temperatureRange": "60-78°F (16-26°C)",
+    "soilType": "Moisture-retaining, well-draining potting mix",
+    "fertilizerSchedule": "Monthly at half strength in spring and summer",
+    "toxicity": "Non-toxic to cats and dogs",
+    "growthRate": "Moderate",
+    "matureSize": "1-3 ft indoors",
+    "commonIssues": [
+      "Crispy fronds from low humidity",
+      "Browning from missed watering",
+      "Pests in dry air"
+    ],
+    "propagationMethods": [
+      "Division",
+      "Spores (advanced)"
+    ],
+    "quickTips": [
+      "Humidity is key",
+      "Avoid drying out completely",
+      "Trim old fronds regularly"
+    ],
+    "source": "bundled",
+    "dateAdded": "2026-01-01T00:00:00Z"
+  },
+  {
+    "scientificName": "Dieffenbachia seguine",
+    "commonNames": [
+      "Dumb Cane",
+      "Dieffenbachia"
+    ],
+    "family": "Araceae",
+    "wateringFrequency": "Every 7-10 days",
+    "wateringNotes": "Keep soil lightly moist during growing season. Reduce in winter.",
+    "lightRequirement": "Medium to bright indirect light",
+    "lightDetails": "Tolerates low light but grows slowly. No direct sun.",
+    "humidityPreference": "Medium to high (50-70%)",
+    "temperatureRange": "65-80°F (18-27°C)",
+    "soilType": "Rich, well-draining potting mix",
+    "fertilizerSchedule": "Every 2-4 weeks during growing season",
+    "toxicity": "Highly toxic to cats, dogs, and children (causes oral swelling)",
+    "growthRate": "Moderate to fast",
+    "matureSize": "3-6 ft indoors",
+    "commonIssues": [
+      "Yellow lower leaves (natural aging)",
+      "Brown leaf edges from dry air",
+      "Leggy stem with age"
+    ],
+    "propagationMethods": [
+      "Stem cuttings",
+      "Air layering"
+    ],
+    "quickTips": [
+      "Wear gloves when handling — sap is very irritating",
+      "Keep away from children and pets",
+      "Cut back leggy plants to force new bushy growth"
+    ],
+    "source": "bundled",
+    "dateAdded": "2026-01-01T00:00:00Z"
+  },
+  {
+    "scientificName": "Dracaena angolensis",
+    "commonNames": [
+      "Cylindrical Snake Plant",
+      "African Spear Plant"
+    ],
+    "family": "Asparagaceae",
+    "wateringFrequency": "Every 14-21 days",
+    "wateringNotes": "Soak thoroughly, then let soil dry completely.",
+    "lightRequirement": "Bright indirect to bright direct light",
+    "lightDetails": "Most grow compactly with strong light.",
+    "humidityPreference": "Low (25-45%)",
+    "temperatureRange": "60-85°F (16-29°C)",
+    "soilType": "Cactus/succulent mix with extra grit",
+    "fertilizerSchedule": "Once monthly in spring and summer, lightly",
+    "toxicity": "Toxic to cats and dogs",
+    "growthRate": "Slow to moderate",
+    "matureSize": "4 inches to 3 ft indoors",
+    "commonIssues": [
+      "Rot from overwatering",
+      "Stretching in low light",
+      "Soft growth from poor drainage"
+    ],
+    "propagationMethods": [
+      "Leaf or stem cuttings",
+      "Offsets"
+    ],
+    "quickTips": [
+      "Terracotta pots help prevent rot",
+      "More light usually means better form",
+      "Water less in winter"
+    ],
+    "source": "bundled",
+    "dateAdded": "2026-01-01T00:00:00Z"
+  },
+  {
+    "scientificName": "Dracaena fragrans",
+    "commonNames": [
+      "Corn Plant",
+      "Dracaena",
+      "Mass Cane"
+    ],
+    "family": "Asparagaceae",
+    "wateringFrequency": "Every 10-14 days",
+    "wateringNotes": "Let top half of soil dry. Sensitive to fluoride — brown tips from tap water.",
+    "lightRequirement": "Medium to bright indirect light",
+    "lightDetails": "Tolerates low light. Variegated types need more light.",
+    "humidityPreference": "Medium (40-60%)",
+    "temperatureRange": "60-80°F (16-27°C)",
+    "soilType": "Standard well-draining potting mix",
+    "fertilizerSchedule": "Monthly spring through fall",
+    "toxicity": "Toxic to cats and dogs",
+    "growthRate": "Slow",
+    "matureSize": "4-6 ft indoors",
+    "commonIssues": [
+      "Brown tips from fluoride or dry air",
+      "Leaf drop from overwatering",
+      "Yellowing lower leaves (natural shedding)"
+    ],
+    "propagationMethods": [
+      "Stem cuttings",
+      "Air layering"
+    ],
+    "quickTips": [
+      "Incredibly resilient office plant",
+      "Lower leaves drop naturally with age",
+      "Use distilled or filtered water for best results"
+    ],
+    "source": "bundled",
+    "dateAdded": "2026-01-01T00:00:00Z"
+  },
+  {
+    "scientificName": "Dracaena marginata",
+    "commonNames": [
+      "Dragon Tree",
+      "Madagascar Dragon Tree"
+    ],
+    "family": "Asparagaceae",
+    "wateringFrequency": "Every 10-14 days",
+    "wateringNotes": "Let soil dry between waterings. Sensitive to fluoride — use filtered water.",
+    "lightRequirement": "Medium to bright indirect light",
+    "lightDetails": "Adapts to lower light. Avoid direct sun which browns leaf edges.",
+    "humidityPreference": "Medium (40-60%)",
+    "temperatureRange": "65-80°F (18-27°C)",
+    "soilType": "Well-draining potting mix",
+    "fertilizerSchedule": "Monthly spring through fall with diluted fertilizer",
+    "toxicity": "Toxic to cats and dogs",
+    "growthRate": "Slow to moderate",
+    "matureSize": "4-6 ft indoors",
+    "commonIssues": [
+      "Brown leaf tips from fluoride or dry air",
+      "Leaf drop from cold drafts",
+      "Leggy trunk (can be topped to branch)"
+    ],
+    "propagationMethods": [
+      "Stem cuttings",
+      "Air layering",
+      "Top cuttings"
+    ],
+    "quickTips": [
+      "Cutting the top forces branching for a fuller look",
+      "Lower leaves drop naturally with age",
+      "Architectural silhouette suits modern spaces"
+    ],
+    "source": "bundled",
+    "dateAdded": "2026-01-01T00:00:00Z"
+  },
+  {
+    "scientificName": "Dracaena reflexa",
+    "commonNames": [
+      "Song of India",
+      "Song of Jamaica"
+    ],
+    "family": "Asparagaceae",
+    "wateringFrequency": "Every 6-10 days",
+    "wateringNotes": "Keep slightly moist; avoid prolonged soggy soil.",
+    "lightRequirement": "Bright indirect light",
+    "lightDetails": "Morning sun can help, harsh midday sun can scorch.",
+    "humidityPreference": "Medium to high (45-70%)",
+    "temperatureRange": "65-82°F (18-28°C)",
+    "soilType": "Rich, well-draining indoor mix",
+    "fertilizerSchedule": "Monthly during active growth",
+    "toxicity": "Toxic to cats and dogs",
+    "growthRate": "Moderate",
+    "matureSize": "1-5 ft indoors",
+    "commonIssues": [
+      "Leaf browning from dry air",
+      "Slow growth in low light",
+      "Root issues in compacted soil"
+    ],
+    "propagationMethods": [
+      "Stem cuttings",
+      "Division"
+    ],
+    "quickTips": [
+      "Good airflow helps prevent pests",
+      "Use filtered water if tips brown",
+      "Repot when roots circle the pot"
+    ],
+    "source": "bundled",
+    "dateAdded": "2026-01-01T00:00:00Z"
+  },
+  {
+    "scientificName": "Dracaena sanderiana",
+    "commonNames": [
+      "Lucky Bamboo",
+      "Ribbon Plant"
+    ],
+    "family": "Asparagaceae",
+    "wateringFrequency": "Every 6-10 days",
+    "wateringNotes": "Keep slightly moist; avoid prolonged soggy soil.",
+    "lightRequirement": "Bright indirect light",
+    "lightDetails": "Morning sun can help, harsh midday sun can scorch.",
+    "humidityPreference": "Medium to high (45-70%)",
+    "temperatureRange": "65-82°F (18-28°C)",
+    "soilType": "Rich, well-draining indoor mix",
+    "fertilizerSchedule": "Monthly during active growth",
+    "toxicity": "Toxic to cats and dogs",
+    "growthRate": "Moderate",
+    "matureSize": "1-5 ft indoors",
+    "commonIssues": [
+      "Leaf browning from dry air",
+      "Slow growth in low light",
+      "Root issues in compacted soil"
+    ],
+    "propagationMethods": [
+      "Stem cuttings",
+      "Division"
+    ],
+    "quickTips": [
+      "Good airflow helps prevent pests",
+      "Use filtered water if tips brown",
+      "Repot when roots circle the pot"
+    ],
+    "source": "bundled",
+    "dateAdded": "2026-01-01T00:00:00Z"
+  },
+  {
+    "scientificName": "Dypsis lutescens",
+    "commonNames": [
+      "Areca Palm",
+      "Butterfly Palm"
+    ],
+    "family": "Arecaceae",
+    "wateringFrequency": "Every 7-12 days",
+    "wateringNotes": "Water when top 1-2 inches are dry.",
+    "lightRequirement": "Medium to bright indirect light",
+    "lightDetails": "Avoid harsh afternoon sun behind glass.",
+    "humidityPreference": "Medium (40-60%)",
+    "temperatureRange": "65-82°F (18-28°C)",
+    "soilType": "Well-draining indoor palm mix",
+    "fertilizerSchedule": "Every 6-8 weeks in growing season",
+    "toxicity": "Non-toxic to cats and dogs",
+    "growthRate": "Slow to moderate",
+    "matureSize": "3-8 ft indoors",
+    "commonIssues": [
+      "Brown tips from dry air",
+      "Yellowing from overwatering",
+      "Spider mites in dry rooms"
+    ],
+    "propagationMethods": [
+      "Seed (most species)",
+      "Division (some clumping palms)"
+    ],
+    "quickTips": [
+      "Keep away from heater vents",
+      "Wipe fronds to reduce dust",
+      "Rotate for balanced growth"
+    ],
+    "source": "bundled",
+    "dateAdded": "2026-01-01T00:00:00Z"
+  },
+  {
+    "scientificName": "Echeveria agavoides",
+    "commonNames": [
+      "Lipstick Echeveria",
+      "Molded Wax Agave"
+    ],
+    "family": "Crassulaceae",
+    "wateringFrequency": "Every 14-21 days",
+    "wateringNotes": "Soak thoroughly, then let soil dry completely.",
+    "lightRequirement": "Bright indirect to bright direct light",
+    "lightDetails": "Most grow compactly with strong light.",
+    "humidityPreference": "Low (25-45%)",
+    "temperatureRange": "60-85°F (16-29°C)",
+    "soilType": "Cactus/succulent mix with extra grit",
+    "fertilizerSchedule": "Once monthly in spring and summer, lightly",
+    "toxicity": "Non-toxic to cats and dogs",
+    "growthRate": "Slow to moderate",
+    "matureSize": "4 inches to 3 ft indoors",
+    "commonIssues": [
+      "Rot from overwatering",
+      "Stretching in low light",
+      "Soft growth from poor drainage"
+    ],
+    "propagationMethods": [
+      "Leaf or stem cuttings",
+      "Offsets"
+    ],
+    "quickTips": [
+      "Terracotta pots help prevent rot",
+      "More light usually means better form",
+      "Water less in winter"
+    ],
+    "source": "bundled",
+    "dateAdded": "2026-01-01T00:00:00Z"
+  },
+  {
+    "scientificName": "Echeveria elegans",
+    "commonNames": [
+      "Mexican Snowball",
+      "White Mexican Rose",
+      "Echeveria"
+    ],
+    "family": "Crassulaceae",
+    "wateringFrequency": "Every 14-21 days",
+    "wateringNotes": "Soak and dry method. Never water on the rosette — causes rot.",
+    "lightRequirement": "Bright direct light",
+    "lightDetails": "Needs at least 4-6 hours of direct sun. Etiolates (stretches) quickly in low light.",
+    "humidityPreference": "Low (20-40%)",
+    "temperatureRange": "50-80°F (10-27°C)",
+    "soilType": "Cactus/succulent mix with extra grit",
+    "fertilizerSchedule": "Once in spring with diluted succulent fertilizer",
+    "toxicity": "Non-toxic to cats and dogs",
+    "growthRate": "Slow",
+    "matureSize": "4-6 inches",
+    "commonIssues": [
+      "Etiolation (stretching) from too little light",
+      "Rot from water sitting in rosette",
+      "Mealy bugs in leaf crevices"
+    ],
+    "propagationMethods": [
+      "Leaf cuttings",
+      "Offsets"
+    ],
+    "quickTips": [
+      "Bottom water to avoid wetting leaves",
+      "Produces offsets readily for sharing",
+      "Colors intensify with more sun"
+    ],
+    "source": "bundled",
+    "dateAdded": "2026-01-01T00:00:00Z"
+  },
+  {
+    "scientificName": "Echinopsis oxygona",
+    "commonNames": [
+      "Easter Lily Cactus",
+      "Sea Urchin Cactus"
+    ],
+    "family": "Cactaceae",
+    "wateringFrequency": "Every 14-28 days",
+    "wateringNotes": "Water deeply, then allow complete dry-down.",
+    "lightRequirement": "Bright direct light",
+    "lightDetails": "Provide as much sun as possible indoors.",
+    "humidityPreference": "Low (20-40%)",
+    "temperatureRange": "55-90°F (13-32°C)",
+    "soilType": "Fast-draining cactus mix",
+    "fertilizerSchedule": "Once in spring and once in summer",
+    "toxicity": "Typically non-toxic but many have sharp spines",
+    "growthRate": "Slow",
+    "matureSize": "6 inches to 4 ft indoors",
+    "commonIssues": [
+      "Root rot from overwatering",
+      "Etiolation from low light",
+      "Sunburn after abrupt light changes"
+    ],
+    "propagationMethods": [
+      "Offsets",
+      "Stem cuttings (species dependent)"
+    ],
+    "quickTips": [
+      "Use gritty soil",
+      "Handle with gloves",
+      "Reduce watering heavily in winter"
+    ],
+    "source": "bundled",
+    "dateAdded": "2026-01-01T00:00:00Z"
+  },
+  {
+    "scientificName": "Epipremnum amplissimum",
+    "commonNames": [
+      "Silver Stripe Pothos",
+      "Epipremnum Amplissimum"
+    ],
+    "family": "Araceae",
+    "wateringFrequency": "Every 7-10 days",
+    "wateringNotes": "Let top inch of soil dry between waterings.",
+    "lightRequirement": "Bright indirect light",
+    "lightDetails": "Avoid harsh direct sun; brighter indirect light supports larger leaves.",
+    "humidityPreference": "Medium to high (50-70%)",
+    "temperatureRange": "65-85°F (18-29°C)",
+    "soilType": "Chunky well-draining aroid mix",
+    "fertilizerSchedule": "Monthly during growing season",
+    "toxicity": "Toxic to cats and dogs",
+    "growthRate": "Moderate",
+    "matureSize": "2-6 ft indoors",
+    "commonIssues": [
+      "Yellow leaves from overwatering",
+      "Leggy growth in low light",
+      "Brown edges from dry air"
+    ],
+    "propagationMethods": [
+      "Stem cuttings",
+      "Division (when applicable)"
+    ],
+    "quickTips": [
+      "Use a support pole for larger leaves",
+      "Rotate for even growth",
+      "Check roots yearly"
+    ],
+    "source": "bundled",
+    "dateAdded": "2026-01-01T00:00:00Z"
+  },
+  {
+    "scientificName": "Epipremnum aureum",
+    "commonNames": [
+      "Pothos",
+      "Golden Pothos",
+      "Devil's Ivy"
+    ],
+    "family": "Araceae",
+    "wateringFrequency": "Every 7-14 days",
+    "wateringNotes": "Very forgiving — let soil dry out between waterings. Droopy leaves signal thirst.",
+    "lightRequirement": "Low to bright indirect light",
+    "lightDetails": "One of the most light-tolerant houseplants. Variegation fades in very low light.",
+    "humidityPreference": "Low to medium (30-60%)",
+    "temperatureRange": "60-85°F (16-29°C)",
+    "soilType": "Standard potting mix with perlite",
+    "fertilizerSchedule": "Every 2-3 months with balanced liquid fertilizer",
+    "toxicity": "Toxic to cats and dogs",
+    "growthRate": "Fast",
+    "matureSize": "Trailing vines up to 10 ft indoors",
+    "commonIssues": [
+      "Root rot from overwatering",
+      "Loss of variegation in low light",
+      "Leggy vines if not pruned"
+    ],
+    "propagationMethods": [
+      "Stem cuttings in water",
+      "Stem cuttings in soil"
+    ],
+    "quickTips": [
+      "Trim long vines to encourage bushier growth",
+      "Excellent air purifier",
+      "Nearly indestructible beginner plant"
+    ],
+    "source": "bundled",
+    "dateAdded": "2026-01-01T00:00:00Z"
+  },
+  {
+    "scientificName": "Epipremnum pinnatum",
+    "commonNames": [
+      "Dragon Tail Pothos",
+      "Centipede Tongavine"
+    ],
+    "family": "Araceae",
+    "wateringFrequency": "Every 7-10 days",
+    "wateringNotes": "Let top inch of soil dry between waterings.",
+    "lightRequirement": "Bright indirect light",
+    "lightDetails": "Avoid harsh direct sun; brighter indirect light supports larger leaves.",
+    "humidityPreference": "Medium to high (50-70%)",
+    "temperatureRange": "65-85°F (18-29°C)",
+    "soilType": "Chunky well-draining aroid mix",
+    "fertilizerSchedule": "Monthly during growing season",
+    "toxicity": "Toxic to cats and dogs",
+    "growthRate": "Moderate",
+    "matureSize": "2-6 ft indoors",
+    "commonIssues": [
+      "Yellow leaves from overwatering",
+      "Leggy growth in low light",
+      "Brown edges from dry air"
+    ],
+    "propagationMethods": [
+      "Stem cuttings",
+      "Division (when applicable)"
+    ],
+    "quickTips": [
+      "Use a support pole for larger leaves",
+      "Rotate for even growth",
+      "Check roots yearly"
+    ],
+    "source": "bundled",
+    "dateAdded": "2026-01-01T00:00:00Z"
+  },
+  {
+    "scientificName": "Euphorbia trigona",
+    "commonNames": [
+      "African Milk Tree",
+      "Cathedral Cactus"
+    ],
+    "family": "Euphorbiaceae",
+    "wateringFrequency": "Every 10-14 days",
+    "wateringNotes": "Let soil dry between waterings. More drought tolerant than it looks.",
+    "lightRequirement": "Bright indirect to bright direct light",
+    "lightDetails": "Adapts to various light levels. Grows tallest in bright conditions.",
+    "humidityPreference": "Low to medium (30-50%)",
+    "temperatureRange": "55-80°F (13-27°C)",
+    "soilType": "Cactus/succulent mix",
+    "fertilizerSchedule": "Monthly spring through summer",
+    "toxicity": "Toxic — milky sap is highly irritating to skin and eyes",
+    "growthRate": "Moderate to fast",
+    "matureSize": "4-8 ft indoors",
+    "commonIssues": [
+      "Top-heavy — needs sturdy pot or staking",
+      "Sap is very irritating — wear gloves",
+      "Leaf drop from cold or overwatering"
+    ],
+    "propagationMethods": [
+      "Stem cuttings (let sap dry, callous for a week)"
+    ],
+    "quickTips": [
+      "Not a cactus — it's a Euphorbia",
+      "Ruby variety has stunning dark red coloring",
+      "Wears gloves when handling — sap causes burns"
+    ],
+    "source": "bundled",
+    "dateAdded": "2026-01-01T00:00:00Z"
+  },
+  {
+    "scientificName": "Fatsia japonica",
+    "commonNames": [
+      "Japanese Aralia",
+      "Fatsia",
+      "Glossy-leaf Paper Plant"
+    ],
+    "family": "Araliaceae",
+    "wateringFrequency": "Every 5-7 days",
+    "wateringNotes": "Keep soil consistently moist but not soggy. Reduce slightly in winter.",
+    "lightRequirement": "Medium to bright indirect light",
+    "lightDetails": "Handles shade better than most large-leaf plants. Avoid hot direct sun.",
+    "humidityPreference": "Medium to high (50-70%)",
+    "temperatureRange": "50-72°F (10-22°C)",
+    "soilType": "Rich, well-draining potting mix",
+    "fertilizerSchedule": "Monthly spring through fall",
+    "toxicity": "Mildly toxic if ingested",
+    "growthRate": "Moderate to fast",
+    "matureSize": "4-6 ft indoors",
+    "commonIssues": [
+      "Leaf drop in hot dry conditions",
+      "Scale insects",
+      "Gets leggy without enough light"
+    ],
+    "propagationMethods": [
+      "Stem cuttings",
+      "Air layering",
+      "Seed"
+    ],
+    "quickTips": [
+      "Prefers cooler temperatures — perfect for less-heated rooms",
+      "Dramatic palmate leaves",
+      "Good shade tolerance for a large-leaf plant"
+    ],
+    "source": "bundled",
+    "dateAdded": "2026-01-01T00:00:00Z"
+  },
+  {
+    "scientificName": "Ficus altissima",
+    "commonNames": [
+      "Council Tree",
+      "Lofty Fig"
+    ],
+    "family": "Moraceae",
+    "wateringFrequency": "Every 7-12 days",
+    "wateringNotes": "Allow top inch to dry, then water thoroughly.",
+    "lightRequirement": "Bright indirect light",
+    "lightDetails": "Consistent placement helps prevent leaf drop.",
+    "humidityPreference": "Medium (40-60%)",
+    "temperatureRange": "60-82°F (16-28°C)",
+    "soilType": "Well-draining potting mix with perlite",
+    "fertilizerSchedule": "Monthly in spring and summer",
+    "toxicity": "Mildly toxic to pets; sap may irritate skin",
+    "growthRate": "Moderate",
+    "matureSize": "4-10 ft indoors",
+    "commonIssues": [
+      "Leaf drop after environmental changes",
+      "Yellowing from overwatering",
+      "Sparse growth in low light"
+    ],
+    "propagationMethods": [
+      "Stem cuttings",
+      "Air layering"
+    ],
+    "quickTips": [
+      "Avoid frequent relocation",
+      "Bright consistent light is best",
+      "Prune to shape in spring"
+    ],
+    "source": "bundled",
+    "dateAdded": "2026-01-01T00:00:00Z"
+  },
+  {
+    "scientificName": "Ficus benghalensis",
+    "commonNames": [
+      "Audrey Ficus",
+      "Banyan Fig"
+    ],
+    "family": "Moraceae",
+    "wateringFrequency": "Every 7-12 days",
+    "wateringNotes": "Allow top inch to dry, then water thoroughly.",
+    "lightRequirement": "Bright indirect light",
+    "lightDetails": "Consistent placement helps prevent leaf drop.",
+    "humidityPreference": "Medium (40-60%)",
+    "temperatureRange": "60-82°F (16-28°C)",
+    "soilType": "Well-draining potting mix with perlite",
+    "fertilizerSchedule": "Monthly in spring and summer",
+    "toxicity": "Mildly toxic to pets; sap may irritate skin",
+    "growthRate": "Moderate",
+    "matureSize": "4-10 ft indoors",
+    "commonIssues": [
+      "Leaf drop after environmental changes",
+      "Yellowing from overwatering",
+      "Sparse growth in low light"
+    ],
+    "propagationMethods": [
+      "Stem cuttings",
+      "Air layering"
+    ],
+    "quickTips": [
+      "Avoid frequent relocation",
+      "Bright consistent light is best",
+      "Prune to shape in spring"
+    ],
+    "source": "bundled",
+    "dateAdded": "2026-01-01T00:00:00Z"
+  },
+  {
+    "scientificName": "Ficus benjamina",
+    "commonNames": [
+      "Weeping Fig",
+      "Benjamin Fig"
+    ],
+    "family": "Moraceae",
+    "wateringFrequency": "Every 7-12 days",
+    "wateringNotes": "Allow top inch to dry, then water thoroughly.",
+    "lightRequirement": "Bright indirect light",
+    "lightDetails": "Consistent placement helps prevent leaf drop.",
+    "humidityPreference": "Medium (40-60%)",
+    "temperatureRange": "60-82°F (16-28°C)",
+    "soilType": "Well-draining potting mix with perlite",
+    "fertilizerSchedule": "Monthly in spring and summer",
+    "toxicity": "Mildly toxic to pets; sap may irritate skin",
+    "growthRate": "Moderate",
+    "matureSize": "4-10 ft indoors",
+    "commonIssues": [
+      "Leaf drop after environmental changes",
+      "Yellowing from overwatering",
+      "Sparse growth in low light"
+    ],
+    "propagationMethods": [
+      "Stem cuttings",
+      "Air layering"
+    ],
+    "quickTips": [
+      "Avoid frequent relocation",
+      "Bright consistent light is best",
+      "Prune to shape in spring"
+    ],
+    "source": "bundled",
+    "dateAdded": "2026-01-01T00:00:00Z"
+  },
+  {
+    "scientificName": "Ficus elastica",
+    "commonNames": [
+      "Rubber Plant",
+      "Rubber Tree",
+      "Rubber Fig"
+    ],
+    "family": "Moraceae",
+    "wateringFrequency": "Every 7-14 days",
+    "wateringNotes": "Let top inch of soil dry. Overwatering causes leaf drop.",
+    "lightRequirement": "Bright indirect light",
+    "lightDetails": "Variegated types need more light. Dark-leaf varieties tolerate lower light.",
+    "humidityPreference": "Medium (40-60%)",
+    "temperatureRange": "60-80°F (16-27°C)",
+    "soilType": "Well-draining potting mix",
+    "fertilizerSchedule": "Monthly during growing season",
+    "toxicity": "Mildly toxic — sap can irritate skin",
+    "growthRate": "Moderate to fast",
+    "matureSize": "6-10 ft indoors",
+    "commonIssues": [
+      "Leaf drop from overwatering or temperature changes",
+      "Leggy growth in low light",
+      "Dusty leaves reduce photosynthesis"
+    ],
+    "propagationMethods": [
+      "Stem cuttings",
+      "Air layering"
+    ],
+    "quickTips": [
+      "Wipe glossy leaves with damp cloth monthly",
+      "Prune to desired shape — latex sap is sticky",
+      "Burgundy variety is especially hardy"
+    ],
+    "source": "bundled",
+    "dateAdded": "2026-01-01T00:00:00Z"
+  },
+  {
+    "scientificName": "Ficus lyrata",
+    "commonNames": [
+      "Fiddle Leaf Fig",
+      "Fiddle Fig"
+    ],
+    "family": "Moraceae",
+    "wateringFrequency": "Every 7-10 days",
+    "wateringNotes": "Water when top inch of soil is dry. Consistent watering schedule is key — hates change.",
+    "lightRequirement": "Bright indirect to bright direct light",
+    "lightDetails": "Needs the brightest spot you have. East or south-facing window ideal. Acclimate slowly to direct sun.",
+    "humidityPreference": "Medium to high (50-65%)",
+    "temperatureRange": "60-80°F (16-27°C)",
+    "soilType": "Well-draining mix with perlite and bark",
+    "fertilizerSchedule": "Monthly during growing season with liquid fertilizer",
+    "toxicity": "Mildly toxic to cats and dogs",
+    "growthRate": "Moderate",
+    "matureSize": "6-10 ft indoors",
+    "commonIssues": [
+      "Brown spots from overwatering or bacterial infection",
+      "Leaf drop from drafts or relocation",
+      "Edema from inconsistent watering"
+    ],
+    "propagationMethods": [
+      "Stem cuttings",
+      "Air layering"
+    ],
+    "quickTips": [
+      "Don't move it once it's happy",
+      "Wipe leaves regularly for photosynthesis",
+      "Rotate monthly for even growth"
+    ],
+    "source": "bundled",
+    "dateAdded": "2026-01-01T00:00:00Z"
+  },
+  {
+    "scientificName": "Ficus microcarpa",
+    "commonNames": [
+      "Indian Laurel Fig",
+      "Chinese Banyan"
+    ],
+    "family": "Moraceae",
+    "wateringFrequency": "Every 7-12 days",
+    "wateringNotes": "Allow top inch to dry, then water thoroughly.",
+    "lightRequirement": "Bright indirect light",
+    "lightDetails": "Consistent placement helps prevent leaf drop.",
+    "humidityPreference": "Medium (40-60%)",
+    "temperatureRange": "60-82°F (16-28°C)",
+    "soilType": "Well-draining potting mix with perlite",
+    "fertilizerSchedule": "Monthly in spring and summer",
+    "toxicity": "Mildly toxic to pets; sap may irritate skin",
+    "growthRate": "Moderate",
+    "matureSize": "4-10 ft indoors",
+    "commonIssues": [
+      "Leaf drop after environmental changes",
+      "Yellowing from overwatering",
+      "Sparse growth in low light"
+    ],
+    "propagationMethods": [
+      "Stem cuttings",
+      "Air layering"
+    ],
+    "quickTips": [
+      "Avoid frequent relocation",
+      "Bright consistent light is best",
+      "Prune to shape in spring"
+    ],
+    "source": "bundled",
+    "dateAdded": "2026-01-01T00:00:00Z"
+  },
+  {
+    "scientificName": "Ficus umbellata",
+    "commonNames": [
+      "Umbellata Fig",
+      "Ficus Umbellata"
+    ],
+    "family": "Moraceae",
+    "wateringFrequency": "Every 7-12 days",
+    "wateringNotes": "Allow top inch to dry, then water thoroughly.",
+    "lightRequirement": "Bright indirect light",
+    "lightDetails": "Consistent placement helps prevent leaf drop.",
+    "humidityPreference": "Medium (40-60%)",
+    "temperatureRange": "60-82°F (16-28°C)",
+    "soilType": "Well-draining potting mix with perlite",
+    "fertilizerSchedule": "Monthly in spring and summer",
+    "toxicity": "Mildly toxic to pets; sap may irritate skin",
+    "growthRate": "Moderate",
+    "matureSize": "4-10 ft indoors",
+    "commonIssues": [
+      "Leaf drop after environmental changes",
+      "Yellowing from overwatering",
+      "Sparse growth in low light"
+    ],
+    "propagationMethods": [
+      "Stem cuttings",
+      "Air layering"
+    ],
+    "quickTips": [
+      "Avoid frequent relocation",
+      "Bright consistent light is best",
+      "Prune to shape in spring"
+    ],
+    "source": "bundled",
+    "dateAdded": "2026-01-01T00:00:00Z"
+  },
+  {
+    "scientificName": "Fittonia albivenis",
+    "commonNames": [
+      "Nerve Plant",
+      "Fittonia",
+      "Mosaic Plant"
+    ],
+    "family": "Acanthaceae",
+    "wateringFrequency": "Every 3-5 days",
+    "wateringNotes": "Keep soil consistently moist. Faints dramatically when thirsty — recovers quickly after watering.",
+    "lightRequirement": "Medium indirect light",
+    "lightDetails": "No direct sun. Great for terrariums and low-light spots.",
+    "humidityPreference": "High (60-90%)",
+    "temperatureRange": "60-80°F (16-27°C)",
+    "soilType": "Rich, moisture-retaining potting mix",
+    "fertilizerSchedule": "Monthly during growing season with diluted fertilizer",
+    "toxicity": "Non-toxic to cats and dogs",
+    "growthRate": "Moderate",
+    "matureSize": "3-6 inches tall, spreading",
+    "commonIssues": [
+      "Dramatic wilting from missed watering (revives quickly)",
+      "Crispy leaves from dry air",
+      "Leggy stems from too little light"
+    ],
+    "propagationMethods": [
+      "Stem cuttings",
+      "Division",
+      "Layering"
+    ],
+    "quickTips": [
+      "Perfect terrarium plant",
+      "Fainting is dramatic but not fatal — water and it bounces back",
+      "Pinch back to keep compact"
+    ],
+    "source": "bundled",
+    "dateAdded": "2026-01-01T00:00:00Z"
+  },
+  {
+    "scientificName": "Gasteria bicolor",
+    "commonNames": [
+      "Ox Tongue",
+      "Gasteria"
+    ],
+    "family": "Asphodelaceae",
+    "wateringFrequency": "Every 14-21 days",
+    "wateringNotes": "Soak thoroughly, then let soil dry completely.",
+    "lightRequirement": "Bright indirect to bright direct light",
+    "lightDetails": "Most grow compactly with strong light.",
+    "humidityPreference": "Low (25-45%)",
+    "temperatureRange": "60-85°F (16-29°C)",
+    "soilType": "Cactus/succulent mix with extra grit",
+    "fertilizerSchedule": "Once monthly in spring and summer, lightly",
+    "toxicity": "Non-toxic to cats and dogs",
+    "growthRate": "Slow to moderate",
+    "matureSize": "4 inches to 3 ft indoors",
+    "commonIssues": [
+      "Rot from overwatering",
+      "Stretching in low light",
+      "Soft growth from poor drainage"
+    ],
+    "propagationMethods": [
+      "Leaf or stem cuttings",
+      "Offsets"
+    ],
+    "quickTips": [
+      "Terracotta pots help prevent rot",
+      "More light usually means better form",
+      "Water less in winter"
+    ],
+    "source": "bundled",
+    "dateAdded": "2026-01-01T00:00:00Z"
+  },
+  {
+    "scientificName": "Goeppertia lancifolia",
+    "commonNames": [
+      "Rattlesnake Plant",
+      "Calathea Lancifolia"
+    ],
+    "family": "Marantaceae",
+    "wateringFrequency": "Every 6-10 days",
+    "wateringNotes": "Keep slightly moist; avoid prolonged soggy soil.",
+    "lightRequirement": "Bright indirect light",
+    "lightDetails": "Morning sun can help, harsh midday sun can scorch.",
+    "humidityPreference": "Medium to high (45-70%)",
+    "temperatureRange": "65-82°F (18-28°C)",
+    "soilType": "Rich, well-draining indoor mix",
+    "fertilizerSchedule": "Monthly during active growth",
+    "toxicity": "Non-toxic to cats and dogs",
+    "growthRate": "Moderate",
+    "matureSize": "1-5 ft indoors",
+    "commonIssues": [
+      "Leaf browning from dry air",
+      "Slow growth in low light",
+      "Root issues in compacted soil"
+    ],
+    "propagationMethods": [
+      "Stem cuttings",
+      "Division"
+    ],
+    "quickTips": [
+      "Good airflow helps prevent pests",
+      "Use filtered water if tips brown",
+      "Repot when roots circle the pot"
+    ],
+    "source": "bundled",
+    "dateAdded": "2026-01-01T00:00:00Z"
+  },
+  {
+    "scientificName": "Goeppertia makoyana",
+    "commonNames": [
+      "Peacock Plant",
+      "Calathea Makoyana"
+    ],
+    "family": "Marantaceae",
+    "wateringFrequency": "Every 6-10 days",
+    "wateringNotes": "Keep slightly moist; avoid prolonged soggy soil.",
+    "lightRequirement": "Bright indirect light",
+    "lightDetails": "Morning sun can help, harsh midday sun can scorch.",
+    "humidityPreference": "Medium to high (45-70%)",
+    "temperatureRange": "65-82°F (18-28°C)",
+    "soilType": "Rich, well-draining indoor mix",
+    "fertilizerSchedule": "Monthly during active growth",
+    "toxicity": "Non-toxic to cats and dogs",
+    "growthRate": "Moderate",
+    "matureSize": "1-5 ft indoors",
+    "commonIssues": [
+      "Leaf browning from dry air",
+      "Slow growth in low light",
+      "Root issues in compacted soil"
+    ],
+    "propagationMethods": [
+      "Stem cuttings",
+      "Division"
+    ],
+    "quickTips": [
+      "Good airflow helps prevent pests",
+      "Use filtered water if tips brown",
+      "Repot when roots circle the pot"
+    ],
+    "source": "bundled",
+    "dateAdded": "2026-01-01T00:00:00Z"
+  },
+  {
+    "scientificName": "Goeppertia ornata",
+    "commonNames": [
+      "Pinstripe Calathea",
+      "Calathea Ornata"
+    ],
+    "family": "Marantaceae",
+    "wateringFrequency": "Every 6-10 days",
+    "wateringNotes": "Keep slightly moist; avoid prolonged soggy soil.",
+    "lightRequirement": "Bright indirect light",
+    "lightDetails": "Morning sun can help, harsh midday sun can scorch.",
+    "humidityPreference": "Medium to high (45-70%)",
+    "temperatureRange": "65-82°F (18-28°C)",
+    "soilType": "Rich, well-draining indoor mix",
+    "fertilizerSchedule": "Monthly during active growth",
+    "toxicity": "Non-toxic to cats and dogs",
+    "growthRate": "Moderate",
+    "matureSize": "1-5 ft indoors",
+    "commonIssues": [
+      "Leaf browning from dry air",
+      "Slow growth in low light",
+      "Root issues in compacted soil"
+    ],
+    "propagationMethods": [
+      "Stem cuttings",
+      "Division"
+    ],
+    "quickTips": [
+      "Good airflow helps prevent pests",
+      "Use filtered water if tips brown",
+      "Repot when roots circle the pot"
+    ],
+    "source": "bundled",
+    "dateAdded": "2026-01-01T00:00:00Z"
+  },
+  {
+    "scientificName": "Graptopetalum paraguayense",
+    "commonNames": [
+      "Ghost Plant",
+      "Mother of Pearl Plant"
+    ],
+    "family": "Crassulaceae",
+    "wateringFrequency": "Every 14-21 days",
+    "wateringNotes": "Soak thoroughly, then let soil dry completely.",
+    "lightRequirement": "Bright indirect to bright direct light",
+    "lightDetails": "Most grow compactly with strong light.",
+    "humidityPreference": "Low (25-45%)",
+    "temperatureRange": "60-85°F (16-29°C)",
+    "soilType": "Cactus/succulent mix with extra grit",
+    "fertilizerSchedule": "Once monthly in spring and summer, lightly",
+    "toxicity": "Non-toxic to cats and dogs",
+    "growthRate": "Slow to moderate",
+    "matureSize": "4 inches to 3 ft indoors",
+    "commonIssues": [
+      "Rot from overwatering",
+      "Stretching in low light",
+      "Soft growth from poor drainage"
+    ],
+    "propagationMethods": [
+      "Leaf or stem cuttings",
+      "Offsets"
+    ],
+    "quickTips": [
+      "Terracotta pots help prevent rot",
+      "More light usually means better form",
+      "Water less in winter"
+    ],
+    "source": "bundled",
+    "dateAdded": "2026-01-01T00:00:00Z"
+  },
+  {
+    "scientificName": "Gymnocalycium mihanovichii",
+    "commonNames": [
+      "Moon Cactus",
+      "Ruby Ball Cactus"
+    ],
+    "family": "Cactaceae",
+    "wateringFrequency": "Every 14-28 days",
+    "wateringNotes": "Water deeply, then allow complete dry-down.",
+    "lightRequirement": "Bright direct light",
+    "lightDetails": "Provide as much sun as possible indoors.",
+    "humidityPreference": "Low (20-40%)",
+    "temperatureRange": "55-90°F (13-32°C)",
+    "soilType": "Fast-draining cactus mix",
+    "fertilizerSchedule": "Once in spring and once in summer",
+    "toxicity": "Typically non-toxic but many have sharp spines",
+    "growthRate": "Slow",
+    "matureSize": "6 inches to 4 ft indoors",
+    "commonIssues": [
+      "Root rot from overwatering",
+      "Etiolation from low light",
+      "Sunburn after abrupt light changes"
+    ],
+    "propagationMethods": [
+      "Offsets",
+      "Stem cuttings (species dependent)"
+    ],
+    "quickTips": [
+      "Use gritty soil",
+      "Handle with gloves",
+      "Reduce watering heavily in winter"
+    ],
+    "source": "bundled",
+    "dateAdded": "2026-01-01T00:00:00Z"
+  },
+  {
+    "scientificName": "Haworthia fasciata",
+    "commonNames": [
+      "Zebra Plant",
+      "Zebra Haworthia"
+    ],
+    "family": "Asphodelaceae",
+    "wateringFrequency": "Every 14-21 days",
+    "wateringNotes": "Soak and dry method. Very drought tolerant.",
+    "lightRequirement": "Bright indirect light",
+    "lightDetails": "Tolerates lower light better than most succulents. Avoid intense direct sun.",
+    "humidityPreference": "Low (30-40%)",
+    "temperatureRange": "50-80°F (10-27°C)",
+    "soilType": "Cactus/succulent mix",
+    "fertilizerSchedule": "Once or twice during growing season",
+    "toxicity": "Non-toxic to cats and dogs",
+    "growthRate": "Slow",
+    "matureSize": "3-5 inches",
+    "commonIssues": [
+      "Root rot from overwatering",
+      "Brown/red from too much sun",
+      "Very few problems overall"
+    ],
+    "propagationMethods": [
+      "Offsets (pups)",
+      "Leaf cuttings (slow)"
+    ],
+    "quickTips": [
+      "Perfect desk plant — tiny and tough",
+      "White stripes on dark green are striking",
+      "Produces pups around the base for easy sharing"
+    ],
+    "source": "bundled",
+    "dateAdded": "2026-01-01T00:00:00Z"
+  },
+  {
+    "scientificName": "Haworthiopsis attenuata",
+    "commonNames": [
+      "Zebra Haworthia",
+      "Haworthia Attenuata"
+    ],
+    "family": "Asphodelaceae",
+    "wateringFrequency": "Every 14-21 days",
+    "wateringNotes": "Soak thoroughly, then let soil dry completely.",
+    "lightRequirement": "Bright indirect to bright direct light",
+    "lightDetails": "Most grow compactly with strong light.",
+    "humidityPreference": "Low (25-45%)",
+    "temperatureRange": "60-85°F (16-29°C)",
+    "soilType": "Cactus/succulent mix with extra grit",
+    "fertilizerSchedule": "Once monthly in spring and summer, lightly",
+    "toxicity": "Non-toxic to cats and dogs",
+    "growthRate": "Slow to moderate",
+    "matureSize": "4 inches to 3 ft indoors",
+    "commonIssues": [
+      "Rot from overwatering",
+      "Stretching in low light",
+      "Soft growth from poor drainage"
+    ],
+    "propagationMethods": [
+      "Leaf or stem cuttings",
+      "Offsets"
+    ],
+    "quickTips": [
+      "Terracotta pots help prevent rot",
+      "More light usually means better form",
+      "Water less in winter"
+    ],
+    "source": "bundled",
+    "dateAdded": "2026-01-01T00:00:00Z"
+  },
+  {
+    "scientificName": "Hedera helix",
+    "commonNames": [
+      "English Ivy",
+      "Common Ivy"
+    ],
+    "family": "Araliaceae",
+    "wateringFrequency": "Every 5-7 days",
+    "wateringNotes": "Keep soil slightly moist. Reduce in winter. Doesn't like to dry out completely.",
+    "lightRequirement": "Medium to bright indirect light",
+    "lightDetails": "Variegated types need more light. Green types tolerate lower light.",
+    "humidityPreference": "Medium to high (50-70%)",
+    "temperatureRange": "50-70°F (10-21°C)",
+    "soilType": "Standard well-draining potting mix",
+    "fertilizerSchedule": "Monthly during growing season",
+    "toxicity": "Toxic to cats, dogs, and children",
+    "growthRate": "Fast",
+    "matureSize": "Trailing vines 6-8 ft indoors",
+    "commonIssues": [
+      "Spider mites (extremely common — inspect regularly)",
+      "Leaf drop from hot dry air",
+      "Root rot in heavy soil"
+    ],
+    "propagationMethods": [
+      "Stem cuttings in water or soil"
+    ],
+    "quickTips": [
+      "Mist frequently or spider mites will find it",
+      "Loves cooler temperatures",
+      "Great trailing plant for shelves"
+    ],
+    "source": "bundled",
+    "dateAdded": "2026-01-01T00:00:00Z"
+  },
+  {
+    "scientificName": "Homalomena rubescens",
+    "commonNames": [
+      "Queen of Hearts",
+      "Red Stem Homalomena"
+    ],
+    "family": "Araceae",
+    "wateringFrequency": "Every 7-10 days",
+    "wateringNotes": "Let top inch of soil dry between waterings.",
+    "lightRequirement": "Bright indirect light",
+    "lightDetails": "Avoid harsh direct sun; brighter indirect light supports larger leaves.",
+    "humidityPreference": "Medium to high (50-70%)",
+    "temperatureRange": "65-85°F (18-29°C)",
+    "soilType": "Chunky well-draining aroid mix",
+    "fertilizerSchedule": "Monthly during growing season",
+    "toxicity": "Toxic to cats and dogs",
+    "growthRate": "Moderate",
+    "matureSize": "2-6 ft indoors",
+    "commonIssues": [
+      "Yellow leaves from overwatering",
+      "Leggy growth in low light",
+      "Brown edges from dry air"
+    ],
+    "propagationMethods": [
+      "Stem cuttings",
+      "Division (when applicable)"
+    ],
+    "quickTips": [
+      "Use a support pole for larger leaves",
+      "Rotate for even growth",
+      "Check roots yearly"
+    ],
+    "source": "bundled",
+    "dateAdded": "2026-01-01T00:00:00Z"
+  },
+  {
+    "scientificName": "Howea forsteriana",
+    "commonNames": [
+      "Kentia Palm",
+      "Thatch Palm"
+    ],
+    "family": "Arecaceae",
+    "wateringFrequency": "Every 7-12 days",
+    "wateringNotes": "Water when top 1-2 inches are dry.",
+    "lightRequirement": "Medium to bright indirect light",
+    "lightDetails": "Avoid harsh afternoon sun behind glass.",
+    "humidityPreference": "Medium (40-60%)",
+    "temperatureRange": "65-82°F (18-28°C)",
+    "soilType": "Well-draining indoor palm mix",
+    "fertilizerSchedule": "Every 6-8 weeks in growing season",
+    "toxicity": "Non-toxic to cats and dogs",
+    "growthRate": "Slow to moderate",
+    "matureSize": "3-8 ft indoors",
+    "commonIssues": [
+      "Brown tips from dry air",
+      "Yellowing from overwatering",
+      "Spider mites in dry rooms"
+    ],
+    "propagationMethods": [
+      "Seed (most species)",
+      "Division (some clumping palms)"
+    ],
+    "quickTips": [
+      "Keep away from heater vents",
+      "Wipe fronds to reduce dust",
+      "Rotate for balanced growth"
+    ],
+    "source": "bundled",
+    "dateAdded": "2026-01-01T00:00:00Z"
+  },
+  {
+    "scientificName": "Hoya australis",
+    "commonNames": [
+      "Wax Vine",
+      "Hoya Australis"
+    ],
+    "family": "Apocynaceae",
+    "wateringFrequency": "Every 6-10 days",
+    "wateringNotes": "Keep slightly moist; avoid prolonged soggy soil.",
+    "lightRequirement": "Bright indirect light",
+    "lightDetails": "Morning sun can help, harsh midday sun can scorch.",
+    "humidityPreference": "Medium to high (45-70%)",
+    "temperatureRange": "65-82°F (18-28°C)",
+    "soilType": "Rich, well-draining indoor mix",
+    "fertilizerSchedule": "Monthly during active growth",
+    "toxicity": "Non-toxic to cats and dogs",
+    "growthRate": "Moderate",
+    "matureSize": "1-5 ft indoors",
+    "commonIssues": [
+      "Leaf browning from dry air",
+      "Slow growth in low light",
+      "Root issues in compacted soil"
+    ],
+    "propagationMethods": [
+      "Stem cuttings",
+      "Division"
+    ],
+    "quickTips": [
+      "Good airflow helps prevent pests",
+      "Use filtered water if tips brown",
+      "Repot when roots circle the pot"
+    ],
+    "source": "bundled",
+    "dateAdded": "2026-01-01T00:00:00Z"
+  },
+  {
+    "scientificName": "Hoya bella",
+    "commonNames": [
+      "Miniature Wax Plant",
+      "Hoya Bella"
+    ],
+    "family": "Apocynaceae",
+    "wateringFrequency": "Every 6-10 days",
+    "wateringNotes": "Keep slightly moist; avoid prolonged soggy soil.",
+    "lightRequirement": "Bright indirect light",
+    "lightDetails": "Morning sun can help, harsh midday sun can scorch.",
+    "humidityPreference": "Medium to high (45-70%)",
+    "temperatureRange": "65-82°F (18-28°C)",
+    "soilType": "Rich, well-draining indoor mix",
+    "fertilizerSchedule": "Monthly during active growth",
+    "toxicity": "Non-toxic to cats and dogs",
+    "growthRate": "Moderate",
+    "matureSize": "1-5 ft indoors",
+    "commonIssues": [
+      "Leaf browning from dry air",
+      "Slow growth in low light",
+      "Root issues in compacted soil"
+    ],
+    "propagationMethods": [
+      "Stem cuttings",
+      "Division"
+    ],
+    "quickTips": [
+      "Good airflow helps prevent pests",
+      "Use filtered water if tips brown",
+      "Repot when roots circle the pot"
+    ],
+    "source": "bundled",
+    "dateAdded": "2026-01-01T00:00:00Z"
+  },
+  {
+    "scientificName": "Hoya carnosa",
+    "commonNames": [
+      "Wax Plant",
+      "Hoya",
+      "Porcelain Flower"
+    ],
+    "family": "Apocynaceae",
+    "wateringFrequency": "Every 10-14 days",
+    "wateringNotes": "Let soil dry out between waterings. Prefers to be slightly underwatered.",
+    "lightRequirement": "Bright indirect light",
+    "lightDetails": "Some direct morning sun is fine. More light = more flowers.",
+    "humidityPreference": "Medium to high (50-70%)",
+    "temperatureRange": "60-80°F (16-27°C)",
+    "soilType": "Chunky, well-draining mix (orchid bark, perlite, peat)",
+    "fertilizerSchedule": "Monthly spring through summer",
+    "toxicity": "Non-toxic to cats and dogs",
+    "growthRate": "Slow to moderate",
+    "matureSize": "Trailing vines 2-4 ft indoors",
+    "commonIssues": [
+      "Mealy bugs (check leaf axils)",
+      "No blooms if light is too low",
+      "Yellow leaves from overwatering"
+    ],
+    "propagationMethods": [
+      "Stem cuttings in water or sphagnum moss"
+    ],
+    "quickTips": [
+      "Don't remove old flower stalks — they bloom again from the same spot",
+      "Loves being slightly root-bound",
+      "Incredible fragrance when blooming"
+    ],
+    "source": "bundled",
+    "dateAdded": "2026-01-01T00:00:00Z"
+  },
+  {
+    "scientificName": "Hoya kerrii",
+    "commonNames": [
+      "Sweetheart Hoya",
+      "Valentine Hoya"
+    ],
+    "family": "Apocynaceae",
+    "wateringFrequency": "Every 14-21 days",
+    "wateringNotes": "Soak thoroughly, then let soil dry completely.",
+    "lightRequirement": "Bright indirect to bright direct light",
+    "lightDetails": "Most grow compactly with strong light.",
+    "humidityPreference": "Low (25-45%)",
+    "temperatureRange": "60-85°F (16-29°C)",
+    "soilType": "Cactus/succulent mix with extra grit",
+    "fertilizerSchedule": "Once monthly in spring and summer, lightly",
+    "toxicity": "Non-toxic to cats and dogs",
+    "growthRate": "Slow to moderate",
+    "matureSize": "4 inches to 3 ft indoors",
+    "commonIssues": [
+      "Rot from overwatering",
+      "Stretching in low light",
+      "Soft growth from poor drainage"
+    ],
+    "propagationMethods": [
+      "Leaf or stem cuttings",
+      "Offsets"
+    ],
+    "quickTips": [
+      "Terracotta pots help prevent rot",
+      "More light usually means better form",
+      "Water less in winter"
+    ],
+    "source": "bundled",
+    "dateAdded": "2026-01-01T00:00:00Z"
+  },
+  {
+    "scientificName": "Hoya linearis",
+    "commonNames": [
+      "String Bean Hoya",
+      "Hoya Linearis"
+    ],
+    "family": "Apocynaceae",
+    "wateringFrequency": "Every 6-10 days",
+    "wateringNotes": "Keep slightly moist; avoid prolonged soggy soil.",
+    "lightRequirement": "Bright indirect light",
+    "lightDetails": "Morning sun can help, harsh midday sun can scorch.",
+    "humidityPreference": "Medium to high (45-70%)",
+    "temperatureRange": "65-82°F (18-28°C)",
+    "soilType": "Rich, well-draining indoor mix",
+    "fertilizerSchedule": "Monthly during active growth",
+    "toxicity": "Non-toxic to cats and dogs",
+    "growthRate": "Moderate",
+    "matureSize": "1-5 ft indoors",
+    "commonIssues": [
+      "Leaf browning from dry air",
+      "Slow growth in low light",
+      "Root issues in compacted soil"
+    ],
+    "propagationMethods": [
+      "Stem cuttings",
+      "Division"
+    ],
+    "quickTips": [
+      "Good airflow helps prevent pests",
+      "Use filtered water if tips brown",
+      "Repot when roots circle the pot"
+    ],
+    "source": "bundled",
+    "dateAdded": "2026-01-01T00:00:00Z"
+  },
+  {
+    "scientificName": "Hoya pubicalyx",
+    "commonNames": [
+      "Wax Plant",
+      "Silver Splash Hoya"
+    ],
+    "family": "Apocynaceae",
+    "wateringFrequency": "Every 6-10 days",
+    "wateringNotes": "Keep slightly moist; avoid prolonged soggy soil.",
+    "lightRequirement": "Bright indirect light",
+    "lightDetails": "Morning sun can help, harsh midday sun can scorch.",
+    "humidityPreference": "Medium to high (45-70%)",
+    "temperatureRange": "65-82°F (18-28°C)",
+    "soilType": "Rich, well-draining indoor mix",
+    "fertilizerSchedule": "Monthly during active growth",
+    "toxicity": "Non-toxic to cats and dogs",
+    "growthRate": "Moderate",
+    "matureSize": "1-5 ft indoors",
+    "commonIssues": [
+      "Leaf browning from dry air",
+      "Slow growth in low light",
+      "Root issues in compacted soil"
+    ],
+    "propagationMethods": [
+      "Stem cuttings",
+      "Division"
+    ],
+    "quickTips": [
+      "Good airflow helps prevent pests",
+      "Use filtered water if tips brown",
+      "Repot when roots circle the pot"
+    ],
+    "source": "bundled",
+    "dateAdded": "2026-01-01T00:00:00Z"
+  },
+  {
+    "scientificName": "Kalanchoe blossfeldiana",
+    "commonNames": [
+      "Flaming Katy",
+      "Kalanchoe"
+    ],
+    "family": "Crassulaceae",
+    "wateringFrequency": "Every 14-21 days",
+    "wateringNotes": "Soak thoroughly, then let soil dry completely.",
+    "lightRequirement": "Bright indirect to bright direct light",
+    "lightDetails": "Most grow compactly with strong light.",
+    "humidityPreference": "Low (25-45%)",
+    "temperatureRange": "60-85°F (16-29°C)",
+    "soilType": "Cactus/succulent mix with extra grit",
+    "fertilizerSchedule": "Once monthly in spring and summer, lightly",
+    "toxicity": "Toxic to cats and dogs",
+    "growthRate": "Slow to moderate",
+    "matureSize": "4 inches to 3 ft indoors",
+    "commonIssues": [
+      "Rot from overwatering",
+      "Stretching in low light",
+      "Soft growth from poor drainage"
+    ],
+    "propagationMethods": [
+      "Leaf or stem cuttings",
+      "Offsets"
+    ],
+    "quickTips": [
+      "Terracotta pots help prevent rot",
+      "More light usually means better form",
+      "Water less in winter"
+    ],
+    "source": "bundled",
+    "dateAdded": "2026-01-01T00:00:00Z"
+  },
+  {
+    "scientificName": "Kalanchoe tomentosa",
+    "commonNames": [
+      "Panda Plant",
+      "Chocolate Soldier"
+    ],
+    "family": "Crassulaceae",
+    "wateringFrequency": "Every 14-21 days",
+    "wateringNotes": "Soak thoroughly, then let soil dry completely.",
+    "lightRequirement": "Bright indirect to bright direct light",
+    "lightDetails": "Most grow compactly with strong light.",
+    "humidityPreference": "Low (25-45%)",
+    "temperatureRange": "60-85°F (16-29°C)",
+    "soilType": "Cactus/succulent mix with extra grit",
+    "fertilizerSchedule": "Once monthly in spring and summer, lightly",
+    "toxicity": "Toxic to cats and dogs",
+    "growthRate": "Slow to moderate",
+    "matureSize": "4 inches to 3 ft indoors",
+    "commonIssues": [
+      "Rot from overwatering",
+      "Stretching in low light",
+      "Soft growth from poor drainage"
+    ],
+    "propagationMethods": [
+      "Leaf or stem cuttings",
+      "Offsets"
+    ],
+    "quickTips": [
+      "Terracotta pots help prevent rot",
+      "More light usually means better form",
+      "Water less in winter"
+    ],
+    "source": "bundled",
+    "dateAdded": "2026-01-01T00:00:00Z"
+  },
+  {
+    "scientificName": "Lithops aucampiae",
+    "commonNames": [
+      "Living Stones",
+      "Lithops"
+    ],
+    "family": "Aizoaceae",
+    "wateringFrequency": "Every 14-21 days",
+    "wateringNotes": "Soak thoroughly, then let soil dry completely.",
+    "lightRequirement": "Bright indirect to bright direct light",
+    "lightDetails": "Most grow compactly with strong light.",
+    "humidityPreference": "Low (25-45%)",
+    "temperatureRange": "60-85°F (16-29°C)",
+    "soilType": "Cactus/succulent mix with extra grit",
+    "fertilizerSchedule": "Once monthly in spring and summer, lightly",
+    "toxicity": "Non-toxic to cats and dogs",
+    "growthRate": "Slow to moderate",
+    "matureSize": "4 inches to 3 ft indoors",
+    "commonIssues": [
+      "Rot from overwatering",
+      "Stretching in low light",
+      "Soft growth from poor drainage"
+    ],
+    "propagationMethods": [
+      "Leaf or stem cuttings",
+      "Offsets"
+    ],
+    "quickTips": [
+      "Terracotta pots help prevent rot",
+      "More light usually means better form",
+      "Water less in winter"
+    ],
+    "source": "bundled",
+    "dateAdded": "2026-01-01T00:00:00Z"
+  },
+  {
+    "scientificName": "Livistona chinensis",
+    "commonNames": [
+      "Chinese Fan Palm",
+      "Fountain Palm"
+    ],
+    "family": "Arecaceae",
+    "wateringFrequency": "Every 7-12 days",
+    "wateringNotes": "Water when top 1-2 inches are dry.",
+    "lightRequirement": "Medium to bright indirect light",
+    "lightDetails": "Avoid harsh afternoon sun behind glass.",
+    "humidityPreference": "Medium (40-60%)",
+    "temperatureRange": "65-82°F (18-28°C)",
+    "soilType": "Well-draining indoor palm mix",
+    "fertilizerSchedule": "Every 6-8 weeks in growing season",
+    "toxicity": "Non-toxic to cats and dogs",
+    "growthRate": "Slow to moderate",
+    "matureSize": "3-8 ft indoors",
+    "commonIssues": [
+      "Brown tips from dry air",
+      "Yellowing from overwatering",
+      "Spider mites in dry rooms"
+    ],
+    "propagationMethods": [
+      "Seed (most species)",
+      "Division (some clumping palms)"
+    ],
+    "quickTips": [
+      "Keep away from heater vents",
+      "Wipe fronds to reduce dust",
+      "Rotate for balanced growth"
+    ],
+    "source": "bundled",
+    "dateAdded": "2026-01-01T00:00:00Z"
+  },
+  {
+    "scientificName": "Mammillaria elongata",
+    "commonNames": [
+      "Ladyfinger Cactus",
+      "Gold Lace Cactus"
+    ],
+    "family": "Cactaceae",
+    "wateringFrequency": "Every 14-28 days",
+    "wateringNotes": "Water deeply, then allow complete dry-down.",
+    "lightRequirement": "Bright direct light",
+    "lightDetails": "Provide as much sun as possible indoors.",
+    "humidityPreference": "Low (20-40%)",
+    "temperatureRange": "55-90°F (13-32°C)",
+    "soilType": "Fast-draining cactus mix",
+    "fertilizerSchedule": "Once in spring and once in summer",
+    "toxicity": "Typically non-toxic but many have sharp spines",
+    "growthRate": "Slow",
+    "matureSize": "6 inches to 4 ft indoors",
+    "commonIssues": [
+      "Root rot from overwatering",
+      "Etiolation from low light",
+      "Sunburn after abrupt light changes"
+    ],
+    "propagationMethods": [
+      "Offsets",
+      "Stem cuttings (species dependent)"
+    ],
+    "quickTips": [
+      "Use gritty soil",
+      "Handle with gloves",
+      "Reduce watering heavily in winter"
+    ],
+    "source": "bundled",
+    "dateAdded": "2026-01-01T00:00:00Z"
+  },
+  {
+    "scientificName": "Mammillaria hahniana",
+    "commonNames": [
+      "Old Lady Cactus",
+      "Mammillaria"
+    ],
+    "family": "Cactaceae",
+    "wateringFrequency": "Every 14-28 days",
+    "wateringNotes": "Water deeply, then allow complete dry-down.",
+    "lightRequirement": "Bright direct light",
+    "lightDetails": "Provide as much sun as possible indoors.",
+    "humidityPreference": "Low (20-40%)",
+    "temperatureRange": "55-90°F (13-32°C)",
+    "soilType": "Fast-draining cactus mix",
+    "fertilizerSchedule": "Once in spring and once in summer",
+    "toxicity": "Typically non-toxic but many have sharp spines",
+    "growthRate": "Slow",
+    "matureSize": "6 inches to 4 ft indoors",
+    "commonIssues": [
+      "Root rot from overwatering",
+      "Etiolation from low light",
+      "Sunburn after abrupt light changes"
+    ],
+    "propagationMethods": [
+      "Offsets",
+      "Stem cuttings (species dependent)"
+    ],
+    "quickTips": [
+      "Use gritty soil",
+      "Handle with gloves",
+      "Reduce watering heavily in winter"
+    ],
+    "source": "bundled",
+    "dateAdded": "2026-01-01T00:00:00Z"
+  },
+  {
+    "scientificName": "Maranta kerchoveana",
+    "commonNames": [
+      "Green Prayer Plant",
+      "Rabbit's Foot Prayer Plant"
+    ],
+    "family": "Marantaceae",
+    "wateringFrequency": "Every 6-10 days",
+    "wateringNotes": "Keep slightly moist; avoid prolonged soggy soil.",
+    "lightRequirement": "Bright indirect light",
+    "lightDetails": "Morning sun can help, harsh midday sun can scorch.",
+    "humidityPreference": "Medium to high (45-70%)",
+    "temperatureRange": "65-82°F (18-28°C)",
+    "soilType": "Rich, well-draining indoor mix",
+    "fertilizerSchedule": "Monthly during active growth",
+    "toxicity": "Non-toxic to cats and dogs",
+    "growthRate": "Moderate",
+    "matureSize": "1-5 ft indoors",
+    "commonIssues": [
+      "Leaf browning from dry air",
+      "Slow growth in low light",
+      "Root issues in compacted soil"
+    ],
+    "propagationMethods": [
+      "Stem cuttings",
+      "Division"
+    ],
+    "quickTips": [
+      "Good airflow helps prevent pests",
+      "Use filtered water if tips brown",
+      "Repot when roots circle the pot"
+    ],
+    "source": "bundled",
+    "dateAdded": "2026-01-01T00:00:00Z"
+  },
+  {
+    "scientificName": "Maranta leuconeura",
+    "commonNames": [
+      "Prayer Plant",
+      "Red Prayer Plant"
+    ],
+    "family": "Marantaceae",
+    "wateringFrequency": "Every 5-7 days",
+    "wateringNotes": "Keep evenly moist. Sensitive to tap water chemicals — use filtered.",
+    "lightRequirement": "Medium indirect light",
+    "lightDetails": "Too much light fades patterns. Too little light slows growth. North or east window.",
+    "humidityPreference": "High (60-80%)",
+    "temperatureRange": "65-80°F (18-27°C)",
+    "soilType": "Rich, well-draining peat-based mix",
+    "fertilizerSchedule": "Every 2 weeks spring through summer with diluted fertilizer",
+    "toxicity": "Non-toxic to cats and dogs",
+    "growthRate": "Moderate",
+    "matureSize": "12-18 inches tall, spreading habit",
+    "commonIssues": [
+      "Brown leaf tips from low humidity or tap water",
+      "Spider mites",
+      "Curling leaves from cold drafts"
+    ],
+    "propagationMethods": [
+      "Stem cuttings at nodes",
+      "Division"
+    ],
+    "quickTips": [
+      "Leaves fold upward at night like praying hands",
+      "Great terrarium plant",
+      "Humidity tray or humidifier makes a big difference"
+    ],
+    "source": "bundled",
+    "dateAdded": "2026-01-01T00:00:00Z"
+  },
+  {
+    "scientificName": "Microsorum diversifolium",
+    "commonNames": [
+      "Kangaroo Fern",
+      "Kangaroo Paw Fern"
+    ],
+    "family": "Polypodiaceae",
+    "wateringFrequency": "Every 3-6 days",
+    "wateringNotes": "Keep soil evenly moist but not soggy.",
+    "lightRequirement": "Medium indirect light",
+    "lightDetails": "Filtered light is ideal; direct sun scorches fronds.",
+    "humidityPreference": "High (60-80%)",
+    "temperatureRange": "60-78°F (16-26°C)",
+    "soilType": "Moisture-retaining, well-draining potting mix",
+    "fertilizerSchedule": "Monthly at half strength in spring and summer",
+    "toxicity": "Non-toxic to cats and dogs",
+    "growthRate": "Moderate",
+    "matureSize": "1-3 ft indoors",
+    "commonIssues": [
+      "Crispy fronds from low humidity",
+      "Browning from missed watering",
+      "Pests in dry air"
+    ],
+    "propagationMethods": [
+      "Division",
+      "Spores (advanced)"
+    ],
+    "quickTips": [
+      "Humidity is key",
+      "Avoid drying out completely",
+      "Trim old fronds regularly"
+    ],
+    "source": "bundled",
+    "dateAdded": "2026-01-01T00:00:00Z"
+  },
+  {
+    "scientificName": "Monstera adansonii",
+    "commonNames": [
+      "Swiss Cheese Vine",
+      "Monkey Mask",
+      "Adansonii"
+    ],
+    "family": "Araceae",
+    "wateringFrequency": "Every 7-10 days",
+    "wateringNotes": "Let top inch dry between waterings. Slightly thirstier than Monstera deliciosa.",
+    "lightRequirement": "Bright indirect light",
+    "lightDetails": "More holes (fenestrations) develop in brighter light. No direct sun.",
+    "humidityPreference": "Medium to high (50-70%)",
+    "temperatureRange": "65-80°F (18-27°C)",
+    "soilType": "Chunky aroid mix (bark, perlite, peat)",
+    "fertilizerSchedule": "Monthly during growing season",
+    "toxicity": "Toxic to cats and dogs",
+    "growthRate": "Fast",
+    "matureSize": "Trailing/climbing vines 6-8 ft",
+    "commonIssues": [
+      "Yellow leaves from overwatering",
+      "Brown spots from direct sun",
+      "Sparse leaves in low light"
+    ],
+    "propagationMethods": [
+      "Stem cuttings in water or sphagnum moss"
+    ],
+    "quickTips": [
+      "Grows beautifully on a trellis or moss pole",
+      "Faster growing than Monstera deliciosa",
+      "Pin vines to a support for larger leaves"
+    ],
+    "source": "bundled",
+    "dateAdded": "2026-01-01T00:00:00Z"
+  },
+  {
+    "scientificName": "Monstera deliciosa",
+    "commonNames": [
+      "Swiss Cheese Plant",
+      "Monstera",
+      "Split-leaf Philodendron"
+    ],
+    "family": "Araceae",
+    "wateringFrequency": "Every 7-10 days",
+    "wateringNotes": "Allow top 2 inches of soil to dry between waterings. Reduce in winter.",
+    "lightRequirement": "Bright indirect light",
+    "lightDetails": "Tolerates medium light but fenestrations develop best in bright indirect. Avoid direct sun which scorches leaves.",
+    "humidityPreference": "Medium to high (50-70%)",
+    "temperatureRange": "65-85°F (18-29°C)",
+    "soilType": "Well-draining aroid mix (peat, perlite, bark)",
+    "fertilizerSchedule": "Monthly spring through summer with balanced liquid fertilizer",
+    "toxicity": "Toxic to cats and dogs (calcium oxalate crystals)",
+    "growthRate": "Moderate to fast",
+    "matureSize": "Up to 8 ft indoors",
+    "commonIssues": [
+      "Yellow leaves from overwatering",
+      "Brown tips from low humidity",
+      "Leggy growth in low light"
+    ],
+    "propagationMethods": [
+      "Stem cuttings in water or soil",
+      "Air layering"
+    ],
+    "quickTips": [
+      "Provide a moss pole for climbing support",
+      "Rotate quarterly for even growth",
+      "Wipe leaves monthly to remove dust"
+    ],
+    "source": "bundled",
+    "dateAdded": "2026-01-01T00:00:00Z"
+  },
+  {
+    "scientificName": "Monstera dubia",
+    "commonNames": [
+      "Shingle Plant",
+      "Monstera Dubia"
+    ],
+    "family": "Araceae",
+    "wateringFrequency": "Every 7-10 days",
+    "wateringNotes": "Let top inch of soil dry between waterings.",
+    "lightRequirement": "Bright indirect light",
+    "lightDetails": "Avoid harsh direct sun; brighter indirect light supports larger leaves.",
+    "humidityPreference": "Medium to high (50-70%)",
+    "temperatureRange": "65-85°F (18-29°C)",
+    "soilType": "Chunky well-draining aroid mix",
+    "fertilizerSchedule": "Monthly during growing season",
+    "toxicity": "Toxic to cats and dogs",
+    "growthRate": "Moderate",
+    "matureSize": "2-6 ft indoors",
+    "commonIssues": [
+      "Yellow leaves from overwatering",
+      "Leggy growth in low light",
+      "Brown edges from dry air"
+    ],
+    "propagationMethods": [
+      "Stem cuttings",
+      "Division (when applicable)"
+    ],
+    "quickTips": [
+      "Use a support pole for larger leaves",
+      "Rotate for even growth",
+      "Check roots yearly"
+    ],
+    "source": "bundled",
+    "dateAdded": "2026-01-01T00:00:00Z"
+  },
+  {
+    "scientificName": "Monstera standleyana",
+    "commonNames": [
+      "Five Holes Plant",
+      "Cobra Monstera"
+    ],
+    "family": "Araceae",
+    "wateringFrequency": "Every 7-10 days",
+    "wateringNotes": "Let top inch of soil dry between waterings.",
+    "lightRequirement": "Bright indirect light",
+    "lightDetails": "Avoid harsh direct sun; brighter indirect light supports larger leaves.",
+    "humidityPreference": "Medium to high (50-70%)",
+    "temperatureRange": "65-85°F (18-29°C)",
+    "soilType": "Chunky well-draining aroid mix",
+    "fertilizerSchedule": "Monthly during growing season",
+    "toxicity": "Toxic to cats and dogs",
+    "growthRate": "Moderate",
+    "matureSize": "2-6 ft indoors",
+    "commonIssues": [
+      "Yellow leaves from overwatering",
+      "Leggy growth in low light",
+      "Brown edges from dry air"
+    ],
+    "propagationMethods": [
+      "Stem cuttings",
+      "Division (when applicable)"
+    ],
+    "quickTips": [
+      "Use a support pole for larger leaves",
+      "Rotate for even growth",
+      "Check roots yearly"
+    ],
+    "source": "bundled",
+    "dateAdded": "2026-01-01T00:00:00Z"
+  },
+  {
+    "scientificName": "Nephrolepis exaltata",
+    "commonNames": [
+      "Boston Fern",
+      "Sword Fern"
+    ],
+    "family": "Nephrolepidaceae",
+    "wateringFrequency": "Every 3-5 days",
+    "wateringNotes": "Keep soil consistently moist. Never let dry out completely. Loves humidity.",
+    "lightRequirement": "Medium indirect light",
+    "lightDetails": "Filtered light is ideal. Direct sun burns fronds quickly.",
+    "humidityPreference": "High (60-80%)",
+    "temperatureRange": "60-75°F (16-24°C)",
+    "soilType": "Rich, peat-based potting mix",
+    "fertilizerSchedule": "Monthly spring through fall with diluted liquid fertilizer",
+    "toxicity": "Non-toxic to cats and dogs",
+    "growthRate": "Fast",
+    "matureSize": "2-3 ft tall, 3-4 ft spread",
+    "commonIssues": [
+      "Leaf drop from dry air (the #1 issue)",
+      "Brown fronds from underwatering",
+      "Messy shedding of small leaflets"
+    ],
+    "propagationMethods": [
+      "Division",
+      "Runners"
+    ],
+    "quickTips": [
+      "Mist daily or use a humidity tray",
+      "Incredible air purifier",
+      "Sheds leaflets — not for neat freaks"
+    ],
+    "source": "bundled",
+    "dateAdded": "2026-01-01T00:00:00Z"
+  },
+  {
+    "scientificName": "Opuntia microdasys",
+    "commonNames": [
+      "Bunny Ear Cactus",
+      "Angel Wings Cactus"
+    ],
+    "family": "Cactaceae",
+    "wateringFrequency": "Every 14-28 days",
+    "wateringNotes": "Let soil dry completely between waterings. Almost no water in winter.",
+    "lightRequirement": "Bright direct light",
+    "lightDetails": "Needs full sun — at least 6 hours daily. South-facing window ideal.",
+    "humidityPreference": "Low (20-40%)",
+    "temperatureRange": "50-85°F (10-29°C)",
+    "soilType": "Cactus/succulent mix with extra sand or grit",
+    "fertilizerSchedule": "Once in spring with cactus fertilizer",
+    "toxicity": "Non-toxic but covered in painful glochids (tiny barbed spines)",
+    "growthRate": "Slow",
+    "matureSize": "1-2 ft",
+    "commonIssues": [
+      "Etiolation from insufficient light",
+      "Root rot from overwatering",
+      "Glochids embed in skin — handle with care"
+    ],
+    "propagationMethods": [
+      "Pad cuttings (let callous first)"
+    ],
+    "quickTips": [
+      "Handle with thick gloves or folded newspaper — tiny spines are painful",
+      "Cute ear-shaped pads",
+      "Very low maintenance once positioned correctly"
+    ],
+    "source": "bundled",
+    "dateAdded": "2026-01-01T00:00:00Z"
+  },
+  {
+    "scientificName": "Oxalis triangularis",
+    "commonNames": [
+      "Purple Shamrock",
+      "False Shamrock",
+      "Love Plant"
+    ],
+    "family": "Oxalidaceae",
+    "wateringFrequency": "Every 7-10 days",
+    "wateringNotes": "Keep lightly moist during active growth. Stop watering during dormancy.",
+    "lightRequirement": "Bright indirect light",
+    "lightDetails": "Deep purple color is brightest in good light. Leaves close at night.",
+    "humidityPreference": "Medium (40-60%)",
+    "temperatureRange": "60-75°F (16-24°C)",
+    "soilType": "Standard well-draining potting mix",
+    "fertilizerSchedule": "Monthly during active growth",
+    "toxicity": "Mildly toxic in large quantities (contains oxalic acid)",
+    "growthRate": "Fast",
+    "matureSize": "8-12 inches",
+    "commonIssues": [
+      "Goes dormant (looks dead but isn't!)",
+      "Leggy in low light",
+      "Aphids"
+    ],
+    "propagationMethods": [
+      "Division of bulbs"
+    ],
+    "quickTips": [
+      "Goes dormant periodically — stop water, cut back, wait for regrowth",
+      "Leaves open and close with light — mesmerizing",
+      "Triangular purple leaves are stunning"
+    ],
+    "source": "bundled",
+    "dateAdded": "2026-01-01T00:00:00Z"
+  },
+  {
+    "scientificName": "Pachira aquatica",
+    "commonNames": [
+      "Money Tree",
+      "Guiana Chestnut"
+    ],
+    "family": "Malvaceae",
+    "wateringFrequency": "Every 7-14 days",
+    "wateringNotes": "Water thoroughly, let top 2 inches dry between waterings.",
+    "lightRequirement": "Bright indirect light",
+    "lightDetails": "Adapts to medium light. Avoid direct sun which yellows leaves.",
+    "humidityPreference": "Medium to high (50-70%)",
+    "temperatureRange": "60-80°F (16-27°C)",
+    "soilType": "Well-draining sandy potting mix",
+    "fertilizerSchedule": "Monthly spring through summer",
+    "toxicity": "Non-toxic to cats and dogs",
+    "growthRate": "Moderate",
+    "matureSize": "3-6 ft indoors",
+    "commonIssues": [
+      "Yellow leaves from overwatering",
+      "Leaf drop from drafts",
+      "Braided trunk can rot if overwatered"
+    ],
+    "propagationMethods": [
+      "Stem cuttings",
+      "Seed"
+    ],
+    "quickTips": [
+      "Often sold with braided trunk — decorative not natural",
+      "Popular feng shui plant for wealth",
+      "Don't unravel the braided trunk"
+    ],
+    "source": "bundled",
+    "dateAdded": "2026-01-01T00:00:00Z"
+  },
+  {
+    "scientificName": "Pachyphytum oviferum",
+    "commonNames": [
+      "Moonstones Plant",
+      "Pachyphytum"
+    ],
+    "family": "Crassulaceae",
+    "wateringFrequency": "Every 14-21 days",
+    "wateringNotes": "Soak thoroughly, then let soil dry completely.",
+    "lightRequirement": "Bright indirect to bright direct light",
+    "lightDetails": "Most grow compactly with strong light.",
+    "humidityPreference": "Low (25-45%)",
+    "temperatureRange": "60-85°F (16-29°C)",
+    "soilType": "Cactus/succulent mix with extra grit",
+    "fertilizerSchedule": "Once monthly in spring and summer, lightly",
+    "toxicity": "Non-toxic to cats and dogs",
+    "growthRate": "Slow to moderate",
+    "matureSize": "4 inches to 3 ft indoors",
+    "commonIssues": [
+      "Rot from overwatering",
+      "Stretching in low light",
+      "Soft growth from poor drainage"
+    ],
+    "propagationMethods": [
+      "Leaf or stem cuttings",
+      "Offsets"
+    ],
+    "quickTips": [
+      "Terracotta pots help prevent rot",
+      "More light usually means better form",
+      "Water less in winter"
+    ],
+    "source": "bundled",
+    "dateAdded": "2026-01-01T00:00:00Z"
+  },
+  {
+    "scientificName": "Peperomia argyreia",
+    "commonNames": [
+      "Watermelon Peperomia",
+      "Watermelon Plant"
+    ],
+    "family": "Piperaceae",
+    "wateringFrequency": "Every 6-10 days",
+    "wateringNotes": "Keep slightly moist; avoid prolonged soggy soil.",
+    "lightRequirement": "Bright indirect light",
+    "lightDetails": "Morning sun can help, harsh midday sun can scorch.",
+    "humidityPreference": "Medium to high (45-70%)",
+    "temperatureRange": "65-82°F (18-28°C)",
+    "soilType": "Rich, well-draining indoor mix",
+    "fertilizerSchedule": "Monthly during active growth",
+    "toxicity": "Non-toxic to cats and dogs",
+    "growthRate": "Moderate",
+    "matureSize": "1-5 ft indoors",
+    "commonIssues": [
+      "Leaf browning from dry air",
+      "Slow growth in low light",
+      "Root issues in compacted soil"
+    ],
+    "propagationMethods": [
+      "Stem cuttings",
+      "Division"
+    ],
+    "quickTips": [
+      "Good airflow helps prevent pests",
+      "Use filtered water if tips brown",
+      "Repot when roots circle the pot"
+    ],
+    "source": "bundled",
+    "dateAdded": "2026-01-01T00:00:00Z"
+  },
+  {
+    "scientificName": "Peperomia caperata",
+    "commonNames": [
+      "Ripple Peperomia",
+      "Emerald Ripple"
+    ],
+    "family": "Piperaceae",
+    "wateringFrequency": "Every 6-10 days",
+    "wateringNotes": "Keep slightly moist; avoid prolonged soggy soil.",
+    "lightRequirement": "Bright indirect light",
+    "lightDetails": "Morning sun can help, harsh midday sun can scorch.",
+    "humidityPreference": "Medium to high (45-70%)",
+    "temperatureRange": "65-82°F (18-28°C)",
+    "soilType": "Rich, well-draining indoor mix",
+    "fertilizerSchedule": "Monthly during active growth",
+    "toxicity": "Non-toxic to cats and dogs",
+    "growthRate": "Moderate",
+    "matureSize": "1-5 ft indoors",
+    "commonIssues": [
+      "Leaf browning from dry air",
+      "Slow growth in low light",
+      "Root issues in compacted soil"
+    ],
+    "propagationMethods": [
+      "Stem cuttings",
+      "Division"
+    ],
+    "quickTips": [
+      "Good airflow helps prevent pests",
+      "Use filtered water if tips brown",
+      "Repot when roots circle the pot"
+    ],
+    "source": "bundled",
+    "dateAdded": "2026-01-01T00:00:00Z"
+  },
+  {
+    "scientificName": "Peperomia obtusifolia",
+    "commonNames": [
+      "Baby Rubber Plant",
+      "Peperomia"
+    ],
+    "family": "Piperaceae",
+    "wateringFrequency": "Every 7-14 days",
+    "wateringNotes": "Let soil dry out between waterings. Succulent-like leaves store water.",
+    "lightRequirement": "Medium to bright indirect light",
+    "lightDetails": "Tolerates lower light. Variegated types need brighter conditions.",
+    "humidityPreference": "Medium (40-60%)",
+    "temperatureRange": "60-80°F (16-27°C)",
+    "soilType": "Well-draining mix with perlite",
+    "fertilizerSchedule": "Monthly during growing season with diluted fertilizer",
+    "toxicity": "Non-toxic to cats and dogs",
+    "growthRate": "Moderate",
+    "matureSize": "10-12 inches",
+    "commonIssues": [
+      "Root rot from overwatering",
+      "Leaf drop from cold drafts",
+      "Mushy stems from too much water"
+    ],
+    "propagationMethods": [
+      "Stem cuttings",
+      "Leaf cuttings"
+    ],
+    "quickTips": [
+      "Compact size great for desks and shelves",
+      "Pet-safe and low maintenance",
+      "Over 1,500 Peperomia species to collect"
+    ],
+    "source": "bundled",
+    "dateAdded": "2026-01-01T00:00:00Z"
+  },
+  {
+    "scientificName": "Peperomia prostrata",
+    "commonNames": [
+      "String of Turtles",
+      "Turtle Vine"
+    ],
+    "family": "Piperaceae",
+    "wateringFrequency": "Every 14-21 days",
+    "wateringNotes": "Soak thoroughly, then let soil dry completely.",
+    "lightRequirement": "Bright indirect to bright direct light",
+    "lightDetails": "Most grow compactly with strong light.",
+    "humidityPreference": "Low (25-45%)",
+    "temperatureRange": "60-85°F (16-29°C)",
+    "soilType": "Cactus/succulent mix with extra grit",
+    "fertilizerSchedule": "Once monthly in spring and summer, lightly",
+    "toxicity": "Non-toxic to cats and dogs",
+    "growthRate": "Slow to moderate",
+    "matureSize": "4 inches to 3 ft indoors",
+    "commonIssues": [
+      "Rot from overwatering",
+      "Stretching in low light",
+      "Soft growth from poor drainage"
+    ],
+    "propagationMethods": [
+      "Leaf or stem cuttings",
+      "Offsets"
+    ],
+    "quickTips": [
+      "Terracotta pots help prevent rot",
+      "More light usually means better form",
+      "Water less in winter"
+    ],
+    "source": "bundled",
+    "dateAdded": "2026-01-01T00:00:00Z"
+  },
+  {
+    "scientificName": "Philodendron billietiae",
+    "commonNames": [
+      "Orange Stem Philodendron",
+      "Philodendron Billietiae"
+    ],
+    "family": "Araceae",
+    "wateringFrequency": "Every 7-10 days",
+    "wateringNotes": "Let top inch of soil dry between waterings.",
+    "lightRequirement": "Bright indirect light",
+    "lightDetails": "Avoid harsh direct sun; brighter indirect light supports larger leaves.",
+    "humidityPreference": "Medium to high (50-70%)",
+    "temperatureRange": "65-85°F (18-29°C)",
+    "soilType": "Chunky well-draining aroid mix",
+    "fertilizerSchedule": "Monthly during growing season",
+    "toxicity": "Toxic to cats and dogs",
+    "growthRate": "Moderate",
+    "matureSize": "2-6 ft indoors",
+    "commonIssues": [
+      "Yellow leaves from overwatering",
+      "Leggy growth in low light",
+      "Brown edges from dry air"
+    ],
+    "propagationMethods": [
+      "Stem cuttings",
+      "Division (when applicable)"
+    ],
+    "quickTips": [
+      "Use a support pole for larger leaves",
+      "Rotate for even growth",
+      "Check roots yearly"
+    ],
+    "source": "bundled",
+    "dateAdded": "2026-01-01T00:00:00Z"
+  },
+  {
+    "scientificName": "Philodendron bipennifolium",
+    "commonNames": [
+      "Horsehead Philodendron",
+      "Fiddleleaf Philodendron"
+    ],
+    "family": "Araceae",
+    "wateringFrequency": "Every 7-10 days",
+    "wateringNotes": "Let top inch of soil dry between waterings.",
+    "lightRequirement": "Bright indirect light",
+    "lightDetails": "Avoid harsh direct sun; brighter indirect light supports larger leaves.",
+    "humidityPreference": "Medium to high (50-70%)",
+    "temperatureRange": "65-85°F (18-29°C)",
+    "soilType": "Chunky well-draining aroid mix",
+    "fertilizerSchedule": "Monthly during growing season",
+    "toxicity": "Toxic to cats and dogs",
+    "growthRate": "Moderate",
+    "matureSize": "2-6 ft indoors",
+    "commonIssues": [
+      "Yellow leaves from overwatering",
+      "Leggy growth in low light",
+      "Brown edges from dry air"
+    ],
+    "propagationMethods": [
+      "Stem cuttings",
+      "Division (when applicable)"
+    ],
+    "quickTips": [
+      "Use a support pole for larger leaves",
+      "Rotate for even growth",
+      "Check roots yearly"
+    ],
+    "source": "bundled",
+    "dateAdded": "2026-01-01T00:00:00Z"
+  },
+  {
+    "scientificName": "Philodendron bipinnatifidum",
+    "commonNames": [
+      "Tree Philodendron",
+      "Lacy Tree Philodendron",
+      "Thaumatophyllum bipinnatifidum"
+    ],
+    "family": "Araceae",
+    "wateringFrequency": "Every 7-10 days",
+    "wateringNotes": "Water when top inch is dry. Don't let sit in water.",
+    "lightRequirement": "Bright indirect light",
+    "lightDetails": "Adapts to medium light. Leaves get larger with more light.",
+    "humidityPreference": "Medium to high (50-70%)",
+    "temperatureRange": "65-85°F (18-29°C)",
+    "soilType": "Rich, well-draining aroid mix",
+    "fertilizerSchedule": "Monthly during growing season",
+    "toxicity": "Toxic to cats and dogs",
+    "growthRate": "Fast",
+    "matureSize": "4-6 ft tall, 4-6 ft spread",
+    "commonIssues": [
+      "Gets very wide — needs space",
+      "Yellow leaves from overwatering",
+      "Aerial roots can be messy"
+    ],
+    "propagationMethods": [
+      "Stem cuttings",
+      "Division of mature plants"
+    ],
+    "quickTips": [
+      "Give it room — gets big!",
+      "Aerial roots are normal and healthy",
+      "Dramatic tropical statement plant"
+    ],
+    "source": "bundled",
+    "dateAdded": "2026-01-01T00:00:00Z"
+  },
+  {
+    "scientificName": "Philodendron erubescens",
+    "commonNames": [
+      "Blushing Philodendron",
+      "Red-leaf Philodendron"
+    ],
+    "family": "Araceae",
+    "wateringFrequency": "Every 7-10 days",
+    "wateringNotes": "Let top inch of soil dry between waterings.",
+    "lightRequirement": "Bright indirect light",
+    "lightDetails": "Avoid harsh direct sun; brighter indirect light supports larger leaves.",
+    "humidityPreference": "Medium to high (50-70%)",
+    "temperatureRange": "65-85°F (18-29°C)",
+    "soilType": "Chunky well-draining aroid mix",
+    "fertilizerSchedule": "Monthly during growing season",
+    "toxicity": "Toxic to cats and dogs",
+    "growthRate": "Moderate",
+    "matureSize": "2-6 ft indoors",
+    "commonIssues": [
+      "Yellow leaves from overwatering",
+      "Leggy growth in low light",
+      "Brown edges from dry air"
+    ],
+    "propagationMethods": [
+      "Stem cuttings",
+      "Division (when applicable)"
+    ],
+    "quickTips": [
+      "Use a support pole for larger leaves",
+      "Rotate for even growth",
+      "Check roots yearly"
+    ],
+    "source": "bundled",
+    "dateAdded": "2026-01-01T00:00:00Z"
+  },
+  {
+    "scientificName": "Philodendron gloriosum",
+    "commonNames": [
+      "Velvet Philodendron",
+      "Gloriosum"
+    ],
+    "family": "Araceae",
+    "wateringFrequency": "Every 7-10 days",
+    "wateringNotes": "Let top inch dry between waterings. Doesn't like wet feet.",
+    "lightRequirement": "Bright indirect light",
+    "lightDetails": "Needs good light for large leaves with prominent white veining.",
+    "humidityPreference": "High (60-80%)",
+    "temperatureRange": "65-85°F (18-29°C)",
+    "soilType": "Chunky aroid mix with orchid bark and perlite",
+    "fertilizerSchedule": "Monthly during growing season",
+    "toxicity": "Toxic to cats and dogs",
+    "growthRate": "Slow to moderate",
+    "matureSize": "2-3 ft tall, crawling rhizome",
+    "commonIssues": [
+      "Slow growth is normal",
+      "Yellow leaves from overwatering",
+      "Needs space for crawling growth habit"
+    ],
+    "propagationMethods": [
+      "Rhizome division",
+      "Stem cuttings"
+    ],
+    "quickTips": [
+      "Crawls horizontally — use a wide shallow pot",
+      "Velvety leaves are stunning with white veining",
+      "Each new leaf is bigger and more dramatic"
+    ],
+    "source": "bundled",
+    "dateAdded": "2026-01-01T00:00:00Z"
+  },
+  {
+    "scientificName": "Philodendron hederaceum",
+    "commonNames": [
+      "Heartleaf Philodendron",
+      "Sweetheart Plant"
+    ],
+    "family": "Araceae",
+    "wateringFrequency": "Every 7-10 days",
+    "wateringNotes": "Let top inch dry between waterings. Very forgiving of occasional neglect.",
+    "lightRequirement": "Medium to bright indirect light",
+    "lightDetails": "Adapts to low light but grows leggy. Avoid direct sun.",
+    "humidityPreference": "Medium (40-60%)",
+    "temperatureRange": "65-80°F (18-27°C)",
+    "soilType": "Well-draining aroid mix",
+    "fertilizerSchedule": "Monthly during growing season",
+    "toxicity": "Toxic to cats and dogs",
+    "growthRate": "Fast",
+    "matureSize": "Trailing vines 4-10 ft indoors",
+    "commonIssues": [
+      "Yellow leaves from overwatering",
+      "Small leaves from insufficient light",
+      "Leggy growth in low light"
+    ],
+    "propagationMethods": [
+      "Stem cuttings in water or soil"
+    ],
+    "quickTips": [
+      "Pinch growing tips to encourage bushier growth",
+      "Beautiful in hanging baskets",
+      "Climbs if given a support"
+    ],
+    "source": "bundled",
+    "dateAdded": "2026-01-01T00:00:00Z"
+  },
+  {
+    "scientificName": "Philodendron melanochrysum",
+    "commonNames": [
+      "Black Gold Philodendron",
+      "Velvet Leaf Philodendron"
+    ],
+    "family": "Araceae",
+    "wateringFrequency": "Every 7-10 days",
+    "wateringNotes": "Let top inch of soil dry between waterings.",
+    "lightRequirement": "Bright indirect light",
+    "lightDetails": "Avoid harsh direct sun; brighter indirect light supports larger leaves.",
+    "humidityPreference": "Medium to high (50-70%)",
+    "temperatureRange": "65-85°F (18-29°C)",
+    "soilType": "Chunky well-draining aroid mix",
+    "fertilizerSchedule": "Monthly during growing season",
+    "toxicity": "Toxic to cats and dogs",
+    "growthRate": "Moderate",
+    "matureSize": "2-6 ft indoors",
+    "commonIssues": [
+      "Yellow leaves from overwatering",
+      "Leggy growth in low light",
+      "Brown edges from dry air"
+    ],
+    "propagationMethods": [
+      "Stem cuttings",
+      "Division (when applicable)"
+    ],
+    "quickTips": [
+      "Use a support pole for larger leaves",
+      "Rotate for even growth",
+      "Check roots yearly"
+    ],
+    "source": "bundled",
+    "dateAdded": "2026-01-01T00:00:00Z"
+  },
+  {
+    "scientificName": "Philodendron micans",
+    "commonNames": [
+      "Velvet Leaf Philodendron",
+      "Philodendron Micans"
+    ],
+    "family": "Araceae",
+    "wateringFrequency": "Every 7-10 days",
+    "wateringNotes": "Let top inch dry between waterings.",
+    "lightRequirement": "Medium to bright indirect light",
+    "lightDetails": "Velvety texture and bronze color are best in bright indirect light.",
+    "humidityPreference": "Medium to high (50-70%)",
+    "temperatureRange": "65-80°F (18-27°C)",
+    "soilType": "Well-draining aroid mix",
+    "fertilizerSchedule": "Monthly during growing season",
+    "toxicity": "Toxic to cats and dogs",
+    "growthRate": "Fast",
+    "matureSize": "Trailing vines 6-8 ft",
+    "commonIssues": [
+      "Yellow leaves from overwatering",
+      "Leggy growth in low light",
+      "Sparse foliage without pruning"
+    ],
+    "propagationMethods": [
+      "Stem cuttings in water or soil"
+    ],
+    "quickTips": [
+      "Velvety leaves have an iridescent shimmer",
+      "New leaves emerge bronze/copper, then darken",
+      "Pinch tips for bushier growth"
+    ],
+    "source": "bundled",
+    "dateAdded": "2026-01-01T00:00:00Z"
+  },
+  {
+    "scientificName": "Philodendron plowmanii",
+    "commonNames": [
+      "Plowmanii Philodendron",
+      "Crawling Philodendron"
+    ],
+    "family": "Araceae",
+    "wateringFrequency": "Every 7-10 days",
+    "wateringNotes": "Let top inch of soil dry between waterings.",
+    "lightRequirement": "Bright indirect light",
+    "lightDetails": "Avoid harsh direct sun; brighter indirect light supports larger leaves.",
+    "humidityPreference": "Medium to high (50-70%)",
+    "temperatureRange": "65-85°F (18-29°C)",
+    "soilType": "Chunky well-draining aroid mix",
+    "fertilizerSchedule": "Monthly during growing season",
+    "toxicity": "Toxic to cats and dogs",
+    "growthRate": "Moderate",
+    "matureSize": "2-6 ft indoors",
+    "commonIssues": [
+      "Yellow leaves from overwatering",
+      "Leggy growth in low light",
+      "Brown edges from dry air"
+    ],
+    "propagationMethods": [
+      "Stem cuttings",
+      "Division (when applicable)"
+    ],
+    "quickTips": [
+      "Use a support pole for larger leaves",
+      "Rotate for even growth",
+      "Check roots yearly"
+    ],
+    "source": "bundled",
+    "dateAdded": "2026-01-01T00:00:00Z"
+  },
+  {
+    "scientificName": "Philodendron sodiroi",
+    "commonNames": [
+      "Silver Leaf Philodendron",
+      "Sodiroi"
+    ],
+    "family": "Araceae",
+    "wateringFrequency": "Every 7-10 days",
+    "wateringNotes": "Let top inch of soil dry between waterings.",
+    "lightRequirement": "Bright indirect light",
+    "lightDetails": "Avoid harsh direct sun; brighter indirect light supports larger leaves.",
+    "humidityPreference": "Medium to high (50-70%)",
+    "temperatureRange": "65-85°F (18-29°C)",
+    "soilType": "Chunky well-draining aroid mix",
+    "fertilizerSchedule": "Monthly during growing season",
+    "toxicity": "Toxic to cats and dogs",
+    "growthRate": "Moderate",
+    "matureSize": "2-6 ft indoors",
+    "commonIssues": [
+      "Yellow leaves from overwatering",
+      "Leggy growth in low light",
+      "Brown edges from dry air"
+    ],
+    "propagationMethods": [
+      "Stem cuttings",
+      "Division (when applicable)"
+    ],
+    "quickTips": [
+      "Use a support pole for larger leaves",
+      "Rotate for even growth",
+      "Check roots yearly"
+    ],
+    "source": "bundled",
+    "dateAdded": "2026-01-01T00:00:00Z"
+  },
+  {
+    "scientificName": "Philodendron verrucosum",
+    "commonNames": [
+      "Ecuador Philodendron",
+      "Velvet Philodendron"
+    ],
+    "family": "Araceae",
+    "wateringFrequency": "Every 7-10 days",
+    "wateringNotes": "Let top inch of soil dry between waterings.",
+    "lightRequirement": "Bright indirect light",
+    "lightDetails": "Avoid harsh direct sun; brighter indirect light supports larger leaves.",
+    "humidityPreference": "Medium to high (50-70%)",
+    "temperatureRange": "65-85°F (18-29°C)",
+    "soilType": "Chunky well-draining aroid mix",
+    "fertilizerSchedule": "Monthly during growing season",
+    "toxicity": "Toxic to cats and dogs",
+    "growthRate": "Moderate",
+    "matureSize": "2-6 ft indoors",
+    "commonIssues": [
+      "Yellow leaves from overwatering",
+      "Leggy growth in low light",
+      "Brown edges from dry air"
+    ],
+    "propagationMethods": [
+      "Stem cuttings",
+      "Division (when applicable)"
+    ],
+    "quickTips": [
+      "Use a support pole for larger leaves",
+      "Rotate for even growth",
+      "Check roots yearly"
+    ],
+    "source": "bundled",
+    "dateAdded": "2026-01-01T00:00:00Z"
+  },
+  {
+    "scientificName": "Phlebodium aureum",
+    "commonNames": [
+      "Blue Star Fern",
+      "Golden Polypody"
+    ],
+    "family": "Polypodiaceae",
+    "wateringFrequency": "Every 3-6 days",
+    "wateringNotes": "Keep soil evenly moist but not soggy.",
+    "lightRequirement": "Medium indirect light",
+    "lightDetails": "Filtered light is ideal; direct sun scorches fronds.",
+    "humidityPreference": "High (60-80%)",
+    "temperatureRange": "60-78°F (16-26°C)",
+    "soilType": "Moisture-retaining, well-draining potting mix",
+    "fertilizerSchedule": "Monthly at half strength in spring and summer",
+    "toxicity": "Non-toxic to cats and dogs",
+    "growthRate": "Moderate",
+    "matureSize": "1-3 ft indoors",
+    "commonIssues": [
+      "Crispy fronds from low humidity",
+      "Browning from missed watering",
+      "Pests in dry air"
+    ],
+    "propagationMethods": [
+      "Division",
+      "Spores (advanced)"
+    ],
+    "quickTips": [
+      "Humidity is key",
+      "Avoid drying out completely",
+      "Trim old fronds regularly"
+    ],
+    "source": "bundled",
+    "dateAdded": "2026-01-01T00:00:00Z"
+  },
+  {
+    "scientificName": "Pilea cadierei",
+    "commonNames": [
+      "Aluminum Plant",
+      "Watermelon Pilea"
+    ],
+    "family": "Urticaceae",
+    "wateringFrequency": "Every 6-10 days",
+    "wateringNotes": "Keep slightly moist; avoid prolonged soggy soil.",
+    "lightRequirement": "Bright indirect light",
+    "lightDetails": "Morning sun can help, harsh midday sun can scorch.",
+    "humidityPreference": "Medium to high (45-70%)",
+    "temperatureRange": "65-82°F (18-28°C)",
+    "soilType": "Rich, well-draining indoor mix",
+    "fertilizerSchedule": "Monthly during active growth",
+    "toxicity": "Non-toxic to cats and dogs",
+    "growthRate": "Moderate",
+    "matureSize": "1-5 ft indoors",
+    "commonIssues": [
+      "Leaf browning from dry air",
+      "Slow growth in low light",
+      "Root issues in compacted soil"
+    ],
+    "propagationMethods": [
+      "Stem cuttings",
+      "Division"
+    ],
+    "quickTips": [
+      "Good airflow helps prevent pests",
+      "Use filtered water if tips brown",
+      "Repot when roots circle the pot"
+    ],
+    "source": "bundled",
+    "dateAdded": "2026-01-01T00:00:00Z"
+  },
+  {
+    "scientificName": "Pilea involucrata",
+    "commonNames": [
+      "Friendship Plant",
+      "Pilea"
+    ],
+    "family": "Urticaceae",
+    "wateringFrequency": "Every 6-10 days",
+    "wateringNotes": "Keep slightly moist; avoid prolonged soggy soil.",
+    "lightRequirement": "Bright indirect light",
+    "lightDetails": "Morning sun can help, harsh midday sun can scorch.",
+    "humidityPreference": "Medium to high (45-70%)",
+    "temperatureRange": "65-82°F (18-28°C)",
+    "soilType": "Rich, well-draining indoor mix",
+    "fertilizerSchedule": "Monthly during active growth",
+    "toxicity": "Non-toxic to cats and dogs",
+    "growthRate": "Moderate",
+    "matureSize": "1-5 ft indoors",
+    "commonIssues": [
+      "Leaf browning from dry air",
+      "Slow growth in low light",
+      "Root issues in compacted soil"
+    ],
+    "propagationMethods": [
+      "Stem cuttings",
+      "Division"
+    ],
+    "quickTips": [
+      "Good airflow helps prevent pests",
+      "Use filtered water if tips brown",
+      "Repot when roots circle the pot"
+    ],
+    "source": "bundled",
+    "dateAdded": "2026-01-01T00:00:00Z"
+  },
+  {
+    "scientificName": "Pilea peperomioides",
+    "commonNames": [
+      "Chinese Money Plant",
+      "Pancake Plant",
+      "UFO Plant"
+    ],
+    "family": "Urticaceae",
+    "wateringFrequency": "Every 7-10 days",
+    "wateringNotes": "Let top inch dry between waterings. Rotate regularly — leaves reach toward light.",
+    "lightRequirement": "Bright indirect light",
+    "lightDetails": "Needs good light for compact growth. Leggy and leaning without enough.",
+    "humidityPreference": "Medium (40-60%)",
+    "temperatureRange": "60-80°F (16-27°C)",
+    "soilType": "Well-draining potting mix with perlite",
+    "fertilizerSchedule": "Monthly spring through summer",
+    "toxicity": "Non-toxic to cats and dogs",
+    "growthRate": "Moderate to fast",
+    "matureSize": "12-18 inches",
+    "commonIssues": [
+      "Drooping from over or underwatering",
+      "Curling leaves from too much light",
+      "Bottom leaves yellowing naturally with age"
+    ],
+    "propagationMethods": [
+      "Offsets (pups) from soil surface",
+      "Stem cuttings"
+    ],
+    "quickTips": [
+      "Produces tons of babies to share with friends",
+      "Rotate weekly for symmetrical growth",
+      "The sharing plant — great gift"
+    ],
+    "source": "bundled",
+    "dateAdded": "2026-01-01T00:00:00Z"
+  },
+  {
+    "scientificName": "Platycerium bifurcatum",
+    "commonNames": [
+      "Staghorn Fern",
+      "Elkhorn Fern"
+    ],
+    "family": "Polypodiaceae",
+    "wateringFrequency": "Every 3-6 days",
+    "wateringNotes": "Keep soil evenly moist but not soggy.",
+    "lightRequirement": "Medium indirect light",
+    "lightDetails": "Filtered light is ideal; direct sun scorches fronds.",
+    "humidityPreference": "High (60-80%)",
+    "temperatureRange": "60-78°F (16-26°C)",
+    "soilType": "Moisture-retaining, well-draining potting mix",
+    "fertilizerSchedule": "Monthly at half strength in spring and summer",
+    "toxicity": "Non-toxic to cats and dogs",
+    "growthRate": "Moderate",
+    "matureSize": "1-3 ft indoors",
+    "commonIssues": [
+      "Crispy fronds from low humidity",
+      "Browning from missed watering",
+      "Pests in dry air"
+    ],
+    "propagationMethods": [
+      "Division",
+      "Spores (advanced)"
+    ],
+    "quickTips": [
+      "Humidity is key",
+      "Avoid drying out completely",
+      "Trim old fronds regularly"
+    ],
+    "source": "bundled",
+    "dateAdded": "2026-01-01T00:00:00Z"
+  },
+  {
+    "scientificName": "Portulacaria afra",
+    "commonNames": [
+      "Elephant Bush",
+      "Dwarf Jade"
+    ],
+    "family": "Didiereaceae",
+    "wateringFrequency": "Every 14-21 days",
+    "wateringNotes": "Soak thoroughly, then let soil dry completely.",
+    "lightRequirement": "Bright indirect to bright direct light",
+    "lightDetails": "Most grow compactly with strong light.",
+    "humidityPreference": "Low (25-45%)",
+    "temperatureRange": "60-85°F (16-29°C)",
+    "soilType": "Cactus/succulent mix with extra grit",
+    "fertilizerSchedule": "Once monthly in spring and summer, lightly",
+    "toxicity": "Non-toxic to cats and dogs",
+    "growthRate": "Slow to moderate",
+    "matureSize": "4 inches to 3 ft indoors",
+    "commonIssues": [
+      "Rot from overwatering",
+      "Stretching in low light",
+      "Soft growth from poor drainage"
+    ],
+    "propagationMethods": [
+      "Leaf or stem cuttings",
+      "Offsets"
+    ],
+    "quickTips": [
+      "Terracotta pots help prevent rot",
+      "More light usually means better form",
+      "Water less in winter"
+    ],
+    "source": "bundled",
+    "dateAdded": "2026-01-01T00:00:00Z"
+  },
+  {
+    "scientificName": "Pteris cretica",
+    "commonNames": [
+      "Cretan Brake Fern",
+      "Ribbon Fern"
+    ],
+    "family": "Pteridaceae",
+    "wateringFrequency": "Every 3-6 days",
+    "wateringNotes": "Keep soil evenly moist but not soggy.",
+    "lightRequirement": "Medium indirect light",
+    "lightDetails": "Filtered light is ideal; direct sun scorches fronds.",
+    "humidityPreference": "High (60-80%)",
+    "temperatureRange": "60-78°F (16-26°C)",
+    "soilType": "Moisture-retaining, well-draining potting mix",
+    "fertilizerSchedule": "Monthly at half strength in spring and summer",
+    "toxicity": "Non-toxic to cats and dogs",
+    "growthRate": "Moderate",
+    "matureSize": "1-3 ft indoors",
+    "commonIssues": [
+      "Crispy fronds from low humidity",
+      "Browning from missed watering",
+      "Pests in dry air"
+    ],
+    "propagationMethods": [
+      "Division",
+      "Spores (advanced)"
+    ],
+    "quickTips": [
+      "Humidity is key",
+      "Avoid drying out completely",
+      "Trim old fronds regularly"
+    ],
+    "source": "bundled",
+    "dateAdded": "2026-01-01T00:00:00Z"
+  },
+  {
+    "scientificName": "Rhaphidophora decursiva",
+    "commonNames": [
+      "Dragon Tail Plant",
+      "Rhaphidophora Decursiva"
+    ],
+    "family": "Araceae",
+    "wateringFrequency": "Every 7-10 days",
+    "wateringNotes": "Let top inch of soil dry between waterings.",
+    "lightRequirement": "Bright indirect light",
+    "lightDetails": "Avoid harsh direct sun; brighter indirect light supports larger leaves.",
+    "humidityPreference": "Medium to high (50-70%)",
+    "temperatureRange": "65-85°F (18-29°C)",
+    "soilType": "Chunky well-draining aroid mix",
+    "fertilizerSchedule": "Monthly during growing season",
+    "toxicity": "Toxic to cats and dogs",
+    "growthRate": "Moderate",
+    "matureSize": "2-6 ft indoors",
+    "commonIssues": [
+      "Yellow leaves from overwatering",
+      "Leggy growth in low light",
+      "Brown edges from dry air"
+    ],
+    "propagationMethods": [
+      "Stem cuttings",
+      "Division (when applicable)"
+    ],
+    "quickTips": [
+      "Use a support pole for larger leaves",
+      "Rotate for even growth",
+      "Check roots yearly"
+    ],
+    "source": "bundled",
+    "dateAdded": "2026-01-01T00:00:00Z"
+  },
+  {
+    "scientificName": "Rhaphidophora hayi",
+    "commonNames": [
+      "Shingle Plant",
+      "Rhaphidophora Hayi"
+    ],
+    "family": "Araceae",
+    "wateringFrequency": "Every 7-10 days",
+    "wateringNotes": "Let top inch of soil dry between waterings.",
+    "lightRequirement": "Bright indirect light",
+    "lightDetails": "Avoid harsh direct sun; brighter indirect light supports larger leaves.",
+    "humidityPreference": "Medium to high (50-70%)",
+    "temperatureRange": "65-85°F (18-29°C)",
+    "soilType": "Chunky well-draining aroid mix",
+    "fertilizerSchedule": "Monthly during growing season",
+    "toxicity": "Toxic to cats and dogs",
+    "growthRate": "Moderate",
+    "matureSize": "2-6 ft indoors",
+    "commonIssues": [
+      "Yellow leaves from overwatering",
+      "Leggy growth in low light",
+      "Brown edges from dry air"
+    ],
+    "propagationMethods": [
+      "Stem cuttings",
+      "Division (when applicable)"
+    ],
+    "quickTips": [
+      "Use a support pole for larger leaves",
+      "Rotate for even growth",
+      "Check roots yearly"
+    ],
+    "source": "bundled",
+    "dateAdded": "2026-01-01T00:00:00Z"
+  },
+  {
+    "scientificName": "Rhaphidophora tetrasperma",
+    "commonNames": [
+      "Mini Monstera",
+      "Rhaphidophora",
+      "Ginny Philodendron"
+    ],
+    "family": "Araceae",
+    "wateringFrequency": "Every 7-10 days",
+    "wateringNotes": "Let top inch dry between waterings.",
+    "lightRequirement": "Bright indirect light",
+    "lightDetails": "Grows fastest and develops best fenestrations in bright indirect light.",
+    "humidityPreference": "Medium to high (50-70%)",
+    "temperatureRange": "65-80°F (18-27°C)",
+    "soilType": "Well-draining aroid mix",
+    "fertilizerSchedule": "Monthly during growing season",
+    "toxicity": "Mildly toxic to cats and dogs",
+    "growthRate": "Fast",
+    "matureSize": "Climbing vine 6-12 ft with support",
+    "commonIssues": [
+      "Yellow leaves from overwatering",
+      "Leggy without support to climb",
+      "Needs regular pruning to control size"
+    ],
+    "propagationMethods": [
+      "Stem cuttings in water or sphagnum moss"
+    ],
+    "quickTips": [
+      "Not actually a Monstera despite the nickname",
+      "Give it a moss pole and watch it take off",
+      "Prune and propagate to share — roots easily"
+    ],
+    "source": "bundled",
+    "dateAdded": "2026-01-01T00:00:00Z"
+  },
+  {
+    "scientificName": "Rhapis excelsa",
+    "commonNames": [
+      "Lady Palm",
+      "Broadleaf Lady Palm"
+    ],
+    "family": "Arecaceae",
+    "wateringFrequency": "Every 7-12 days",
+    "wateringNotes": "Water when top 1-2 inches are dry.",
+    "lightRequirement": "Medium to bright indirect light",
+    "lightDetails": "Avoid harsh afternoon sun behind glass.",
+    "humidityPreference": "Medium (40-60%)",
+    "temperatureRange": "65-82°F (18-28°C)",
+    "soilType": "Well-draining indoor palm mix",
+    "fertilizerSchedule": "Every 6-8 weeks in growing season",
+    "toxicity": "Non-toxic to cats and dogs",
+    "growthRate": "Slow to moderate",
+    "matureSize": "3-8 ft indoors",
+    "commonIssues": [
+      "Brown tips from dry air",
+      "Yellowing from overwatering",
+      "Spider mites in dry rooms"
+    ],
+    "propagationMethods": [
+      "Seed (most species)",
+      "Division (some clumping palms)"
+    ],
+    "quickTips": [
+      "Keep away from heater vents",
+      "Wipe fronds to reduce dust",
+      "Rotate for balanced growth"
+    ],
+    "source": "bundled",
+    "dateAdded": "2026-01-01T00:00:00Z"
+  },
+  {
+    "scientificName": "Rhipsalis baccifera",
+    "commonNames": [
+      "Mistletoe Cactus",
+      "Rhipsalis"
+    ],
+    "family": "Cactaceae",
+    "wateringFrequency": "Every 14-28 days",
+    "wateringNotes": "Water deeply, then allow complete dry-down.",
+    "lightRequirement": "Bright direct light",
+    "lightDetails": "Provide as much sun as possible indoors.",
+    "humidityPreference": "Low (20-40%)",
+    "temperatureRange": "55-90°F (13-32°C)",
+    "soilType": "Fast-draining cactus mix",
+    "fertilizerSchedule": "Once in spring and once in summer",
+    "toxicity": "Typically non-toxic but many have sharp spines",
+    "growthRate": "Slow",
+    "matureSize": "6 inches to 4 ft indoors",
+    "commonIssues": [
+      "Root rot from overwatering",
+      "Etiolation from low light",
+      "Sunburn after abrupt light changes"
+    ],
+    "propagationMethods": [
+      "Offsets",
+      "Stem cuttings (species dependent)"
+    ],
+    "quickTips": [
+      "Use gritty soil",
+      "Handle with gloves",
+      "Reduce watering heavily in winter"
+    ],
+    "source": "bundled",
+    "dateAdded": "2026-01-01T00:00:00Z"
+  },
+  {
+    "scientificName": "Sansevieria trifasciata",
+    "commonNames": [
+      "Snake Plant",
+      "Mother-in-Law's Tongue",
+      "Dracaena trifasciata"
+    ],
+    "family": "Asparagaceae",
+    "wateringFrequency": "Every 14-21 days",
+    "wateringNotes": "Highly drought tolerant. Let soil dry completely. Water less in winter — monthly is fine.",
+    "lightRequirement": "Low to bright indirect light",
+    "lightDetails": "Thrives in almost any light condition. Grows faster in brighter light.",
+    "humidityPreference": "Low (30-40%)",
+    "temperatureRange": "55-85°F (13-29°C)",
+    "soilType": "Cactus/succulent mix or sandy potting soil",
+    "fertilizerSchedule": "Once or twice during growing season with diluted fertilizer",
+    "toxicity": "Mildly toxic to cats and dogs",
+    "growthRate": "Slow",
+    "matureSize": "2-4 ft tall depending on variety",
+    "commonIssues": [
+      "Root rot from overwatering (the #1 killer)",
+      "Mushy base from cold + wet conditions",
+      "Scarring from physical damage"
+    ],
+    "propagationMethods": [
+      "Division",
+      "Leaf cuttings in water or soil"
+    ],
+    "quickTips": [
+      "When in doubt, don't water",
+      "Great bedroom plant — produces oxygen at night",
+      "Can go weeks without attention"
+    ],
+    "source": "bundled",
+    "dateAdded": "2026-01-01T00:00:00Z"
+  },
+  {
+    "scientificName": "Schefflera arboricola",
+    "commonNames": [
+      "Dwarf Umbrella Tree",
+      "Schefflera"
+    ],
+    "family": "Araliaceae",
+    "wateringFrequency": "Every 7-14 days",
+    "wateringNotes": "Let top inch dry between waterings. Tolerant of some drought.",
+    "lightRequirement": "Bright indirect light",
+    "lightDetails": "Tolerates medium light. Drops leaves in very low light.",
+    "humidityPreference": "Medium (40-60%)",
+    "temperatureRange": "60-80°F (16-27°C)",
+    "soilType": "Standard well-draining potting mix",
+    "fertilizerSchedule": "Monthly during growing season",
+    "toxicity": "Mildly toxic to cats and dogs",
+    "growthRate": "Moderate",
+    "matureSize": "4-8 ft indoors",
+    "commonIssues": [
+      "Leaf drop from overwatering or cold drafts",
+      "Sticky leaves (scale insects)",
+      "Leggy growth without pruning"
+    ],
+    "propagationMethods": [
+      "Stem cuttings",
+      "Air layering"
+    ],
+    "quickTips": [
+      "Prune aggressively to maintain bushy shape",
+      "Adapts well to different light conditions",
+      "Umbrella-shaped leaf clusters are distinctive"
+    ],
+    "source": "bundled",
+    "dateAdded": "2026-01-01T00:00:00Z"
+  },
+  {
+    "scientificName": "Schlumbergera bridgesii",
+    "commonNames": [
+      "Christmas Cactus",
+      "Holiday Cactus"
+    ],
+    "family": "Cactaceae",
+    "wateringFrequency": "Every 7-14 days",
+    "wateringNotes": "Let top third of soil dry. More frequent when budding. Reduce after blooming.",
+    "lightRequirement": "Bright indirect light",
+    "lightDetails": "Avoid direct sun. Needs 12-14 hours of darkness daily for 6 weeks to trigger blooming.",
+    "humidityPreference": "Medium to high (50-70%)",
+    "temperatureRange": "60-70°F (16-21°C)",
+    "soilType": "Well-draining epiphytic mix (orchid bark, perlite, peat)",
+    "fertilizerSchedule": "Monthly spring through late summer. Stop when buds form.",
+    "toxicity": "Non-toxic to cats and dogs",
+    "growthRate": "Moderate",
+    "matureSize": "1-2 ft, cascading habit",
+    "commonIssues": [
+      "Bud drop from sudden temperature change or moving",
+      "Limp segments from overwatering",
+      "Won't bloom without dark period"
+    ],
+    "propagationMethods": [
+      "Stem cuttings (2-3 segment pieces)"
+    ],
+    "quickTips": [
+      "To trigger blooming: 6 weeks of cool temps and long nights",
+      "Can bloom for 20+ years",
+      "Actually an epiphyte, not a desert cactus"
+    ],
+    "source": "bundled",
+    "dateAdded": "2026-01-01T00:00:00Z"
+  },
+  {
+    "scientificName": "Schlumbergera truncata",
+    "commonNames": [
+      "Thanksgiving Cactus",
+      "Holiday Cactus"
+    ],
+    "family": "Cactaceae",
+    "wateringFrequency": "Every 14-28 days",
+    "wateringNotes": "Water deeply, then allow complete dry-down.",
+    "lightRequirement": "Bright direct light",
+    "lightDetails": "Provide as much sun as possible indoors.",
+    "humidityPreference": "Low (20-40%)",
+    "temperatureRange": "55-90°F (13-32°C)",
+    "soilType": "Fast-draining cactus mix",
+    "fertilizerSchedule": "Once in spring and once in summer",
+    "toxicity": "Typically non-toxic but many have sharp spines",
+    "growthRate": "Slow",
+    "matureSize": "6 inches to 4 ft indoors",
+    "commonIssues": [
+      "Root rot from overwatering",
+      "Etiolation from low light",
+      "Sunburn after abrupt light changes"
+    ],
+    "propagationMethods": [
+      "Offsets",
+      "Stem cuttings (species dependent)"
+    ],
+    "quickTips": [
+      "Use gritty soil",
+      "Handle with gloves",
+      "Reduce watering heavily in winter"
+    ],
+    "source": "bundled",
+    "dateAdded": "2026-01-01T00:00:00Z"
+  },
+  {
+    "scientificName": "Scindapsus pictus",
+    "commonNames": [
+      "Satin Pothos",
+      "Silver Pothos",
+      "Scindapsus"
+    ],
+    "family": "Araceae",
+    "wateringFrequency": "Every 7-14 days",
+    "wateringNotes": "Let soil dry out more than regular pothos. Curling leaves signal thirst.",
+    "lightRequirement": "Medium to bright indirect light",
+    "lightDetails": "Silver markings are most vivid in bright indirect light.",
+    "humidityPreference": "Medium to high (50-70%)",
+    "temperatureRange": "65-85°F (18-29°C)",
+    "soilType": "Well-draining aroid mix",
+    "fertilizerSchedule": "Monthly during growing season",
+    "toxicity": "Toxic to cats and dogs",
+    "growthRate": "Moderate",
+    "matureSize": "Trailing vines 3-6 ft indoors",
+    "commonIssues": [
+      "Curling leaves from underwatering",
+      "Root rot from overwatering",
+      "Loss of silver markings in low light"
+    ],
+    "propagationMethods": [
+      "Stem cuttings in water or soil"
+    ],
+    "quickTips": [
+      "The silvery shimmer on leaves is stunning",
+      "Slightly pickier than regular pothos about water",
+      "Beautiful cascading from shelves"
+    ],
+    "source": "bundled",
+    "dateAdded": "2026-01-01T00:00:00Z"
+  },
+  {
+    "scientificName": "Scindapsus treubii",
+    "commonNames": [
+      "Sterling Silver Scindapsus",
+      "Treubii"
+    ],
+    "family": "Araceae",
+    "wateringFrequency": "Every 7-10 days",
+    "wateringNotes": "Let top inch of soil dry between waterings.",
+    "lightRequirement": "Bright indirect light",
+    "lightDetails": "Avoid harsh direct sun; brighter indirect light supports larger leaves.",
+    "humidityPreference": "Medium to high (50-70%)",
+    "temperatureRange": "65-85°F (18-29°C)",
+    "soilType": "Chunky well-draining aroid mix",
+    "fertilizerSchedule": "Monthly during growing season",
+    "toxicity": "Toxic to cats and dogs",
+    "growthRate": "Moderate",
+    "matureSize": "2-6 ft indoors",
+    "commonIssues": [
+      "Yellow leaves from overwatering",
+      "Leggy growth in low light",
+      "Brown edges from dry air"
+    ],
+    "propagationMethods": [
+      "Stem cuttings",
+      "Division (when applicable)"
+    ],
+    "quickTips": [
+      "Use a support pole for larger leaves",
+      "Rotate for even growth",
+      "Check roots yearly"
+    ],
+    "source": "bundled",
+    "dateAdded": "2026-01-01T00:00:00Z"
+  },
+  {
+    "scientificName": "Sedum morganianum",
+    "commonNames": [
+      "Burro's Tail",
+      "Donkey Tail"
+    ],
+    "family": "Crassulaceae",
+    "wateringFrequency": "Every 14-21 days",
+    "wateringNotes": "Soak thoroughly, then let soil dry completely.",
+    "lightRequirement": "Bright indirect to bright direct light",
+    "lightDetails": "Most grow compactly with strong light.",
+    "humidityPreference": "Low (25-45%)",
+    "temperatureRange": "60-85°F (16-29°C)",
+    "soilType": "Cactus/succulent mix with extra grit",
+    "fertilizerSchedule": "Once monthly in spring and summer, lightly",
+    "toxicity": "Mildly toxic to cats and dogs if ingested",
+    "growthRate": "Slow to moderate",
+    "matureSize": "4 inches to 3 ft indoors",
+    "commonIssues": [
+      "Rot from overwatering",
+      "Stretching in low light",
+      "Soft growth from poor drainage"
+    ],
+    "propagationMethods": [
+      "Leaf or stem cuttings",
+      "Offsets"
+    ],
+    "quickTips": [
+      "Terracotta pots help prevent rot",
+      "More light usually means better form",
+      "Water less in winter"
+    ],
+    "source": "bundled",
+    "dateAdded": "2026-01-01T00:00:00Z"
+  },
+  {
+    "scientificName": "Selaginella kraussiana",
+    "commonNames": [
+      "Club Moss",
+      "Spikemoss"
+    ],
+    "family": "Selaginellaceae",
+    "wateringFrequency": "Every 3-6 days",
+    "wateringNotes": "Keep soil evenly moist but not soggy.",
+    "lightRequirement": "Medium indirect light",
+    "lightDetails": "Filtered light is ideal; direct sun scorches fronds.",
+    "humidityPreference": "High (60-80%)",
+    "temperatureRange": "60-78°F (16-26°C)",
+    "soilType": "Moisture-retaining, well-draining potting mix",
+    "fertilizerSchedule": "Monthly at half strength in spring and summer",
+    "toxicity": "Non-toxic to cats and dogs",
+    "growthRate": "Moderate",
+    "matureSize": "1-3 ft indoors",
+    "commonIssues": [
+      "Crispy fronds from low humidity",
+      "Browning from missed watering",
+      "Pests in dry air"
+    ],
+    "propagationMethods": [
+      "Division",
+      "Spores (advanced)"
+    ],
+    "quickTips": [
+      "Humidity is key",
+      "Avoid drying out completely",
+      "Trim old fronds regularly"
+    ],
+    "source": "bundled",
+    "dateAdded": "2026-01-01T00:00:00Z"
+  },
+  {
+    "scientificName": "Senecio rowleyanus",
+    "commonNames": [
+      "String of Pearls",
+      "String of Beads"
+    ],
+    "family": "Asteraceae",
+    "wateringFrequency": "Every 10-14 days",
+    "wateringNotes": "Bottom water when soil is completely dry. Very sensitive to overwatering.",
+    "lightRequirement": "Bright indirect light",
+    "lightDetails": "Some direct morning sun is beneficial. Avoid hot afternoon sun.",
+    "humidityPreference": "Low (30-40%)",
+    "temperatureRange": "55-80°F (13-27°C)",
+    "soilType": "Fast-draining cactus/succulent mix",
+    "fertilizerSchedule": "Monthly spring through summer with diluted succulent fertilizer",
+    "toxicity": "Toxic to cats and dogs",
+    "growthRate": "Moderate",
+    "matureSize": "Trailing strings 2-3 ft",
+    "commonIssues": [
+      "Shriveling from underwatering",
+      "Mushy pearls from overwatering (the #1 killer)",
+      "Sparse growth at base"
+    ],
+    "propagationMethods": [
+      "Stem cuttings laid on soil"
+    ],
+    "quickTips": [
+      "Bottom watering prevents stem rot at soil surface",
+      "Look for 'windows' on pearls — transparent when full of water",
+      "Coil cuttings on top of soil to propagate"
+    ],
+    "source": "bundled",
+    "dateAdded": "2026-01-01T00:00:00Z"
+  },
+  {
+    "scientificName": "Spathiphyllum cochlearispathum",
+    "commonNames": [
+      "Peace Lily",
+      "Sensation Peace Lily"
+    ],
+    "family": "Araceae",
+    "wateringFrequency": "Every 7-10 days",
+    "wateringNotes": "Let top inch of soil dry between waterings.",
+    "lightRequirement": "Bright indirect light",
+    "lightDetails": "Avoid harsh direct sun; brighter indirect light supports larger leaves.",
+    "humidityPreference": "Medium to high (50-70%)",
+    "temperatureRange": "65-85°F (18-29°C)",
+    "soilType": "Chunky well-draining aroid mix",
+    "fertilizerSchedule": "Monthly during growing season",
+    "toxicity": "Toxic to cats and dogs",
+    "growthRate": "Moderate",
+    "matureSize": "2-6 ft indoors",
+    "commonIssues": [
+      "Yellow leaves from overwatering",
+      "Leggy growth in low light",
+      "Brown edges from dry air"
+    ],
+    "propagationMethods": [
+      "Stem cuttings",
+      "Division (when applicable)"
+    ],
+    "quickTips": [
+      "Use a support pole for larger leaves",
+      "Rotate for even growth",
+      "Check roots yearly"
+    ],
+    "source": "bundled",
+    "dateAdded": "2026-01-01T00:00:00Z"
+  },
+  {
+    "scientificName": "Spathiphyllum wallisii",
+    "commonNames": [
+      "Peace Lily"
+    ],
+    "family": "Araceae",
+    "wateringFrequency": "Every 5-7 days",
+    "wateringNotes": "Likes consistent moisture but not soggy. Dramatically droops when thirsty — great visual cue.",
+    "lightRequirement": "Low to medium indirect light",
+    "lightDetails": "One of the best low-light bloomers. Direct sun will scorch leaves.",
+    "humidityPreference": "Medium to high (50-70%)",
+    "temperatureRange": "65-80°F (18-27°C)",
+    "soilType": "Rich, well-draining potting mix",
+    "fertilizerSchedule": "Every 6-8 weeks spring through summer",
+    "toxicity": "Toxic to cats and dogs",
+    "growthRate": "Moderate",
+    "matureSize": "1-4 ft depending on variety",
+    "commonIssues": [
+      "Brown leaf tips from dry air or fluoride in water",
+      "Yellow leaves from overwatering",
+      "No blooms without enough light"
+    ],
+    "propagationMethods": [
+      "Division during repotting"
+    ],
+    "quickTips": [
+      "Use filtered water if you have hard tap water",
+      "Great air purifier",
+      "Blooms more with slightly more light"
+    ],
+    "source": "bundled",
+    "dateAdded": "2026-01-01T00:00:00Z"
+  },
+  {
+    "scientificName": "Strelitzia reginae",
+    "commonNames": [
+      "Bird of Paradise"
+    ],
+    "family": "Strelitziaceae",
+    "wateringFrequency": "Every 7-10 days",
+    "wateringNotes": "Water when top inch is dry. Reduce in winter.",
+    "lightRequirement": "Bright direct to bright indirect light",
+    "lightDetails": "Needs the sunniest spot possible. Won't bloom indoors without at least 4-6 hours direct sun.",
+    "humidityPreference": "Medium to high (50-70%)",
+    "temperatureRange": "65-80°F (18-27°C)",
+    "soilType": "Rich, well-draining potting mix",
+    "fertilizerSchedule": "Every 2 weeks spring through summer",
+    "toxicity": "Mildly toxic if ingested",
+    "growthRate": "Moderate",
+    "matureSize": "5-6 ft indoors",
+    "commonIssues": [
+      "Split leaves (natural — like bananas)",
+      "Brown leaf edges from dry air",
+      "Rarely blooms indoors"
+    ],
+    "propagationMethods": [
+      "Division of mature clumps",
+      "Seed (very slow)"
+    ],
+    "quickTips": [
+      "Leaf splitting is natural, not damage",
+      "Makes a dramatic architectural statement",
+      "Needs large pot and patience for blooms"
+    ],
+    "source": "bundled",
+    "dateAdded": "2026-01-01T00:00:00Z"
+  },
+  {
+    "scientificName": "Stromanthe sanguinea",
+    "commonNames": [
+      "Triostar Stromanthe",
+      "Stromanthe Triostar"
+    ],
+    "family": "Marantaceae",
+    "wateringFrequency": "Every 6-10 days",
+    "wateringNotes": "Keep slightly moist; avoid prolonged soggy soil.",
+    "lightRequirement": "Bright indirect light",
+    "lightDetails": "Morning sun can help, harsh midday sun can scorch.",
+    "humidityPreference": "Medium to high (45-70%)",
+    "temperatureRange": "65-82°F (18-28°C)",
+    "soilType": "Rich, well-draining indoor mix",
+    "fertilizerSchedule": "Monthly during active growth",
+    "toxicity": "Non-toxic to cats and dogs",
+    "growthRate": "Moderate",
+    "matureSize": "1-5 ft indoors",
+    "commonIssues": [
+      "Leaf browning from dry air",
+      "Slow growth in low light",
+      "Root issues in compacted soil"
+    ],
+    "propagationMethods": [
+      "Stem cuttings",
+      "Division"
+    ],
+    "quickTips": [
+      "Good airflow helps prevent pests",
+      "Use filtered water if tips brown",
+      "Repot when roots circle the pot"
+    ],
+    "source": "bundled",
+    "dateAdded": "2026-01-01T00:00:00Z"
+  },
+  {
+    "scientificName": "Syngonium erythrophyllum",
+    "commonNames": [
+      "Red Arrowhead Vine",
+      "Syngonium"
+    ],
+    "family": "Araceae",
+    "wateringFrequency": "Every 7-10 days",
+    "wateringNotes": "Let top inch of soil dry between waterings.",
+    "lightRequirement": "Bright indirect light",
+    "lightDetails": "Avoid harsh direct sun; brighter indirect light supports larger leaves.",
+    "humidityPreference": "Medium to high (50-70%)",
+    "temperatureRange": "65-85°F (18-29°C)",
+    "soilType": "Chunky well-draining aroid mix",
+    "fertilizerSchedule": "Monthly during growing season",
+    "toxicity": "Toxic to cats and dogs",
+    "growthRate": "Moderate",
+    "matureSize": "2-6 ft indoors",
+    "commonIssues": [
+      "Yellow leaves from overwatering",
+      "Leggy growth in low light",
+      "Brown edges from dry air"
+    ],
+    "propagationMethods": [
+      "Stem cuttings",
+      "Division (when applicable)"
+    ],
+    "quickTips": [
+      "Use a support pole for larger leaves",
+      "Rotate for even growth",
+      "Check roots yearly"
+    ],
+    "source": "bundled",
+    "dateAdded": "2026-01-01T00:00:00Z"
+  },
+  {
+    "scientificName": "Syngonium podophyllum",
+    "commonNames": [
+      "Arrowhead Plant",
+      "Arrowhead Vine",
+      "Syngonium"
+    ],
+    "family": "Araceae",
+    "wateringFrequency": "Every 7-10 days",
+    "wateringNotes": "Let top inch dry between waterings. More water needed as it grows.",
+    "lightRequirement": "Medium to bright indirect light",
+    "lightDetails": "Variegated forms need more light. Adapts to lower light.",
+    "humidityPreference": "Medium to high (50-70%)",
+    "temperatureRange": "60-80°F (16-27°C)",
+    "soilType": "Well-draining aroid mix",
+    "fertilizerSchedule": "Monthly during growing season",
+    "toxicity": "Toxic to cats and dogs",
+    "growthRate": "Fast",
+    "matureSize": "3-6 ft (vine or bushy depending on pruning)",
+    "commonIssues": [
+      "Leggy growth in low light",
+      "Loss of variegation without enough light",
+      "Leaf shape changes as plant matures"
+    ],
+    "propagationMethods": [
+      "Stem cuttings in water",
+      "Division"
+    ],
+    "quickTips": [
+      "Prune for bushier compact shape or let trail",
+      "Juvenile and mature leaves look completely different",
+      "Easy and rewarding grower"
+    ],
+    "source": "bundled",
+    "dateAdded": "2026-01-01T00:00:00Z"
+  },
+  {
+    "scientificName": "Syngonium wendlandii",
+    "commonNames": [
+      "Velvet Syngonium",
+      "Arrowhead Plant"
+    ],
+    "family": "Araceae",
+    "wateringFrequency": "Every 7-10 days",
+    "wateringNotes": "Let top inch of soil dry between waterings.",
+    "lightRequirement": "Bright indirect light",
+    "lightDetails": "Avoid harsh direct sun; brighter indirect light supports larger leaves.",
+    "humidityPreference": "Medium to high (50-70%)",
+    "temperatureRange": "65-85°F (18-29°C)",
+    "soilType": "Chunky well-draining aroid mix",
+    "fertilizerSchedule": "Monthly during growing season",
+    "toxicity": "Toxic to cats and dogs",
+    "growthRate": "Moderate",
+    "matureSize": "2-6 ft indoors",
+    "commonIssues": [
+      "Yellow leaves from overwatering",
+      "Leggy growth in low light",
+      "Brown edges from dry air"
+    ],
+    "propagationMethods": [
+      "Stem cuttings",
+      "Division (when applicable)"
+    ],
+    "quickTips": [
+      "Use a support pole for larger leaves",
+      "Rotate for even growth",
+      "Check roots yearly"
+    ],
+    "source": "bundled",
+    "dateAdded": "2026-01-01T00:00:00Z"
+  },
+  {
+    "scientificName": "Thaumatophyllum bipinnatifidum",
+    "commonNames": [
+      "Tree Philodendron",
+      "Lacy Tree Philodendron"
+    ],
+    "family": "Araceae",
+    "wateringFrequency": "Every 7-10 days",
+    "wateringNotes": "Let top inch of soil dry between waterings.",
+    "lightRequirement": "Bright indirect light",
+    "lightDetails": "Avoid harsh direct sun; brighter indirect light supports larger leaves.",
+    "humidityPreference": "Medium to high (50-70%)",
+    "temperatureRange": "65-85°F (18-29°C)",
+    "soilType": "Chunky well-draining aroid mix",
+    "fertilizerSchedule": "Monthly during growing season",
+    "toxicity": "Toxic to cats and dogs",
+    "growthRate": "Moderate",
+    "matureSize": "2-6 ft indoors",
+    "commonIssues": [
+      "Yellow leaves from overwatering",
+      "Leggy growth in low light",
+      "Brown edges from dry air"
+    ],
+    "propagationMethods": [
+      "Stem cuttings",
+      "Division (when applicable)"
+    ],
+    "quickTips": [
+      "Use a support pole for larger leaves",
+      "Rotate for even growth",
+      "Check roots yearly"
+    ],
+    "source": "bundled",
+    "dateAdded": "2026-01-01T00:00:00Z"
+  },
+  {
+    "scientificName": "Thaumatophyllum xanadu",
+    "commonNames": [
+      "Philodendron Xanadu",
+      "Winterbourn"
+    ],
+    "family": "Araceae",
+    "wateringFrequency": "Every 7-10 days",
+    "wateringNotes": "Let top inch of soil dry between waterings.",
+    "lightRequirement": "Bright indirect light",
+    "lightDetails": "Avoid harsh direct sun; brighter indirect light supports larger leaves.",
+    "humidityPreference": "Medium to high (50-70%)",
+    "temperatureRange": "65-85°F (18-29°C)",
+    "soilType": "Chunky well-draining aroid mix",
+    "fertilizerSchedule": "Monthly during growing season",
+    "toxicity": "Toxic to cats and dogs",
+    "growthRate": "Moderate",
+    "matureSize": "2-6 ft indoors",
+    "commonIssues": [
+      "Yellow leaves from overwatering",
+      "Leggy growth in low light",
+      "Brown edges from dry air"
+    ],
+    "propagationMethods": [
+      "Stem cuttings",
+      "Division (when applicable)"
+    ],
+    "quickTips": [
+      "Use a support pole for larger leaves",
+      "Rotate for even growth",
+      "Check roots yearly"
+    ],
+    "source": "bundled",
+    "dateAdded": "2026-01-01T00:00:00Z"
+  },
+  {
+    "scientificName": "Tradescantia zebrina",
+    "commonNames": [
+      "Wandering Dude",
+      "Inch Plant",
+      "Spiderwort"
+    ],
+    "family": "Commelinaceae",
+    "wateringFrequency": "Every 5-7 days",
+    "wateringNotes": "Keep evenly moist. Tolerates brief dry spells.",
+    "lightRequirement": "Bright indirect light",
+    "lightDetails": "Needs bright light to keep purple/silver coloring vivid. Fades in low light.",
+    "humidityPreference": "Medium (40-60%)",
+    "temperatureRange": "55-80°F (13-27°C)",
+    "soilType": "Standard potting mix",
+    "fertilizerSchedule": "Every 2-4 weeks spring through summer",
+    "toxicity": "Mildly irritating to pets",
+    "growthRate": "Very fast",
+    "matureSize": "Trailing vines 2-3 ft",
+    "commonIssues": [
+      "Bare stems at base as it ages",
+      "Crispy leaves from dry air",
+      "Faded color in low light"
+    ],
+    "propagationMethods": [
+      "Stem cuttings in water or soil (root in days)"
+    ],
+    "quickTips": [
+      "Pinch back regularly for fullness",
+      "One of the easiest plants to propagate",
+      "Take cuttings and replant in same pot to fill bare spots"
+    ],
+    "source": "bundled",
+    "dateAdded": "2026-01-01T00:00:00Z"
+  },
+  {
+    "scientificName": "Xanthosoma lindenii",
+    "commonNames": [
+      "Angel Wing Plant",
+      "Caladium Lindenii"
+    ],
+    "family": "Araceae",
+    "wateringFrequency": "Every 7-10 days",
+    "wateringNotes": "Let top inch of soil dry between waterings.",
+    "lightRequirement": "Bright indirect light",
+    "lightDetails": "Avoid harsh direct sun; brighter indirect light supports larger leaves.",
+    "humidityPreference": "Medium to high (50-70%)",
+    "temperatureRange": "65-85°F (18-29°C)",
+    "soilType": "Chunky well-draining aroid mix",
+    "fertilizerSchedule": "Monthly during growing season",
+    "toxicity": "Toxic to cats and dogs",
+    "growthRate": "Moderate",
+    "matureSize": "2-6 ft indoors",
+    "commonIssues": [
+      "Yellow leaves from overwatering",
+      "Leggy growth in low light",
+      "Brown edges from dry air"
+    ],
+    "propagationMethods": [
+      "Stem cuttings",
+      "Division (when applicable)"
+    ],
+    "quickTips": [
+      "Use a support pole for larger leaves",
+      "Rotate for even growth",
+      "Check roots yearly"
+    ],
+    "source": "bundled",
+    "dateAdded": "2026-01-01T00:00:00Z"
+  },
+  {
+    "scientificName": "Yucca gigantea",
+    "commonNames": [
+      "Spineless Yucca",
+      "Yucca Cane"
+    ],
+    "family": "Asparagaceae",
+    "wateringFrequency": "Every 14-21 days",
+    "wateringNotes": "Soak thoroughly, then let soil dry completely.",
+    "lightRequirement": "Bright indirect to bright direct light",
+    "lightDetails": "Most grow compactly with strong light.",
+    "humidityPreference": "Low (25-45%)",
+    "temperatureRange": "60-85°F (16-29°C)",
+    "soilType": "Cactus/succulent mix with extra grit",
+    "fertilizerSchedule": "Once monthly in spring and summer, lightly",
+    "toxicity": "Toxic to cats and dogs",
+    "growthRate": "Slow to moderate",
+    "matureSize": "4 inches to 3 ft indoors",
+    "commonIssues": [
+      "Rot from overwatering",
+      "Stretching in low light",
+      "Soft growth from poor drainage"
+    ],
+    "propagationMethods": [
+      "Leaf or stem cuttings",
+      "Offsets"
+    ],
+    "quickTips": [
+      "Terracotta pots help prevent rot",
+      "More light usually means better form",
+      "Water less in winter"
+    ],
+    "source": "bundled",
+    "dateAdded": "2026-01-01T00:00:00Z"
+  },
+  {
+    "scientificName": "Zamioculcas zamiifolia",
+    "commonNames": [
+      "ZZ Plant",
+      "Zanzibar Gem"
+    ],
+    "family": "Araceae",
+    "wateringFrequency": "Every 14-21 days",
+    "wateringNotes": "Extremely drought tolerant thanks to rhizomes. Overwatering is the most common mistake.",
+    "lightRequirement": "Low to bright indirect light",
+    "lightDetails": "Thrives in low light offices. Grows faster with more light. No direct sun.",
+    "humidityPreference": "Low (30-50%)",
+    "temperatureRange": "60-85°F (16-29°C)",
+    "soilType": "Well-draining mix with extra perlite",
+    "fertilizerSchedule": "2-3 times during growing season",
+    "toxicity": "Toxic to cats and dogs",
+    "growthRate": "Slow",
+    "matureSize": "2-3 ft",
+    "commonIssues": [
+      "Yellow stems from overwatering",
+      "Leaning stems from uneven light",
+      "Rare — very resilient"
+    ],
+    "propagationMethods": [
+      "Division of rhizomes",
+      "Leaf cuttings (very slow — months)"
+    ],
+    "quickTips": [
+      "Perfect for forgetful waterers",
+      "New growth emerges as bright green spears",
+      "Wipe glossy leaves to keep them shiny"
+    ],
+    "source": "bundled",
+    "dateAdded": "2026-01-01T00:00:00Z"
+  },
+  {
+    "scientificName": "Zantedeschia aethiopica",
+    "commonNames": [
+      "Calla Lily",
+      "Arum Lily"
+    ],
+    "family": "Araceae",
+    "wateringFrequency": "Every 6-10 days",
+    "wateringNotes": "Keep slightly moist; avoid prolonged soggy soil.",
+    "lightRequirement": "Bright indirect light",
+    "lightDetails": "Morning sun can help, harsh midday sun can scorch.",
+    "humidityPreference": "Medium to high (45-70%)",
+    "temperatureRange": "65-82°F (18-28°C)",
+    "soilType": "Rich, well-draining indoor mix",
+    "fertilizerSchedule": "Monthly during active growth",
+    "toxicity": "Toxic to cats and dogs (calcium oxalate crystals)",
+    "growthRate": "Moderate",
+    "matureSize": "1-5 ft indoors",
+    "commonIssues": [
+      "Leaf browning from dry air",
+      "Slow growth in low light",
+      "Root issues in compacted soil"
+    ],
+    "propagationMethods": [
+      "Stem cuttings",
+      "Division"
+    ],
+    "quickTips": [
+      "Good airflow helps prevent pests",
+      "Use filtered water if tips brown",
+      "Repot when roots circle the pot"
+    ],
+    "source": "bundled",
+    "dateAdded": "2026-01-01T00:00:00Z"
+  }
+]

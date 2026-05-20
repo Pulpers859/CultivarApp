@@ -1,0 +1,33 @@
+# Xcode and Apple platform build artifacts
+DerivedData/
+build/
+.build/
+*.xcuserstate
+*.xccheckout
+*.moved-aside
+*.xcscmblueprint
+xcuserdata/
+
+# Swift Package Manager
+.swiftpm/
+
+# Editor and OS noise
+.DS_Store
+Thumbs.db
+Desktop.ini
+.idea/
+.vscode/
+
+# Local environment and secrets
+.env
+.env.*
+!.env.example
+*.local
+Secrets.xcconfig
+Config.local.swift
+*.mobileprovision
+*.p12
+*.cer
+
+# App/runtime output
+*.log
