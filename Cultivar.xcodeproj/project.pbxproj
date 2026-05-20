@@ -21,9 +21,22 @@
 		0148D5F12F8439AE008CE5D1 /* CultivarAppTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = CultivarAppTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
 
+/* Begin PBXFileSystemSynchronizedBuildFileExceptionSet section */
+		0148D6082F843BD0008CE5D1 /* Exceptions for "Cultivar" folder in "Cultivar" target */ = {
+			isa = PBXFileSystemSynchronizedBuildFileExceptionSet;
+			membershipExceptions = (
+				Info.plist,
+			);
+			target = 0148D5A42F843850008CE5D1 /* Cultivar */;
+		};
+/* End PBXFileSystemSynchronizedBuildFileExceptionSet section */
+
 /* Begin PBXFileSystemSynchronizedRootGroup section */
 		0148D5A72F843850008CE5D1 /* Cultivar */ = {
 			isa = PBXFileSystemSynchronizedRootGroup;
+			exceptions = (
+				0148D6082F843BD0008CE5D1 /* Exceptions for "Cultivar" folder in "Cultivar" target */,
+			);
 			path = Cultivar;
 			sourceTree = "<group>";
 		};
