@@ -22,6 +22,7 @@ struct SettingsView: View {
     @State private var backupDocument: PlantBackupDocument = .empty
     @State private var importMessage: String = ""
     @State private var showImportResult: Bool = false
+    @State private var lastBackupMetadata: AutomaticBackupMetadata? = AutomaticBackupService.lastBackupMetadata()
 
     var body: some View {
         NavigationStack {
@@ -121,6 +122,26 @@ struct SettingsView: View {
 
                         // Danger zone
                         FormSection(title: "Data", icon: "externaldrive.fill") {
+                            HStack {
+                                Image(systemName: "checkmark.shield.fill")
+                                    .foregroundColor(lastBackupMetadata != nil ? .mossGreen : .stoneGrey.opacity(0.5))
+                                VStack(alignment: .leading, spacing: 2) {
+                                    Text("Automatic Backup")
+                                        .font(CultivarFont.undergrowth(14))
+                                        .foregroundColor(.mushroomCream)
+                                    if let meta = lastBackupMetadata {
+                                        Text("\(meta.plantCount) plant\(meta.plantCount == 1 ? "" : "s") · \(meta.date.formatted(.relative(presentation: .named)))")
+                                            .font(CultivarFont.undergrowth(11))
+                                            .foregroundColor(.stoneGrey)
+                                    } else {
+                                        Text("No backup yet")
+                                            .font(CultivarFont.undergrowth(11))
+                                            .foregroundColor(.stoneGrey.opacity(0.6))
+                                    }
+                                }
+                                Spacer()
+                            }
+
                             Button {
                                 backupDocument = PlantBackupDocument(snapshot: makeBackupSnapshot())
                                 showBackupExporter = true
@@ -159,6 +180,9 @@ struct SettingsView: View {
                         Spacer(minLength: 40)
                     }
                 }
+            }
+            .onAppear {
+                lastBackupMetadata = AutomaticBackupService.lastBackupMetadata()
             }
             .navigationTitle("Settings")
             .navigationBarTitleDisplayMode(.inline)

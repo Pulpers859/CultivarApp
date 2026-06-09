@@ -245,13 +245,32 @@ enum PlantBackupService {
     }
 }
 
+struct AutomaticBackupMetadata {
+    let date: Date
+    let plantCount: Int
+}
+
 enum AutomaticBackupService {
+    private static let lastBackupDateKey = "auto_backup_last_date"
+    private static let lastBackupPlantCountKey = "auto_backup_plant_count"
+
     static func save(snapshot: PlantBackupSnapshot) throws {
         let encoder = JSONEncoder()
         encoder.outputFormatting = [.prettyPrinted, .sortedKeys]
         encoder.dateEncodingStrategy = .iso8601
         let data = try encoder.encode(snapshot)
         try data.write(to: backupURL(), options: .atomic)
+        UserDefaults.standard.set(Date().timeIntervalSince1970, forKey: lastBackupDateKey)
+        UserDefaults.standard.set(snapshot.plants.count, forKey: lastBackupPlantCountKey)
+    }
+
+    static func lastBackupMetadata() -> AutomaticBackupMetadata? {
+        let timestamp = UserDefaults.standard.double(forKey: lastBackupDateKey)
+        guard timestamp > 0 else { return nil }
+        return AutomaticBackupMetadata(
+            date: Date(timeIntervalSince1970: timestamp),
+            plantCount: UserDefaults.standard.integer(forKey: lastBackupPlantCountKey)
+        )
     }
 
     static func loadSnapshot() throws -> PlantBackupSnapshot? {
