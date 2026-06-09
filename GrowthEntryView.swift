@@ -158,8 +158,16 @@ struct AddGrowthEntryView: View {
             plant.growthEntries.append(entry)
         }
 
-        if let h = parsedHeight { plant.currentHeightCm = h }
-        if let l = parsedLeafCount { plant.currentLeafCount = l }
+        // Derive "current" stats from the most recent entry that recorded a
+        // value, so backdated or edited entries never overwrite newer
+        // measurements with stale data.
+        let entriesByMostRecent = plant.growthEntries.sorted { $0.date > $1.date }
+        if let latestHeight = entriesByMostRecent.compactMap(\.heightCm).first {
+            plant.currentHeightCm = latestHeight
+        }
+        if let latestLeafCount = entriesByMostRecent.compactMap(\.leafCount).first {
+            plant.currentLeafCount = latestLeafCount
+        }
         dismiss()
     }
 }

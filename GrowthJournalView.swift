@@ -190,7 +190,10 @@ struct GrowthPhotoGallerySheet: View {
         _currentIndex = State(initialValue: startIndex)
     }
 
-    private var currentEntry: GrowthEntry { entries[currentIndex] }
+    private var currentEntry: GrowthEntry? {
+        guard entries.indices.contains(currentIndex) else { return nil }
+        return entries[currentIndex]
+    }
 
     var body: some View {
         NavigationStack {
@@ -216,7 +219,7 @@ struct GrowthPhotoGallerySheet: View {
                 }
                 .tabViewStyle(.page(indexDisplayMode: entries.count > 1 ? .automatic : .never))
             }
-            .navigationTitle(currentEntry.date.formatted(date: .abbreviated, time: .omitted))
+            .navigationTitle(currentEntry?.date.formatted(date: .abbreviated, time: .omitted) ?? "")
             .navigationBarTitleDisplayMode(.inline)
             .toolbar {
                 ToolbarItem(placement: .topBarLeading) {
