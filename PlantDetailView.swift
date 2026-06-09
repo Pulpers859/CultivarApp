@@ -604,9 +604,14 @@ struct GrowthHistoryTab: View {
     @State private var showUndoDeleteBanner: Bool = false
     @State private var undoDeleteMessage: String = ""
     @State private var pendingDeleteWorkItem: DispatchWorkItem? = nil
+    @State private var galleryStartEntry: GrowthEntry? = nil
 
     var sortedEntries: [GrowthEntry] {
         plant.growthEntries.sorted { $0.date > $1.date }
+    }
+
+    var photoEntries: [GrowthEntry] {
+        sortedEntries.filter { $0.photoData != nil }
     }
 
     var body: some View {
@@ -630,6 +635,7 @@ struct GrowthHistoryTab: View {
                 ForEach(sortedEntries) { entry in
                     GrowthEntryRow(
                         entry: entry,
+                        onPhotoTap: entry.photoData != nil ? { galleryStartEntry = entry } : nil,
                         onEdit: { editingEntry = entry },
                         onDelete: {
                             entryPendingDeletion = entry
@@ -661,6 +667,10 @@ struct GrowthHistoryTab: View {
         }
         .sheet(item: $editingEntry) { entry in
             AddGrowthEntryView(plant: plant, editingEntry: entry)
+        }
+        .sheet(item: $galleryStartEntry) { startEntry in
+            let startIndex = photoEntries.firstIndex(where: { $0.id == startEntry.id }) ?? 0
+            GrowthPhotoGallerySheet(entries: photoEntries, startIndex: startIndex)
         }
         .safeAreaInset(edge: .bottom) {
             if showUndoDeleteBanner {
@@ -862,9 +872,9 @@ struct CareLogRow: View {
 
 struct GrowthEntryRow: View {
     let entry: GrowthEntry
+    let onPhotoTap: (() -> Void)?
     let onEdit: () -> Void
     let onDelete: () -> Void
-    @State private var showPhotoPreview: Bool = false
 
     private var growthPhoto: UIImage? {
         guard let data = entry.photoData else { return nil }
@@ -875,7 +885,7 @@ struct GrowthEntryRow: View {
         HStack(spacing: 12) {
             if let image = growthPhoto {
                 Button {
-                    showPhotoPreview = true
+                    onPhotoTap?()
                 } label: {
                     Image(uiImage: image)
                         .resizable()
@@ -945,14 +955,6 @@ struct GrowthEntryRow: View {
         }
         .padding(12)
         .forestCard()
-        .sheet(isPresented: $showPhotoPreview) {
-            if let image = growthPhoto {
-                GrowthPhotoPreviewSheet(
-                    image: image,
-                    title: entry.date.formatted(date: .abbreviated, time: .omitted)
-                )
-            }
-        }
     }
 }
 

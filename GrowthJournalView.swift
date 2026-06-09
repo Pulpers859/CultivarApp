@@ -170,30 +170,62 @@ struct PlantGrowthSummaryRow: View {
         .padding(12)
         .forestCard()
         .sheet(isPresented: $showPhotoPreview) {
-            if let data = latestEntry?.photoData, let image = UIImage(data: data) {
-                GrowthPhotoPreviewSheet(image: image, title: plant.nickname)
+            let photoEntries = plant.growthEntries
+                .filter { $0.photoData != nil }
+                .sorted { $0.date > $1.date }
+            if !photoEntries.isEmpty {
+                GrowthPhotoGallerySheet(entries: photoEntries, startIndex: 0)
             }
         }
     }
 }
 
-struct GrowthPhotoPreviewSheet: View {
-    let image: UIImage
-    let title: String
+struct GrowthPhotoGallerySheet: View {
+    let entries: [GrowthEntry]
+    @State private var currentIndex: Int
     @Environment(\.dismiss) private var dismiss
+
+    init(entries: [GrowthEntry], startIndex: Int) {
+        self.entries = entries
+        _currentIndex = State(initialValue: startIndex)
+    }
+
+    private var currentEntry: GrowthEntry { entries[currentIndex] }
 
     var body: some View {
         NavigationStack {
             ZStack {
                 Color.black.ignoresSafeArea()
-                Image(uiImage: image)
-                    .resizable()
-                    .scaledToFit()
-                    .padding()
+                TabView(selection: $currentIndex) {
+                    ForEach(Array(entries.enumerated()), id: \.offset) { index, entry in
+                        VStack(spacing: 12) {
+                            if let data = entry.photoData, let image = UIImage(data: data) {
+                                Image(uiImage: image)
+                                    .resizable()
+                                    .scaledToFit()
+                            }
+                            if let milestone = entry.milestone {
+                                Text("🌟 \(milestone)")
+                                    .font(CultivarFont.undergrowth(14))
+                                    .foregroundColor(.goldenPollen)
+                                    .padding(.horizontal)
+                            }
+                        }
+                        .tag(index)
+                    }
+                }
+                .tabViewStyle(.page(indexDisplayMode: entries.count > 1 ? .automatic : .never))
             }
-            .navigationTitle(title)
+            .navigationTitle(currentEntry.date.formatted(date: .abbreviated, time: .omitted))
             .navigationBarTitleDisplayMode(.inline)
             .toolbar {
+                ToolbarItem(placement: .topBarLeading) {
+                    if entries.count > 1 {
+                        Text("\(currentIndex + 1) of \(entries.count)")
+                            .font(CultivarFont.rings(13))
+                            .foregroundColor(.stoneGrey)
+                    }
+                }
                 ToolbarItem(placement: .topBarTrailing) {
                     Button("Done") { dismiss() }
                         .foregroundColor(.mushroomCream)
