@@ -11,8 +11,8 @@ This repo-specific handoff follows the workstation-wide standard in [AI_PROJECT_
 
 ## Repo State
 - Stable branch: `main`
-- Working branch: `dev`
-- Expected default branch for normal work: `dev`
+- Working branch: `main`
+- Expected default branch for normal work: `main`
 - Sync-first rule: `Before normal work, fetch from the remote first. If the working tree is clean and the active branch tracks the expected upstream, pull with --ff-only before editing. If local changes exist, fetch and reconcile instead of blindly pulling.`
 - If Git is not set up yet for this project, the agent should bootstrap it before doing major feature work.
 
@@ -35,7 +35,7 @@ If `git rev-parse --is-inside-work-tree` fails in the real project root, the age
 9. run a secret scan and remove any live credentials from tracked files before connecting/pushing GitHub
 10. connect the GitHub remote if I want one
 11. push `main`
-12. create and push `dev`
+12. push `main`
 13. add a local hook blocking direct commits to `main`
 14. create a dedicated PowerShell shortcut for this project
 
@@ -62,7 +62,7 @@ If the GitHub remote is unknown, the agent should finish local bootstrap first a
 - If validation, linting, or review logic is too rigid and rejects good output, improve the rule when appropriate instead of dumbing down the product.
 - Do not silently tolerate poor architecture if it is now a maintenance risk.
 - Handle Git operations when appropriate.
-- Keep normal work on `dev`, not `main`.
+- Keep normal work on `main`.
 - Before editing on an existing repo, run a fetch and check ahead/behind state; if clean, pull the tracked branch with `--ff-only`.
 - Audit adjacent risks after making fixes.
 - Run the checks that are realistically available in the current environment.
@@ -121,12 +121,6 @@ The agent should confirm:
   - `git add .`
   - `git commit -m "..."`
   - `git push`
-- Preferred promotion flow from `dev` to `main`:
-  - `git checkout main`
-  - `git pull --ff-only`
-  - `git merge --ff-only dev`
-  - `git push`
-  - `git checkout dev`
 
 ## Project-Specific Instructions For The Next Agent
 ```text
@@ -134,7 +128,7 @@ Project: CultivarApp
 Active repo path: C:\Dev\CultivarApp
 GitHub remote: https://github.com/Pulpers859/CultivarApp.git
 Stable branch: main
-Working branch: dev
+Working branch: main
 
 Important:
 - Treat C:\Dev\CultivarApp as the source of truth.

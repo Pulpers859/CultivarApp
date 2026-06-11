@@ -49,9 +49,9 @@ Each project should have:
 - Before normal work on an existing repo, fetch first so the local repo is not stale. If the working tree is clean, pull the tracked branch with `--ff-only`; if it is dirty, fetch and reconcile before editing.
 
 ### 4. Branching Standard
-- `main` = stable branch
-- `dev` = default working branch
-- normal day-to-day work happens on `dev`
+- `main` = stable and default working branch
+- normal day-to-day work happens on `main`
+- use short-lived feature branches only when a change is risky, experimental, or easier to review in isolation
 - direct commits to `main` should be blocked locally with a pre-commit hook
 - if server-side protection is added later, protect `main` on GitHub too
 
@@ -142,17 +142,6 @@ git branch --show-current
 git lg
 ```
 
-### Promote Finished Work From `dev` To `main`
-```powershell
-git checkout main
-git pull --ff-only
-git merge --ff-only dev
-git push
-git checkout dev
-```
-
----
-
 ## Reusable Handoff Prompt Template
 
 Copy and fill this for a future AI agent:
@@ -166,7 +155,7 @@ Primary target this session: <Main app / subproject / surface / both / unknown>
 GitHub intent: <none / remote already exists / create a new remote with me>
 GitHub remote: <RemoteURLOrUnknown>
 Stable branch: main
-Working branch: dev
+Working branch: main
 
 Important:
 - Treat the active repo path above as the source of truth.
@@ -175,7 +164,7 @@ Important:
 - Fetch first and sync the tracked branch before normal work when the repo is clean.
 - Use direct code edits and root-cause fixes.
 - Handle Git operations for me when appropriate.
-- Keep normal work on `dev`, not `main`.
+- Keep normal work on `main`.
 - Do not commit directly to `main` unless explicitly instructed.
 - Preserve repo-local Git config, line-ending rules, hooks, and shortcuts.
 - If duplicate or nested repos exist, resolve that carefully before continuing.
@@ -203,7 +192,7 @@ Use this as the filled reference example for the `Transform` app.
 - Stable branch:
   - `main`
 - Working branch:
-  - `dev`
+  - `main`
 - Dedicated shortcut:
   - `Transform PowerShell`
 - Shortcut should open in:
@@ -222,7 +211,7 @@ Project: Transform
 Active repo path: C:\Dev\Transform
 GitHub remote: https://github.com/Pulpers859/Transform.git
 Stable branch: main
-Working branch: dev
+Working branch: main
 
 Important:
 - `C:\Dev\Transform` is the source of truth.
@@ -242,7 +231,7 @@ Default behavior:
 - Audit adjacent risks
 - Run local checks where possible
 - Handle Git operations when appropriate
-- Keep work on `dev` by default
+- Keep work on `main` by default
 ```
 
 ---
@@ -254,10 +243,9 @@ When onboarding a new app, follow this sequence:
 3. initialize/verify Git locally
 4. connect GitHub remote
 5. run a secret scan and remove any live credentials from tracked files before the first push
-6. create `dev`
-7. add main-blocking local hook
-8. create dedicated PowerShell shortcut
-9. confirm the active working branch is `dev`
-10. document the app-specific handoff state
+6. add main-blocking local hook
+7. create dedicated PowerShell shortcut
+8. confirm the active working branch is `main`
+9. document the app-specific handoff state
 
 This should be the default pattern for all future local app projects unless there is a strong reason to deviate.

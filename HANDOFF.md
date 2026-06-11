@@ -162,6 +162,7 @@ Cultivar/Cultivar/
 - **Session 7** (April 6, 2026): Introduced `PlantDetailViewModel` to move `PlantDetailView` mutation logic out of the view (favorite toggle, quick water/fertilize, selected photo application). Updated `PlantDetailView` to use the view model and removed unused local animation state. Added `PlantDetailViewModelTests` for action-level behavior.
 - **Session 8** (April 6, 2026): Added `DATA_SAFETY_CHECKLIST.md` with a release-time data retention checklist (bundle ID stability, SwiftData schema change rules, migration requirements, smoke tests, and recovery guidance) to reduce risk of accidental data loss during future updates.
 - **Session 9** (May 11, 2026): Added a lean Claude workflow layer for future AI-assisted development: `CLAUDE.md`, focused project skills in `.claude/skills/`, reusable slash commands in `.claude/commands/`, and minimal `.claude/settings.json` guardrails. Intentionally kept hooks inactive to avoid hidden mutation and unreliable Xcode-dependent automation.
+- **Session 10** (June 11, 2026): Simplified Git workflow to a single long-lived branch. `dev` was merged into `main`, `main` became the only normal work branch, and the handoff docs were updated to stop instructing future agents to use both `main` and `dev`.
 
 ---
 
