@@ -8,6 +8,7 @@ struct AddGrowthEntryView: View {
     @Bindable var plant: Plant
     let editingEntry: GrowthEntry?
 
+    @State private var entryDate: Date = Date()
     @State private var heightStr: String = ""
     @State private var leafCountStr: String = ""
     @State private var stemCountStr: String = ""
@@ -19,6 +20,7 @@ struct AddGrowthEntryView: View {
     init(plant: Plant, editingEntry: GrowthEntry? = nil) {
         self.plant = plant
         self.editingEntry = editingEntry
+        _entryDate = State(initialValue: editingEntry?.date ?? Date())
         _heightStr = State(initialValue: editingEntry?.heightCm.map { String(format: "%.1f", $0) } ?? "")
         _leafCountStr = State(initialValue: editingEntry?.leafCount.map(String.init) ?? "")
         _stemCountStr = State(initialValue: editingEntry?.stemCount.map(String.init) ?? "")
@@ -33,6 +35,18 @@ struct AddGrowthEntryView: View {
                 ForestGradients.deepCanopy.ignoresSafeArea()
                 ScrollView {
                     VStack(spacing: 16) {
+                        FormSection(title: "Date", icon: "calendar") {
+                            DatePicker(
+                                "Entry Date",
+                                selection: $entryDate,
+                                in: ...Date(),
+                                displayedComponents: .date
+                            )
+                            .datePickerStyle(.compact)
+                            .font(CultivarFont.undergrowth(14))
+                            .tint(.mossGreen)
+                        }
+
                         FormSection(title: "Measurements", icon: "ruler") {
                             CultivarFormField(label: "Height (cm)", placeholder: "e.g. 32.5", text: $heightStr)
                             CultivarFormField(label: "Leaf Count", placeholder: "e.g. 12", text: $leafCountStr)
@@ -124,6 +138,7 @@ struct AddGrowthEntryView: View {
         let trimmedMilestone = milestone.trimmingCharacters(in: .whitespacesAndNewlines)
 
         if let editingEntry {
+            editingEntry.date = entryDate
             editingEntry.heightCm = parsedHeight
             editingEntry.leafCount = parsedLeafCount
             editingEntry.stemCount = parsedStemCount
@@ -137,13 +152,22 @@ struct AddGrowthEntryView: View {
                 notes: trimmedNotes,
                 milestone: trimmedMilestone.isEmpty ? nil : trimmedMilestone
             )
+            entry.date = entryDate
             entry.stemCount = parsedStemCount
             entry.photoData = photoData
             plant.growthEntries.append(entry)
         }
 
-        if let h = parsedHeight { plant.currentHeightCm = h }
-        if let l = parsedLeafCount { plant.currentLeafCount = l }
+        // Derive "current" stats from the most recent entry that recorded a
+        // value, so backdated or edited entries never overwrite newer
+        // measurements with stale data.
+        let entriesByMostRecent = plant.growthEntries.sorted { $0.date > $1.date }
+        if let latestHeight = entriesByMostRecent.compactMap(\.heightCm).first {
+            plant.currentHeightCm = latestHeight
+        }
+        if let latestLeafCount = entriesByMostRecent.compactMap(\.leafCount).first {
+            plant.currentLeafCount = latestLeafCount
+        }
         dismiss()
     }
 }
