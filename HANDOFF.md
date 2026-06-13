@@ -163,6 +163,7 @@ Cultivar/Cultivar/
 - **Session 8** (April 6, 2026): Added `DATA_SAFETY_CHECKLIST.md` with a release-time data retention checklist (bundle ID stability, SwiftData schema change rules, migration requirements, smoke tests, and recovery guidance) to reduce risk of accidental data loss during future updates.
 - **Session 9** (May 11, 2026): Added a lean Claude workflow layer for future AI-assisted development: `CLAUDE.md`, focused project skills in `.claude/skills/`, reusable slash commands in `.claude/commands/`, and minimal `.claude/settings.json` guardrails. Intentionally kept hooks inactive to avoid hidden mutation and unreliable Xcode-dependent automation.
 - **Session 10** (June 11, 2026): Simplified Git workflow to a single long-lived branch. `dev` was merged into `main`, `main` became the only normal work branch, and the handoff docs were updated to stop instructing future agents to use both `main` and `dev`.
+- **Session 11** (June 13, 2026): Hard-coded a stricter Git rule for this repo: `main` only, direct commits/pushes on `main` only, and no side branches or PR workflow unless the user explicitly requests an exception in that session. Added `AGENTS.md` and updated the handoff/workflow docs so future agents see that rule immediately.
 
 ---
 

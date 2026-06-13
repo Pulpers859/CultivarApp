@@ -21,6 +21,12 @@ Product quality comes first. Keep the AI layer small, explicit, and useful.
 - Run or specify the smallest relevant test scope. Prefer targeted suites over generic broad sweeps.
 - If behavior, operational guidance, or known risks changed, update `HANDOFF.md`.
 
+## Git Workflow Rule
+- `main` is the only allowed working branch.
+- Commit directly to `main` and push directly to `origin/main`.
+- Do not create side branches, feature branches, revive `dev`, or use pull requests.
+- Only break this rule if the user explicitly asks for a branch or PR in that session.
+
 ## Use The Project Skills
 - Schema or persistent model change: `@.claude/skills/swiftdata-schema-safety.md`
 - Backup/import/recovery change: `@.claude/skills/backup-recovery.md`
@@ -29,6 +35,7 @@ Product quality comes first. Keep the AI layer small, explicit, and useful.
 
 ## Hard Rules
 - No silent auto-commits, auto-pushes, destructive resets, or broad mutating hooks.
+- No branch workflow, side branches, or PR workflow unless the user explicitly asks for it.
 - Do not add “helpful” automation that changes data, files, or app state behind the user's back.
 - Do not expand the AI surface area unless it solves a current product problem.
 - When schema changes are risky, say so plainly and require migration planning.

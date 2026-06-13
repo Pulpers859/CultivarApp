@@ -51,7 +51,7 @@ Each project should have:
 ### 4. Branching Standard
 - `main` = stable and default working branch
 - normal day-to-day work happens on `main`
-- use short-lived feature branches only when a change is risky, experimental, or easier to review in isolation
+- do not use feature branches, side branches, or pull requests unless the user explicitly asks for them
 - direct commits to `main` should be blocked locally with a pre-commit hook
 - if server-side protection is added later, protect `main` on GitHub too
 
@@ -165,7 +165,7 @@ Important:
 - Use direct code edits and root-cause fixes.
 - Handle Git operations for me when appropriate.
 - Keep normal work on `main`.
-- Do not commit directly to `main` unless explicitly instructed.
+- Commit and push on `main` directly unless I explicitly ask for a branch or PR.
 - Preserve repo-local Git config, line-ending rules, hooks, and shortcuts.
 - If duplicate or nested repos exist, resolve that carefully before continuing.
 - Prefer dedicated PowerShell shortcuts per project instead of globally pinning PowerShell to one repo.
@@ -222,7 +222,7 @@ Important:
   - line ending normalization
   - repo-local aliases
   - repo-local pull/fetch defaults
-  - local pre-commit hook blocking direct commits to `main`
+  - any optional protections must still preserve a `main`-only workflow unless the user explicitly asks for a branch or PR
 
 Default behavior:
 - Sync from the tracked remote branch first when the repo is clean

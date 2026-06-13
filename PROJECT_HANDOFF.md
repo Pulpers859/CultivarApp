@@ -14,6 +14,7 @@ This repo-specific handoff follows the workstation-wide standard in [AI_PROJECT_
 - Working branch: `main`
 - Expected default branch for normal work: `main`
 - Sync-first rule: `Before normal work, fetch from the remote first. If the working tree is clean and the active branch tracks the expected upstream, pull with --ff-only before editing. If local changes exist, fetch and reconcile instead of blindly pulling.`
+- GitHub workflow rule: `Use only main. Commit directly to main and push directly to origin/main. Do not create side branches, revive dev, or use pull request workflows unless the user explicitly asks for an exception in that session.`
 - If Git is not set up yet for this project, the agent should bootstrap it before doing major feature work.
 
 ## If No Git Exists Yet
@@ -63,6 +64,7 @@ If the GitHub remote is unknown, the agent should finish local bootstrap first a
 - Do not silently tolerate poor architecture if it is now a maintenance risk.
 - Handle Git operations when appropriate.
 - Keep normal work on `main`.
+- Do not create or use side branches or PRs unless the user explicitly asks for that exception.
 - Before editing on an existing repo, run a fetch and check ahead/behind state; if clean, pull the tracked branch with `--ff-only`.
 - Audit adjacent risks after making fixes.
 - Run the checks that are realistically available in the current environment.
@@ -95,6 +97,7 @@ After making changes, the agent should do another harsh pass focused on:
 - The agent audits adjacent risks.
 - The agent runs local checks where possible.
 - The agent handles Git steps when appropriate.
+- The agent commits and pushes on `main` directly rather than using a side branch or PR flow.
 - The user should not need to babysit PowerShell, Git, or GitHub for normal work.
 
 ## Before Starting Any New Task
@@ -137,6 +140,7 @@ Important:
 - If Git is not already set up, bootstrap it using the repo standard in this file before major feature work.
 - Use the standard workflow: investigate directly, fix root causes, audit adjacent risks, run checks, and handle Git when appropriate.
 - Before starting normal work, fetch from origin and sync the active branch first when the working tree is clean. If the repo is dirty, fetch and reconcile instead of pulling blindly.
+- Use only `main`. Commit directly to `main` and push directly to `origin/main`. Do not create side branches, revive `dev`, or use PR workflow unless the user explicitly asks for it.
 - The main product risk areas are SwiftData migration safety, backup/recovery, reminder date logic, and destructive data flows.
 - If multiple surfaces exist, prioritize the main iOS app before exploring side surfaces.
 - If the GitHub remote is unknown, finish local repo setup first and ask for the remote only when needed for push/setup.
