@@ -106,6 +106,7 @@ The AI agent should operate like this by default:
 - preserve product quality over merely satisfying rigid validation
 - do not silently accept poor architecture if it is now causing risk
 - do not assume the repo path or branch without checking
+- if prior work by another agent, machine, terminal, or conversation is mentioned, do not assume the current diff or latest visible commit tells the full story
 
 ### Before Doing Work
 The agent should first confirm:
@@ -116,6 +117,15 @@ The agent should first confirm:
 5. whether the local branch is behind the remote and needs fetch/pull
 6. whether a stale OneDrive/Desktop copy exists
 7. whether the active repo is the true source of truth
+8. whether outside-agent work has been mentioned and requires reconciliation before sync or edit decisions
+
+### External-Agent Reconciliation
+When the user mentions prior work by another AI agent, another machine, another terminal, or another conversation:
+- inspect any outside artifact the user provides, such as a transcript, chat export, screenshot, commit list, or claimed fix summary
+- compare what that outside agent claimed to change against the current local files, the local Git history, and the current `main` branch on GitHub
+- tell the user plainly whether each claimed change is present, missing, partially landed, or overwritten
+- only after that comparison decide whether to pull, rebase, merge, patch missing work, or leave newer work intact
+- do not say the repo is fully assessed or in sync until this reconciliation step is complete
 
 ---
 

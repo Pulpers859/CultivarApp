@@ -15,6 +15,7 @@ This repo-specific handoff follows the workstation-wide standard in [AI_PROJECT_
 - Expected default branch for normal work: `main`
 - Sync-first rule: `Before normal work, fetch from the remote first. If the working tree is clean and the active branch tracks the expected upstream, pull with --ff-only before editing. If local changes exist, fetch and reconcile instead of blindly pulling.`
 - GitHub workflow rule: `Use only main. Commit directly to main and push directly to origin/main. Do not create side branches, revive dev, or use pull request workflows unless the user explicitly asks for an exception in that session.`
+- External-agent reconciliation rule: `If outside agent work is mentioned, do not claim the repo is fully assessed or in sync until claimed changes have been compared against local files, local Git history, and the current main branch on GitHub.`
 - If Git is not set up yet for this project, the agent should bootstrap it before doing major feature work.
 
 ## If No Git Exists Yet
@@ -65,6 +66,7 @@ If the GitHub remote is unknown, the agent should finish local bootstrap first a
 - Handle Git operations when appropriate.
 - Keep normal work on `main`.
 - Do not create or use side branches or PRs unless the user explicitly asks for that exception.
+- If prior work by another agent, machine, terminal, or conversation is part of the context, perform an external-agent reconciliation pass before new edits, rebases, resets, merges, or sync claims.
 - Before editing on an existing repo, run a fetch and check ahead/behind state; if clean, pull the tracked branch with `--ff-only`.
 - Audit adjacent risks after making fixes.
 - Run the checks that are realistically available in the current environment.
@@ -109,6 +111,7 @@ The agent should confirm:
 5. whether the local branch is behind the remote and needs fetch/pull
 6. whether stale copies exist elsewhere
 7. whether the active folder is truly the source of truth
+8. whether outside-agent work has been mentioned and requires reconciliation before sync or edit decisions
 
 ## Architecture / Product Notes
 - Main product purpose: `A SwiftUI + SwiftData plant care app for tracking plant profiles, care schedules, growth, environments, wishlist items, AI diagnosis, backups, and reminders.`
@@ -141,6 +144,7 @@ Important:
 - Use the standard workflow: investigate directly, fix root causes, audit adjacent risks, run checks, and handle Git when appropriate.
 - Before starting normal work, fetch from origin and sync the active branch first when the working tree is clean. If the repo is dirty, fetch and reconcile instead of pulling blindly.
 - Use only `main`. Commit directly to `main` and push directly to `origin/main`. Do not create side branches, revive `dev`, or use PR workflow unless the user explicitly asks for it.
+- If prior work by another AI agent, machine, terminal, or conversation is mentioned, reconcile those claims against local files, local Git history, and the current `main` branch on GitHub before making sync claims or deciding on pulls, rebases, merges, resets, or patches.
 - The main product risk areas are SwiftData migration safety, backup/recovery, reminder date logic, and destructive data flows.
 - If multiple surfaces exist, prioritize the main iOS app before exploring side surfaces.
 - If the GitHub remote is unknown, finish local repo setup first and ask for the remote only when needed for push/setup.

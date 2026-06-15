@@ -19,3 +19,12 @@
 - Do not pretend Apple builds/tests ran unless a real Xcode environment was used.
 - Product risk is data loss, reminder drift, and backup/recovery breakage, not cosmetic polish.
 - If behavior, workflow rules, or known risks change, update `HANDOFF.md`.
+
+## External-Agent Reconciliation
+- If the user mentions prior work by another AI agent, another machine, another terminal, or another conversation, do not assume the current diff or latest visible commit tells the full story.
+- Before making new edits, rebases, resets, merges, or sync claims, perform an external-agent reconciliation pass.
+- Inspect any outside artifact the user provides, such as a transcript, chat export, screenshot, commit list, or claimed fix summary.
+- Compare what that outside agent claimed to change against the current local files, the local Git history, and the current `main` branch on GitHub.
+- Tell the user plainly whether each claimed change is present, missing, partially landed, or overwritten.
+- Only after that comparison should you decide whether to pull, rebase, merge, patch missing work, or leave newer work intact.
+- Do not tell the user the repo is fully assessed or in sync until this reconciliation step is complete whenever outside agent work is part of the context.

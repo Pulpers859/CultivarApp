@@ -27,6 +27,14 @@ Product quality comes first. Keep the AI layer small, explicit, and useful.
 - Do not create side branches, feature branches, revive `dev`, or use pull requests.
 - Only break this rule if the user explicitly asks for a branch or PR in that session.
 
+## External-Agent Reconciliation Rule
+- If the user mentions prior work by another AI agent, another machine, another terminal, or another conversation, do not assume the current diff or latest visible commit tells the full story.
+- Before making new edits, rebases, resets, merges, or sync claims, perform an external-agent reconciliation pass.
+- Inspect any outside artifact the user provides, such as a transcript, chat export, screenshot, commit list, or claimed fix summary.
+- Compare those claims against the current local files, the local Git history, and the current `main` branch on GitHub.
+- Tell the user plainly whether each claimed change is present, missing, partially landed, or overwritten.
+- Do not call the repo fully assessed or in sync until that reconciliation step is complete whenever outside agent work is part of the context.
+
 ## Use The Project Skills
 - Schema or persistent model change: `@.claude/skills/swiftdata-schema-safety.md`
 - Backup/import/recovery change: `@.claude/skills/backup-recovery.md`
