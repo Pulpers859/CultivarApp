@@ -1,4 +1,4 @@
-This repo-specific handoff follows the workstation-wide standard in [AI_PROJECT_HANDOFF_TEMPLATE.md](C:/Dev/CultivarApp/AI_PROJECT_HANDOFF_TEMPLATE.md:1).
+This repo-specific handoff follows the workstation-wide standard in [docs/templates/AI_PROJECT_HANDOFF_TEMPLATE.md](C:/Dev/CultivarApp/docs/templates/AI_PROJECT_HANDOFF_TEMPLATE.md:1).
 
 ## Project Identity
 - Project name: `CultivarApp`
@@ -37,7 +37,7 @@ If `git rev-parse --is-inside-work-tree` fails in the real project root, the age
 9. run a secret scan and remove any live credentials from tracked files before connecting/pushing GitHub
 10. connect the GitHub remote if I want one
 11. push `main`
-12. push `main`
+12. confirm `main` tracks `origin/main`
 13. add a local hook blocking direct commits to `main`
 14. create a dedicated PowerShell shortcut for this project
 

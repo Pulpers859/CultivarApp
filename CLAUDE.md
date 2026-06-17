@@ -20,6 +20,7 @@ Product quality comes first. Keep the AI layer small, explicit, and useful.
 - Make the smallest fix that meaningfully reduces the bug or regression risk.
 - Run or specify the smallest relevant test scope. Prefer targeted suites over generic broad sweeps.
 - If behavior, operational guidance, or known risks changed, update `HANDOFF.md`.
+- Keep non-runtime support material under `docs/` instead of adding more root-level clutter.
 
 ## Git Workflow Rule
 - `main` is the only allowed working branch.

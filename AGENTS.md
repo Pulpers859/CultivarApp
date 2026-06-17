@@ -14,11 +14,13 @@
 - App code: `Cultivar/`
 - Xcode project: `Cultivar.xcodeproj/`
 - Tests: `CultivarAppTests/`
+- Support docs: `docs/`
 
 ## Safety
 - Do not pretend Apple builds/tests ran unless a real Xcode environment was used.
 - Product risk is data loss, reminder drift, and backup/recovery breakage, not cosmetic polish.
 - If behavior, workflow rules, or known risks change, update `HANDOFF.md`.
+- Repo support docs should live under `docs/` rather than accumulating in the repo root.
 
 ## External-Agent Reconciliation
 - If the user mentions prior work by another AI agent, another machine, another terminal, or another conversation, do not assume the current diff or latest visible commit tells the full story.

@@ -1,18 +1,22 @@
-# CultivarAppTests Setup
+# CultivarAppTests
 
-This workspace currently has source files only (no `.xcodeproj` checked in), so the test target must be added in Xcode:
+The repo includes a checked-in Xcode project at `Cultivar.xcodeproj`.
 
-1. Create an iOS App project (or open your existing one) that uses these source files.
-2. Add a new target: `File -> New -> Target -> Unit Testing Bundle`.
-3. Name the target `CultivarAppTests`.
-4. Add all files in this folder to that test target.
-5. Ensure the app module is importable as `Cultivar` or `CultivarApp`.
-6. Run tests with `Product -> Test`.
+## Run In Xcode
+1. Open `Cultivar.xcodeproj`.
+2. Select the `Cultivar` scheme.
+3. Run `Product > Test`.
 
-Included suites:
+## Current Suites
+- `DeletionBehaviorTests`
 - `ParsingUtilsTests`
+- `PlantBackupServiceTests`
+- `PlantCareServiceTests`
+- `PlantDetailViewModelTests`
 - `PlantModelLogicTests`
 - `SupportingModelsLogicTests`
-- `PlantCareServiceTests`
 - `WateringScheduleTests`
-- `PlantDetailViewModelTests`
+
+## Verification Reality
+- XCTest execution cannot be verified from this Windows workspace.
+- Real test execution still requires macOS/Xcode.
