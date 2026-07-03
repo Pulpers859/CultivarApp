@@ -14,7 +14,7 @@ This repo-specific handoff follows the workstation-wide standard in [docs/templa
 - Working branch: `main`
 - Expected default branch for normal work: `main`
 - Sync-first rule: `Before normal work, fetch from the remote first. If the working tree is clean and the active branch tracks the expected upstream, pull with --ff-only before editing. If local changes exist, fetch and reconcile instead of blindly pulling.`
-- GitHub workflow rule: `Use only main. Commit directly to main and push directly to origin/main. Do not create side branches, revive dev, or use pull request workflows unless the user explicitly asks for an exception in that session.`
+- GitHub workflow rule: `Use only main. Commit directly to main and push directly to origin/main. Do not create side branches, revive dev, or use pull request workflows unless the user explicitly asks for an exception in that session. For risky exploration, detached sandbox worktrees are allowed via tools/New-AgentSandbox.ps1, but final integration still happens on main.`
 - External-agent reconciliation rule: `If outside agent work is mentioned, do not claim the repo is fully assessed or in sync until claimed changes have been compared against local files, local Git history, and the current main branch on GitHub.`
 - If Git is not set up yet for this project, the agent should bootstrap it before doing major feature work.
 

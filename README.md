@@ -32,3 +32,4 @@ Cultivar is a single-app SwiftUI + SwiftData iOS project for plant tracking, car
 - Start with [docs/README.md](C:/Dev/CultivarApp/docs/README.md)
 - Repo-specific workflow lives in [docs/agent/PROJECT_HANDOFF.md](C:/Dev/CultivarApp/docs/agent/PROJECT_HANDOFF.md)
 - Data safety guidance lives in [docs/safety/DATA_SAFETY_CHECKLIST.md](C:/Dev/CultivarApp/docs/safety/DATA_SAFETY_CHECKLIST.md)
+- Risky AI-agent experiments can use detached sandboxes via [docs/agent-sandbox-workflow.md](C:/Dev/CultivarApp/docs/agent-sandbox-workflow.md)
